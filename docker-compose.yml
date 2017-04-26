@@ -1,0 +1,12 @@
+version: '2'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    command: 'bundle exec shotgun -p 3030 -o 0.0.0.0 -s puma'
+    ports:
+      - '3030:3030'
+    environment:
+      RACK_ENV: 'development'
+      LOG_TO_STDOUT: 'true'

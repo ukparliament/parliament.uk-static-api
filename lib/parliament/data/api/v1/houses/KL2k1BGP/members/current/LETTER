@@ -1,0 +1,84 @@
+<http://id.ukpds.org/bxiOOWge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 1" .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 1" .
+<http://id.ukpds.org/bxiOOWge> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 1" .
+<http://id.ukpds.org/bxiOOWge> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 1" .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/WI0WcZ1d> .
+<http://id.ukpds.org/KL2k1BGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
+<http://id.ukpds.org/KL2k1BGP> <http://id.ukpds.org/schema/houseName> "houseName - 1" .
+<http://id.ukpds.org/WI0WcZ1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/WI0WcZ1d> <http://id.ukpds.org/schema/incumbencyEndDate> "1966-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/WI0WcZ1d> <http://id.ukpds.org/schema/incumbencyStartDate> "1964-10-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/dbB0nqxw> .
+<http://id.ukpds.org/dbB0nqxw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/dbB0nqxw> <http://id.ukpds.org/schema/incumbencyEndDate> "1970-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/dbB0nqxw> <http://id.ukpds.org/schema/incumbencyStartDate> "1966-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/M3Z8DTAr> .
+<http://id.ukpds.org/M3Z8DTAr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/M3Z8DTAr> <http://id.ukpds.org/schema/incumbencyEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/M3Z8DTAr> <http://id.ukpds.org/schema/incumbencyStartDate> "1970-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/ZFPnYsGi> .
+<http://id.ukpds.org/ZFPnYsGi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/ZFPnYsGi> <http://id.ukpds.org/schema/incumbencyEndDate> "1974-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZFPnYsGi> <http://id.ukpds.org/schema/incumbencyStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/2AAidK0E> .
+<http://id.ukpds.org/2AAidK0E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/2AAidK0E> <http://id.ukpds.org/schema/incumbencyEndDate> "1979-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2AAidK0E> <http://id.ukpds.org/schema/incumbencyStartDate> "1974-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bxiOOWge> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/jZxjNYsD> .
+<http://id.ukpds.org/jZxjNYsD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/jZxjNYsD> <http://id.ukpds.org/schema/incumbencyEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/jZxjNYsD> <http://id.ukpds.org/schema/incumbencyStartDate> "1979-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/W2fHPpsv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/W2fHPpsv> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 2" .
+<http://id.ukpds.org/W2fHPpsv> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 2" .
+<http://id.ukpds.org/W2fHPpsv> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 2" .
+<http://id.ukpds.org/W2fHPpsv> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 2" .
+<http://id.ukpds.org/W2fHPpsv> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/joNrX1KU> .
+<http://id.ukpds.org/joNrX1KU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/joNrX1KU> <http://id.ukpds.org/schema/incumbencyEndDate> "2001-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/joNrX1KU> <http://id.ukpds.org/schema/incumbencyStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/W2fHPpsv> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/3I22q4QB> .
+<http://id.ukpds.org/3I22q4QB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/3I22q4QB> <http://id.ukpds.org/schema/incumbencyEndDate> "2005-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3I22q4QB> <http://id.ukpds.org/schema/incumbencyStartDate> "2001-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vg3VM0yw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/vg3VM0yw> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 3" .
+<http://id.ukpds.org/vg3VM0yw> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 3" .
+<http://id.ukpds.org/vg3VM0yw> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 3" .
+<http://id.ukpds.org/vg3VM0yw> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 3" .
+<http://id.ukpds.org/vg3VM0yw> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/XENlcB8z> .
+<http://id.ukpds.org/XENlcB8z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/XENlcB8z> <http://id.ukpds.org/schema/incumbencyEndDate> "2001-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XENlcB8z> <http://id.ukpds.org/schema/incumbencyStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vg3VM0yw> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/dRMeFpi4> .
+<http://id.ukpds.org/dRMeFpi4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/dRMeFpi4> <http://id.ukpds.org/schema/incumbencyEndDate> "2005-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/dRMeFpi4> <http://id.ukpds.org/schema/incumbencyStartDate> "2001-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7vk0ZbMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/7vk0ZbMM> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 4" .
+<http://id.ukpds.org/7vk0ZbMM> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 4" .
+<http://id.ukpds.org/7vk0ZbMM> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 4" .
+<http://id.ukpds.org/7vk0ZbMM> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 4" .
+<http://id.ukpds.org/7vk0ZbMM> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/WXkdAD9C> .
+<http://id.ukpds.org/WXkdAD9C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/WXkdAD9C> <http://id.ukpds.org/schema/incumbencyEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/WXkdAD9C> <http://id.ukpds.org/schema/incumbencyStartDate> "1979-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/pZnxsbUJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/pZnxsbUJ> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 5" .
+<http://id.ukpds.org/pZnxsbUJ> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 5" .
+<http://id.ukpds.org/pZnxsbUJ> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 5" .
+<http://id.ukpds.org/pZnxsbUJ> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 5" .
+<http://id.ukpds.org/pZnxsbUJ> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/A39Wo3TO> .
+<http://id.ukpds.org/A39Wo3TO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/A39Wo3TO> <http://id.ukpds.org/schema/incumbencyEndDate> "2001-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/A39Wo3TO> <http://id.ukpds.org/schema/incumbencyStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7n1zOHvl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/7n1zOHvl> <http://id.ukpds.org/schema/personGivenName> "personGivenName - 6" .
+<http://id.ukpds.org/7n1zOHvl> <http://id.ukpds.org/schema/personFamilyName> "personFamilyName - 6" .
+<http://id.ukpds.org/7n1zOHvl> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "F31CBD81AD8343898B49DC65743F0BDF - 6" .
+<http://id.ukpds.org/7n1zOHvl> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "A5EE13ABE03C4D3A8F1A274F57097B6C - 6" .
+<http://id.ukpds.org/7n1zOHvl> <http://id.ukpds.org/schema/memberHasIncumbency> <http://id.ukpds.org/6cxL3eYu> .
+<http://id.ukpds.org/6cxL3eYu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/6cxL3eYu> <http://id.ukpds.org/schema/incumbencyEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/6cxL3eYu> <http://id.ukpds.org/schema/incumbencyStartDate> "2005-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .

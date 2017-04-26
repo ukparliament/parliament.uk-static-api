@@ -1,0 +1,4 @@
+coverage*
+.env
+.idea
+spec/examples.txt
