@@ -12,7 +12,6 @@ RSpec.describe Parliament::APIv1 do
 
   def assert_last_response_matches(expected_data)
     data = JSON.parse(last_response.body)
-    data.delete('information') # this is the v1 API deprecation notice.
     expect(data).to eq(expected_data)
   end
 

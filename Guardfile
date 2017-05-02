@@ -12,6 +12,5 @@ guard :rspec, cmd: 'bundle exec rspec' do
   ruby = dsl.ruby
   dsl.watch_spec_files_for(ruby.lib_files)
 
-  # Bandiera Specific
   watch('lib/parliament.rb') { 'spec' }
 end
