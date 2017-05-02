@@ -1,0 +1,5 @@
+<http://id.ukpds.org/KL2k1BGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
+<http://id.ukpds.org/KL2k1BGP> <http://id.ukpds.org/schema/houseName> "House of Commons" .
+<http://id.ukpds.org/Dit41UlB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/Dit41UlB> <http://id.ukpds.org/schema/partyName> "Green Party" .
+<http://id.ukpds.org/Dit41UlB> <http://id.ukpds.org/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

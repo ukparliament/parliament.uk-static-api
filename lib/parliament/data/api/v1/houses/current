@@ -1,4 +1,4 @@
 <http://id.ukpds.org/KL2k1BGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
-<http://id.ukpds.org/KL2k1BGP> <http://id.ukpds.org/schema/houseName> "houseName - 1" .
+<http://id.ukpds.org/KL2k1BGP> <http://id.ukpds.org/schema/houseName> "House of Commons" .
 <http://id.ukpds.org/m1EgVTLj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
-<http://id.ukpds.org/m1EgVTLj> <http://id.ukpds.org/schema/houseName> "houseName - 2" .
+<http://id.ukpds.org/m1EgVTLj> <http://id.ukpds.org/schema/houseName> "House of Lords" .

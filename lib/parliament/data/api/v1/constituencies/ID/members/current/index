@@ -1,0 +1,13 @@
+<http://id.ukpds.org/vUPobpVT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/vUPobpVT> <http://id.ukpds.org/schema/constituencyGroupName> "Aberdeen North" .
+<http://id.ukpds.org/vUPobpVT> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2005-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vUPobpVT> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/g484XG5F> .
+<http://id.ukpds.org/g484XG5F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/g484XG5F> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/YOdbl0G0> .
+<http://id.ukpds.org/YOdbl0G0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/YOdbl0G0> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/tDzpbTmd> .
+<http://id.ukpds.org/YOdbl0G0> <http://id.ukpds.org/schema/incumbencyStartDate> "2015-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/tDzpbTmd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/tDzpbTmd> <http://id.ukpds.org/schema/personGivenName> "Kirsty" .
+<http://id.ukpds.org/tDzpbTmd> <http://id.ukpds.org/schema/personFamilyName> "Blackman" .
+<http://id.ukpds.org/tDzpbTmd> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Kirsty Blackman" .
