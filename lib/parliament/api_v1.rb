@@ -370,6 +370,16 @@ module Parliament
       end
     end
 
+    namespace '/postcodes' do
+      get '/:postcode' do
+        @postcode = params[:postcode]
+
+        path = request.path_info.gsub!(%r{#{@postcode}}, 'ID')
+
+        respond(path)
+      end
+    end
+
     get '/*' do
       respond(request.path_info)
     end
@@ -391,7 +401,7 @@ module Parliament
     end
 
     def ntriple_response(path)
-      send_file(path, type: 'application/n-tiples', disposition: 'inline')
+      send_file(path, type: 'application/n-triples', disposition: 'inline')
     end
 
     def id_param(param)
