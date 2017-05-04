@@ -291,6 +291,18 @@ module Parliament
     end
 
     namespace '/constituencies' do
+      namespace '/postcode_lookup' do
+        namespace '/:postcode' do
+          get do
+            @postcode = params[:postcode]
+
+            path = request.path_info.gsub!(%r{#{@postcode}}, 'ID')
+
+            respond(path)
+          end
+        end
+      end
+
       get '/a_z_letters' do
         respond(request.path_info)
       end
@@ -367,16 +379,6 @@ module Parliament
 
           respond(path)
         end
-      end
-    end
-
-    namespace '/postcodes' do
-      get '/:postcode' do
-        @postcode = params[:postcode]
-
-        path = request.path_info.gsub!(%r{#{@postcode}}, 'ID')
-
-        respond(path)
       end
     end
 
