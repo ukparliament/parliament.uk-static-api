@@ -389,7 +389,6 @@ module Parliament
     private
 
     def respond(path)
-      puts path
       file_path = File.join(settings.public_folder, 'api', 'v1', path)
       file_exists = File.file?(file_path)
 
@@ -403,6 +402,7 @@ module Parliament
     end
 
     def ntriple_response(path)
+      puts "SERVING FILE: #{path}"
       send_file(path, type: 'application/n-triples', disposition: 'inline')
     end
 
