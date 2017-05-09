@@ -402,6 +402,7 @@ module Parliament
     end
 
     def ntriple_response(path)
+      puts "SERVING FILE: #{path}"
       send_file(path, type: 'application/n-triples', disposition: 'inline')
     end
 
