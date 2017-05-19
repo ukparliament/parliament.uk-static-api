@@ -370,6 +370,315 @@ module Parliament
       end
     end
 
+    namespace '/parliaments' do
+      namespace '/current' do
+        get do
+          respond(request.path_info)
+        end
+      end
+
+      namespace '/next' do
+        get do
+          respond(request.path_info)
+        end
+      end
+
+      namespace '/previous' do
+        get do
+          respond(request.path_info)
+        end
+      end
+
+      namespace '/:parliament_id' do
+        namespace '/next' do
+          get do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+        end
+
+        namespace '/previous' do
+          get do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+        end
+
+        namespace '/members' do
+          namespace '/houses' do
+            namespace '/:house_id' do
+              get '/a_z_letters' do
+                @parliament_id = id_param(params[:parliament_id])
+                @house_id = id_param(params[:house_id])
+
+                path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID')
+
+                respond(path)
+              end
+
+              get '/:letter' do
+                @parliament_id = id_param(params[:parliament_id])
+                @house_id = id_param(params([:house_id]))
+
+                path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID')
+
+                empty_letters = ['x', 'y']
+
+                @letter = params[:letter]
+
+                letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+                path = request.path_info.gsub!(%r{#{@letter}\Z}, letter_file)
+
+                respond(path)
+              end
+
+              get do
+                @house_id = id_param(params[:house_id])
+                @parliament_id = id_param(params[:parliament_id])
+
+                path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID')
+
+                respond(path)
+              end
+            end
+
+            get '/a_z_letters' do
+              @parliament_id = id_param(params[:parliament_id])
+
+              path = request.path_info.gsub!(@parliament_id, 'ID')
+
+              respond(path)
+            end
+
+            get '/:letter' do
+              @parliament_id = id_param(params[:parliament_id])
+
+              path = request.path_info.gsub!(@parliament_id, 'ID')
+
+              empty_letters = ['x', 'y']
+
+              @letter = params[:letter]
+
+              letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+              path = request.path_info.gsub!(%r{#{@letter}\Z}, letter_file)
+
+              respond(path)
+            end
+
+            get do
+              @parliament_id = id_param(params[:parliament_id])
+
+              path = request.path_info.gsub!(@parliament_id, 'ID')
+
+              respond(path)
+            end
+          end
+
+          get '/a_z_letters' do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+
+          get '/:letter' do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            empty_letters = ['x', 'y']
+
+            @letter = params[:letter]
+
+            letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+            path = request.path_info.gsub!(%r{#{@letter}\Z}, letter_file)
+
+            respond(path)
+          end
+
+          get do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+        end
+
+        namespace '/parties' do
+          namespace '/:party_id' do
+            namespace '/members' do
+              get '/a_z_letters' do
+                @party_id = id_param(params[:party_id])
+                @parliament_id = id_param(params[:parliament_id])
+
+                path = request.path_info.gsub!(@party_id, 'ID').gsub!(@parliament_id, 'ID')
+
+                respond(path)
+              end
+
+              get '/:letter' do
+                @party_id = id_param(params[:party_id])
+                @parliament_id = id_param(params[:parliament_id])
+
+                path = request.path_info.gsub!(@party_id, 'ID').gsub!(@parliament_id, 'ID')
+
+                empty_letters = ['x', 'y']
+
+                @letter = params[:letter]
+
+                letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+                path = request.path_info.gsub!(%r{#{@letter}\Z}, letter_file)
+
+                respond(path)
+              end
+
+              get do
+                @parliament_id = id_param(params[:parliament_id])
+                @party_id = id_param(params[:party_id])
+
+                path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@party_id, 'ID')
+                
+                respond(path) 
+              end
+            end
+
+            namespace '/houses' do
+              namespace '/:house_id' do
+                namespace '/members' do
+                  get '/a_z_letters' do
+                    @parliament_id = id_param(params[:parliament_id])
+                    @party_id = id_param(params[:party_id])
+                    @house_id = id_param(params[:house_id])
+
+                    path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID').gsub!(@party_id, 'ID')
+
+                    respond(path)
+                  end
+
+                  get '/:letter' do
+                    @parliament_id = id_param(params[:parliament_id])
+                    @party_id = id_param(params[:party_id])
+                    @house_id = id_param(params[:house_id])
+
+                    path = request.path_info.gsub!(@house_id, 'ID').gsub!(@party_id, 'ID').gsub!(@parliament_id, 'ID')
+
+                    empty_letters = ['x', 'y']
+
+                    @letter = params[:letter]
+
+                    letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+                    path = path.gsub!(%r{#{@letter}\Z}, letter_file)
+
+                    respond(path)
+                  end
+
+                  get do
+                    @parliament_id = id_param(params[:parliament_id])
+                    @party_id = id_param(params[:party_id])
+                    @house_id = id_param(params[:house_id])
+
+                    path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID').gsub!(@party_id, 'ID')
+                  
+                    respond(path) 
+                  end
+                end
+
+                get do
+                  @parliament_id = id_param(params[:parliament_id])
+                  @party_id = id_param(params[:party_id])
+                  @house_id = id_param(params[:house_id])
+
+                  path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@house_id, 'ID').gsub!(@party_id, 'ID')
+                  respond(path)
+                end
+              end
+
+              get do
+                @parliament_id = id_param(params[:parliament_id])
+                @party_id = id_param(params[:party_id])
+   
+                path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@party_id, 'ID')
+   
+                respond(path) 
+              end
+            end
+
+            get do
+              @parliament_id = id_param(params[:parliament_id])
+              @party_id = id_param(params[:party_id])
+
+              path = request.path_info.gsub!(@parliament_id, 'ID').gsub!(@party_id, 'ID')
+
+              respond(path)
+            end
+          end
+
+          get do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+        end
+
+        namespace '/constituencies' do
+          get '/a_z_letters' do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+
+          get '/:letter' do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            empty_letters = ['x', 'y']
+
+            @letter = params[:letter]
+
+            letter_file = empty_letters.include?(@letter) ? 'EMPTY_LETTER' : 'LETTER'
+
+            path = request.path_info.gsub!(%r{#{@letter}\Z}, letter_file)
+
+            respond(path)
+          end
+
+          get do
+            @parliament_id = id_param(params[:parliament_id])
+
+            path = request.path_info.gsub!(@parliament_id, 'ID')
+
+            respond(path)
+          end
+        end
+
+        get do
+          @parliament_id = id_param(params[:parliament_id])
+
+          path = request.path_info.gsub!(@parliament_id, 'ID')
+
+          respond(path)
+        end
+      end
+    end
+
     namespace '/contact_points' do
       namespace '/:contact_point_id' do
         get do
