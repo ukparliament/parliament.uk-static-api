@@ -18,6 +18,18 @@ module Parliament
       'Welcome to the static Parliament API'
     end
 
+    namespace '/media' do
+      namespace '/:media_id' do
+        get do
+          @media_id = id_param(params[:media_id])
+
+          path = request.path_info.gsub!(@media_id, 'ID')
+
+          respond(path)
+        end
+      end
+    end
+
     namespace '/houses' do
       namespace '/:house_id' do
         namespace '/members' do
@@ -150,17 +162,17 @@ module Parliament
       end
 
       namespace '/:person_id' do
-        get '/*' do
+        namespace '/constituencies' do
+          namespace '/current' do
+          end
+        end
+
+        get do
           @person_id = id_param(params[:person_id])
 
           path = request.path_info.gsub!(@person_id, 'ID')
 
           respond(path)
-        end
-
-        namespace '/constituencies' do
-          namespace '/current' do
-          end
         end
       end
 
@@ -687,6 +699,7 @@ module Parliament
 
     def respond(path)
       file_path = File.join(settings.public_folder, 'api', 'v1', path)
+      
       file_exists = File.file?(file_path)
 
       if file_exists
