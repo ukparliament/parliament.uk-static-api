@@ -1,0 +1,7 @@
+<http://id.ukpds.org/7TX8ySd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/7TX8ySd4> <http://id.ukpds.org/schema/personGivenName> "Diane" .
+<http://id.ukpds.org/7TX8ySd4> <http://id.ukpds.org/schema/personFamilyName> "Abbott" .
+<http://id.ukpds.org/7TX8ySd4> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ms Diane Abbott" .
+<http://id.ukpds.org/7TX8ySd4> <http://example.com/D79B0BAC513C4A9A87C9D5AFF1FC632F> "Rt Hon Diane Abbott MP" .
+<http://id.ukpds.org/7TX8ySd4> <http://id.ukpds.org/schema/personHasImage> <http://id.ukpds.org/12345678> .
+<http://id.ukpds.org/12345678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Image> .

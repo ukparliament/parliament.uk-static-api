@@ -150,17 +150,30 @@ module Parliament
       end
 
       namespace '/:person_id' do
-        get '/*' do
-          @person_id = id_param(params[:person_id])
+        namespace '/media' do
+          namespace '/:media_id' do
+            get do
+              @person_id = id_param(params[:person_id])
+              @media_id = id_param(params[:media_id])
 
-          path = request.path_info.gsub!(@person_id, 'ID')
+              path = request.path_info.gsub!(@person_id, 'ID').gsub!(@media_id, 'ID')
 
-          respond(path)
+              respond(path)
+            end
+          end
         end
 
         namespace '/constituencies' do
           namespace '/current' do
           end
+        end
+
+        get do
+          @person_id = id_param(params[:person_id])
+
+          path = request.path_info.gsub!(@person_id, 'ID')
+
+          respond(path)
         end
       end
 
@@ -687,6 +700,8 @@ module Parliament
 
     def respond(path)
       file_path = File.join(settings.public_folder, 'api', 'v1', path)
+
+      p path
       file_exists = File.file?(file_path)
 
       if file_exists
