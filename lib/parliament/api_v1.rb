@@ -139,6 +139,12 @@ module Parliament
         respond(request.path_info)
       end
 
+      namespace '/mps' do
+        get do
+          respond(request.path_info)
+        end
+      end
+
       # get either an ID or a letter parameter for the people/:id path 
       # Sinatra assumes we are passing in a letter so we manually check what the parameter
       get '/:id_or_letter' do
@@ -699,7 +705,7 @@ module Parliament
 
     def respond(path)
       file_path = File.join(settings.public_folder, 'api', 'v1', path)
-      
+
       file_exists = File.file?(file_path)
 
       if file_exists
