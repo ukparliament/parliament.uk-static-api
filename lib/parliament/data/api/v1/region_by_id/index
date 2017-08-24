@@ -1,0 +1,61 @@
+<http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/EuropeanRegion> .
+<http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://data.ordnancesurvey.co.uk/ontology/admingeo/gssCode> "E15000001" .
+<http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://www.w3.org/2004/02/skos/core#prefLabel> "North East " .
+<http://id.ukpds.org/3Jslgkoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/3Jslgkoi> <http://id.ukpds.org/schema/constituencyGroupName> "Hexham" .
+<http://id.ukpds.org/lilHqajH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lilHqajH> <http://id.ukpds.org/schema/constituencyGroupName> "Berwick-upon-Tweed" .
+<http://id.ukpds.org/tHps53s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/tHps53s1> <http://id.ukpds.org/schema/constituencyGroupName> "Bishop Auckland" .
+<http://id.ukpds.org/wnYSNNV2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/wnYSNNV2> <http://id.ukpds.org/schema/constituencyGroupName> "City of Durham" .
+<http://id.ukpds.org/V2YjR81Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/V2YjR81Q> <http://id.ukpds.org/schema/constituencyGroupName> "North West Durham" .
+<http://id.ukpds.org/k5YHgoKV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/k5YHgoKV> <http://id.ukpds.org/schema/constituencyGroupName> "Sedgefield" .
+<http://id.ukpds.org/c4IVLpfH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/c4IVLpfH> <http://id.ukpds.org/schema/constituencyGroupName> "Blaydon" .
+<http://id.ukpds.org/lnYPi5fx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lnYPi5fx> <http://id.ukpds.org/schema/constituencyGroupName> "Gateshead" .
+<http://id.ukpds.org/B3VRHw1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/B3VRHw1v> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne Central" .
+<http://id.ukpds.org/v5iIPpFj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/v5iIPpFj> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne North" .
+<http://id.ukpds.org/jUScmdRr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/jUScmdRr> <http://id.ukpds.org/schema/constituencyGroupName> "North Durham" .
+<http://id.ukpds.org/IvuCDjhK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/IvuCDjhK> <http://id.ukpds.org/schema/constituencyGroupName> "Washington and Sunderland West" .
+<http://id.ukpds.org/sh7pCeME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/sh7pCeME> <http://id.ukpds.org/schema/constituencyGroupName> "Blyth Valley" .
+<http://id.ukpds.org/FdwScNAg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/FdwScNAg> <http://id.ukpds.org/schema/constituencyGroupName> "North Tyneside" .
+<http://id.ukpds.org/s4y07hCQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/s4y07hCQ> <http://id.ukpds.org/schema/constituencyGroupName> "Tynemouth" .
+<http://id.ukpds.org/5jcogAlB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/5jcogAlB> <http://id.ukpds.org/schema/constituencyGroupName> "Wansbeck" .
+<http://id.ukpds.org/TE5zDsAy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/TE5zDsAy> <http://id.ukpds.org/schema/constituencyGroupName> "Easington" .
+<http://id.ukpds.org/KV8Sx9tq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/KV8Sx9tq> <http://id.ukpds.org/schema/constituencyGroupName> "Houghton and Sunderland South" .
+<http://id.ukpds.org/VzzyOra3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VzzyOra3> <http://id.ukpds.org/schema/constituencyGroupName> "Darlington" .
+<http://id.ukpds.org/xWmJ4Xfw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/xWmJ4Xfw> <http://id.ukpds.org/schema/constituencyGroupName> "Hartlepool" .
+<http://id.ukpds.org/9iCLloTz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/9iCLloTz> <http://id.ukpds.org/schema/constituencyGroupName> "Sunderland Central" .
+<http://id.ukpds.org/XaGrBZMY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/XaGrBZMY> <http://id.ukpds.org/schema/constituencyGroupName> "Jarrow" .
+<http://id.ukpds.org/1rODOHME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/1rODOHME> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne East" .
+<http://id.ukpds.org/L4g2oH92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/L4g2oH92> <http://id.ukpds.org/schema/constituencyGroupName> "Redcar" .
+<http://id.ukpds.org/rVErgZzr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/rVErgZzr> <http://id.ukpds.org/schema/constituencyGroupName> "Stockton North" .
+<http://id.ukpds.org/RlVdNiT8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/RlVdNiT8> <http://id.ukpds.org/schema/constituencyGroupName> "South Shields" .
+<http://id.ukpds.org/991DbrXo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/991DbrXo> <http://id.ukpds.org/schema/constituencyGroupName> "Middlesbrough" .
+<http://id.ukpds.org/Ns0XOfyE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Ns0XOfyE> <http://id.ukpds.org/schema/constituencyGroupName> "Middlesbrough South and East Cleveland" .
+<http://id.ukpds.org/TloZQRIl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/TloZQRIl> <http://id.ukpds.org/schema/constituencyGroupName> "Stockton South" .

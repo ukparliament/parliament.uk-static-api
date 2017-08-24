@@ -1,61 +1,437 @@
 <http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/EuropeanRegion> .
 <http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://data.ordnancesurvey.co.uk/ontology/admingeo/gssCode> "E15000001" .
 <http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://www.w3.org/2004/02/skos/core#prefLabel> "North East " .
+<http://data.ordnancesurvey.co.uk/id/7000000000041422> <http://id.ukpds.org/schema/count> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://id.ukpds.org/3Jslgkoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/3Jslgkoi> <http://id.ukpds.org/schema/constituencyGroupName> "Hexham" .
+<http://id.ukpds.org/3Jslgkoi> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/4UA2quGo> .
+<http://id.ukpds.org/4UA2quGo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/4UA2quGo> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Pz7LgJqu> .
+<http://id.ukpds.org/Pz7LgJqu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/Pz7LgJqu> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/b4mJgTZq> .
+<http://id.ukpds.org/b4mJgTZq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/b4mJgTZq> <http://id.ukpds.org/schema/personGivenName> "Guy" .
+<http://id.ukpds.org/b4mJgTZq> <http://id.ukpds.org/schema/personFamilyName> "Opperman" .
+<http://id.ukpds.org/b4mJgTZq> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Guy Opperman" .
+<http://id.ukpds.org/b4mJgTZq> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/1UDAEEv3> .
+<http://id.ukpds.org/1UDAEEv3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/1UDAEEv3> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
 <http://id.ukpds.org/lilHqajH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/lilHqajH> <http://id.ukpds.org/schema/constituencyGroupName> "Berwick-upon-Tweed" .
+<http://id.ukpds.org/lilHqajH> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/1GDcpwh5> .
+<http://id.ukpds.org/1GDcpwh5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/1GDcpwh5> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/srT3mikh> .
+<http://id.ukpds.org/srT3mikh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/srT3mikh> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/gWywm77I> .
+<http://id.ukpds.org/gWywm77I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/gWywm77I> <http://id.ukpds.org/schema/personGivenName> "Anne-Marie" .
+<http://id.ukpds.org/gWywm77I> <http://id.ukpds.org/schema/personFamilyName> "Trevelyan" .
+<http://id.ukpds.org/gWywm77I> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Anne-Marie Trevelyan" .
+<http://id.ukpds.org/gWywm77I> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/7KjME7am> .
+<http://id.ukpds.org/7KjME7am> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/7KjME7am> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
 <http://id.ukpds.org/tHps53s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/tHps53s1> <http://id.ukpds.org/schema/constituencyGroupName> "Bishop Auckland" .
+<http://id.ukpds.org/tHps53s1> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/KC1cfnHG> .
+<http://id.ukpds.org/KC1cfnHG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/KC1cfnHG> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/7XlMMqby> .
+<http://id.ukpds.org/7XlMMqby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/7XlMMqby> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/cI6zkoRy> .
+<http://id.ukpds.org/cI6zkoRy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/cI6zkoRy> <http://id.ukpds.org/schema/personGivenName> "Helen" .
+<http://id.ukpds.org/cI6zkoRy> <http://id.ukpds.org/schema/personFamilyName> "Goodman" .
+<http://id.ukpds.org/cI6zkoRy> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Helen Goodman" .
+<http://id.ukpds.org/cI6zkoRy> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/C9hMRmr7> .
+<http://id.ukpds.org/C9hMRmr7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/C9hMRmr7> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/891w1b1k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/partyName> "Labour" .
 <http://id.ukpds.org/wnYSNNV2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/wnYSNNV2> <http://id.ukpds.org/schema/constituencyGroupName> "City of Durham" .
+<http://id.ukpds.org/wnYSNNV2> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/fzAwAf2L> .
+<http://id.ukpds.org/fzAwAf2L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/fzAwAf2L> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/tceF4Ihv> .
+<http://id.ukpds.org/tceF4Ihv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/tceF4Ihv> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/AUuyvQi7> .
+<http://id.ukpds.org/AUuyvQi7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/AUuyvQi7> <http://id.ukpds.org/schema/personGivenName> "Roberta" .
+<http://id.ukpds.org/AUuyvQi7> <http://id.ukpds.org/schema/personFamilyName> "Blackman-Woods" .
+<http://id.ukpds.org/AUuyvQi7> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Dr Roberta Blackman-Woods" .
+<http://id.ukpds.org/AUuyvQi7> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/A6dcjZIt> .
+<http://id.ukpds.org/A6dcjZIt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/A6dcjZIt> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/V2YjR81Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/V2YjR81Q> <http://id.ukpds.org/schema/constituencyGroupName> "North West Durham" .
+<http://id.ukpds.org/V2YjR81Q> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/JfE9r5UX> .
+<http://id.ukpds.org/JfE9r5UX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/JfE9r5UX> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/EZc7LTMK> .
+<http://id.ukpds.org/EZc7LTMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/EZc7LTMK> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/qB0kE3ok> .
+<http://id.ukpds.org/qB0kE3ok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/qB0kE3ok> <http://id.ukpds.org/schema/personGivenName> "Laura" .
+<http://id.ukpds.org/qB0kE3ok> <http://id.ukpds.org/schema/personFamilyName> "Pidcock" .
+<http://id.ukpds.org/qB0kE3ok> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Laura Pidcock" .
+<http://id.ukpds.org/qB0kE3ok> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/MtHsBVHt> .
+<http://id.ukpds.org/MtHsBVHt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/MtHsBVHt> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/k5YHgoKV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/k5YHgoKV> <http://id.ukpds.org/schema/constituencyGroupName> "Sedgefield" .
+<http://id.ukpds.org/k5YHgoKV> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/xhC7Lw7V> .
+<http://id.ukpds.org/xhC7Lw7V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/xhC7Lw7V> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/ecNhOylP> .
+<http://id.ukpds.org/ecNhOylP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/ecNhOylP> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/YsSBKWYy> .
+<http://id.ukpds.org/YsSBKWYy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/YsSBKWYy> <http://id.ukpds.org/schema/personGivenName> "Philip" .
+<http://id.ukpds.org/YsSBKWYy> <http://id.ukpds.org/schema/personFamilyName> "Wilson" .
+<http://id.ukpds.org/YsSBKWYy> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Phil Wilson" .
+<http://id.ukpds.org/YsSBKWYy> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/rQHfOK3h> .
+<http://id.ukpds.org/rQHfOK3h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/rQHfOK3h> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/c4IVLpfH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/c4IVLpfH> <http://id.ukpds.org/schema/constituencyGroupName> "Blaydon" .
+<http://id.ukpds.org/c4IVLpfH> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/TsNro2bJ> .
+<http://id.ukpds.org/TsNro2bJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/TsNro2bJ> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/3aFAkyv3> .
+<http://id.ukpds.org/3aFAkyv3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/3aFAkyv3> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/LkJd35BN> .
+<http://id.ukpds.org/LkJd35BN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/LkJd35BN> <http://id.ukpds.org/schema/personGivenName> "Mary" .
+<http://id.ukpds.org/LkJd35BN> <http://id.ukpds.org/schema/personFamilyName> "Twist" .
+<http://id.ukpds.org/LkJd35BN> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Liz Twist" .
+<http://id.ukpds.org/LkJd35BN> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/DxV5cFHR> .
+<http://id.ukpds.org/DxV5cFHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/DxV5cFHR> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/lnYPi5fx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/lnYPi5fx> <http://id.ukpds.org/schema/constituencyGroupName> "Gateshead" .
+<http://id.ukpds.org/lnYPi5fx> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/w6TkxHRB> .
+<http://id.ukpds.org/w6TkxHRB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/w6TkxHRB> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/JmcT5DoS> .
+<http://id.ukpds.org/JmcT5DoS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/JmcT5DoS> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ps7mceVR> .
+<http://id.ukpds.org/ps7mceVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ps7mceVR> <http://id.ukpds.org/schema/personGivenName> "James" .
+<http://id.ukpds.org/ps7mceVR> <http://id.ukpds.org/schema/personFamilyName> "Mearns" .
+<http://id.ukpds.org/ps7mceVR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ian Mearns" .
+<http://id.ukpds.org/ps7mceVR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/QxgxZ2rp> .
+<http://id.ukpds.org/QxgxZ2rp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/QxgxZ2rp> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/B3VRHw1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/B3VRHw1v> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne Central" .
+<http://id.ukpds.org/B3VRHw1v> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/oNXb9taI> .
+<http://id.ukpds.org/oNXb9taI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/oNXb9taI> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/AqngK6La> .
+<http://id.ukpds.org/AqngK6La> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/AqngK6La> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/IOvGnP9g> .
+<http://id.ukpds.org/IOvGnP9g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/IOvGnP9g> <http://id.ukpds.org/schema/personGivenName> "Chi" .
+<http://id.ukpds.org/IOvGnP9g> <http://id.ukpds.org/schema/personFamilyName> "Onwurah" .
+<http://id.ukpds.org/IOvGnP9g> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Chi Onwurah" .
+<http://id.ukpds.org/IOvGnP9g> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/JKThG4I4> .
+<http://id.ukpds.org/JKThG4I4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/JKThG4I4> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/v5iIPpFj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/v5iIPpFj> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne North" .
+<http://id.ukpds.org/v5iIPpFj> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/UbM5el2q> .
+<http://id.ukpds.org/UbM5el2q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/UbM5el2q> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/T8aK27Y8> .
+<http://id.ukpds.org/T8aK27Y8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/T8aK27Y8> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/p0hnceSP> .
+<http://id.ukpds.org/p0hnceSP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/p0hnceSP> <http://id.ukpds.org/schema/personGivenName> "Catherine" .
+<http://id.ukpds.org/p0hnceSP> <http://id.ukpds.org/schema/personFamilyName> "McKinnell" .
+<http://id.ukpds.org/p0hnceSP> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Catherine McKinnell" .
+<http://id.ukpds.org/p0hnceSP> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/SDDD1I3e> .
+<http://id.ukpds.org/SDDD1I3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/SDDD1I3e> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/jUScmdRr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/jUScmdRr> <http://id.ukpds.org/schema/constituencyGroupName> "North Durham" .
+<http://id.ukpds.org/jUScmdRr> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/fp68HyK6> .
+<http://id.ukpds.org/fp68HyK6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/fp68HyK6> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Td05H1KZ> .
+<http://id.ukpds.org/Td05H1KZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/Td05H1KZ> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/gbWlw2Cf> .
+<http://id.ukpds.org/gbWlw2Cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/gbWlw2Cf> <http://id.ukpds.org/schema/personGivenName> "Kevan" .
+<http://id.ukpds.org/gbWlw2Cf> <http://id.ukpds.org/schema/personFamilyName> "Jones" .
+<http://id.ukpds.org/gbWlw2Cf> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Kevan Jones" .
+<http://id.ukpds.org/gbWlw2Cf> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/jjsVt229> .
+<http://id.ukpds.org/jjsVt229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/jjsVt229> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/IvuCDjhK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/IvuCDjhK> <http://id.ukpds.org/schema/constituencyGroupName> "Washington and Sunderland West" .
+<http://id.ukpds.org/IvuCDjhK> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/pb4llbYL> .
+<http://id.ukpds.org/pb4llbYL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/pb4llbYL> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/ThCLi7e7> .
+<http://id.ukpds.org/ThCLi7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/ThCLi7e7> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ujQQoR5P> .
+<http://id.ukpds.org/ujQQoR5P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ujQQoR5P> <http://id.ukpds.org/schema/personGivenName> "Sharon" .
+<http://id.ukpds.org/ujQQoR5P> <http://id.ukpds.org/schema/personFamilyName> "Hodgson" .
+<http://id.ukpds.org/ujQQoR5P> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Sharon Hodgson" .
+<http://id.ukpds.org/ujQQoR5P> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/W2xCrWio> .
+<http://id.ukpds.org/W2xCrWio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/W2xCrWio> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/sh7pCeME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/sh7pCeME> <http://id.ukpds.org/schema/constituencyGroupName> "Blyth Valley" .
+<http://id.ukpds.org/sh7pCeME> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/DBdbJTYu> .
+<http://id.ukpds.org/DBdbJTYu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/DBdbJTYu> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/5J6Q1IJT> .
+<http://id.ukpds.org/5J6Q1IJT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/5J6Q1IJT> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/JFLi918K> .
+<http://id.ukpds.org/JFLi918K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/JFLi918K> <http://id.ukpds.org/schema/personGivenName> "Ronnie" .
+<http://id.ukpds.org/JFLi918K> <http://id.ukpds.org/schema/personFamilyName> "Campbell" .
+<http://id.ukpds.org/JFLi918K> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Ronnie Campbell" .
+<http://id.ukpds.org/JFLi918K> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/0Boucyw3> .
+<http://id.ukpds.org/0Boucyw3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/0Boucyw3> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/FdwScNAg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/FdwScNAg> <http://id.ukpds.org/schema/constituencyGroupName> "North Tyneside" .
+<http://id.ukpds.org/FdwScNAg> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/YyK6W3nx> .
+<http://id.ukpds.org/YyK6W3nx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/YyK6W3nx> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/EBBAdo3r> .
+<http://id.ukpds.org/EBBAdo3r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/EBBAdo3r> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/NAEajXgr> .
+<http://id.ukpds.org/NAEajXgr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/NAEajXgr> <http://id.ukpds.org/schema/personGivenName> "Mary" .
+<http://id.ukpds.org/NAEajXgr> <http://id.ukpds.org/schema/personFamilyName> "Glindon" .
+<http://id.ukpds.org/NAEajXgr> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mary Glindon" .
+<http://id.ukpds.org/NAEajXgr> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/uxyoBU73> .
+<http://id.ukpds.org/uxyoBU73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/uxyoBU73> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/s4y07hCQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/s4y07hCQ> <http://id.ukpds.org/schema/constituencyGroupName> "Tynemouth" .
+<http://id.ukpds.org/s4y07hCQ> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/vU0fkeiS> .
+<http://id.ukpds.org/vU0fkeiS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/vU0fkeiS> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/iifKQ4bj> .
+<http://id.ukpds.org/iifKQ4bj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/iifKQ4bj> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/1WmZP0zH> .
+<http://id.ukpds.org/1WmZP0zH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/1WmZP0zH> <http://id.ukpds.org/schema/personGivenName> "Alan" .
+<http://id.ukpds.org/1WmZP0zH> <http://id.ukpds.org/schema/personFamilyName> "Campbell" .
+<http://id.ukpds.org/1WmZP0zH> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Alan Campbell" .
+<http://id.ukpds.org/1WmZP0zH> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/9JZzeNDg> .
+<http://id.ukpds.org/9JZzeNDg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/9JZzeNDg> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/5jcogAlB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/5jcogAlB> <http://id.ukpds.org/schema/constituencyGroupName> "Wansbeck" .
+<http://id.ukpds.org/5jcogAlB> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/662RNbNd> .
+<http://id.ukpds.org/662RNbNd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/662RNbNd> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/BW2LRdqR> .
+<http://id.ukpds.org/BW2LRdqR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/BW2LRdqR> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/bbwvl2k9> .
+<http://id.ukpds.org/bbwvl2k9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/bbwvl2k9> <http://id.ukpds.org/schema/personGivenName> "Ian" .
+<http://id.ukpds.org/bbwvl2k9> <http://id.ukpds.org/schema/personFamilyName> "Lavery" .
+<http://id.ukpds.org/bbwvl2k9> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ian Lavery" .
+<http://id.ukpds.org/bbwvl2k9> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/34DbmBsf> .
+<http://id.ukpds.org/34DbmBsf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/34DbmBsf> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/TE5zDsAy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/TE5zDsAy> <http://id.ukpds.org/schema/constituencyGroupName> "Easington" .
+<http://id.ukpds.org/TE5zDsAy> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/BXvZAOJ5> .
+<http://id.ukpds.org/BXvZAOJ5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/BXvZAOJ5> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/KmgYwKjn> .
+<http://id.ukpds.org/KmgYwKjn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/KmgYwKjn> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/p4GLRyp1> .
+<http://id.ukpds.org/p4GLRyp1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/p4GLRyp1> <http://id.ukpds.org/schema/personGivenName> "Grahame" .
+<http://id.ukpds.org/p4GLRyp1> <http://id.ukpds.org/schema/personFamilyName> "Morris" .
+<http://id.ukpds.org/p4GLRyp1> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Grahame Morris" .
+<http://id.ukpds.org/p4GLRyp1> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/WIrdkUV7> .
+<http://id.ukpds.org/WIrdkUV7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/WIrdkUV7> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/KV8Sx9tq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/KV8Sx9tq> <http://id.ukpds.org/schema/constituencyGroupName> "Houghton and Sunderland South" .
+<http://id.ukpds.org/KV8Sx9tq> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/t24sTZtB> .
+<http://id.ukpds.org/t24sTZtB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/t24sTZtB> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/jGcWjPls> .
+<http://id.ukpds.org/jGcWjPls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/jGcWjPls> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/sExgncOb> .
+<http://id.ukpds.org/sExgncOb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/sExgncOb> <http://id.ukpds.org/schema/personGivenName> "Bridget" .
+<http://id.ukpds.org/sExgncOb> <http://id.ukpds.org/schema/personFamilyName> "Phillipson" .
+<http://id.ukpds.org/sExgncOb> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Bridget Phillipson" .
+<http://id.ukpds.org/sExgncOb> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/sUUg7BlK> .
+<http://id.ukpds.org/sUUg7BlK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/sUUg7BlK> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/VzzyOra3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/VzzyOra3> <http://id.ukpds.org/schema/constituencyGroupName> "Darlington" .
+<http://id.ukpds.org/VzzyOra3> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/toqxvqlN> .
+<http://id.ukpds.org/toqxvqlN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/toqxvqlN> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/XYNNTwrI> .
+<http://id.ukpds.org/XYNNTwrI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/XYNNTwrI> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ZMHSVDBR> .
+<http://id.ukpds.org/ZMHSVDBR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ZMHSVDBR> <http://id.ukpds.org/schema/personGivenName> "Jennifer" .
+<http://id.ukpds.org/ZMHSVDBR> <http://id.ukpds.org/schema/personFamilyName> "Chapman" .
+<http://id.ukpds.org/ZMHSVDBR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Jenny Chapman" .
+<http://id.ukpds.org/ZMHSVDBR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/yZHDLtuY> .
+<http://id.ukpds.org/yZHDLtuY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/yZHDLtuY> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/xWmJ4Xfw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/xWmJ4Xfw> <http://id.ukpds.org/schema/constituencyGroupName> "Hartlepool" .
+<http://id.ukpds.org/xWmJ4Xfw> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/5Ouwsfss> .
+<http://id.ukpds.org/5Ouwsfss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/5Ouwsfss> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/pleeufvq> .
+<http://id.ukpds.org/pleeufvq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/pleeufvq> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/fG4QwxIP> .
+<http://id.ukpds.org/fG4QwxIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/fG4QwxIP> <http://id.ukpds.org/schema/personGivenName> "Michael" .
+<http://id.ukpds.org/fG4QwxIP> <http://id.ukpds.org/schema/personFamilyName> "Hill" .
+<http://id.ukpds.org/fG4QwxIP> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mike Hill" .
+<http://id.ukpds.org/fG4QwxIP> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/HO1PrSDr> .
+<http://id.ukpds.org/HO1PrSDr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/HO1PrSDr> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/9iCLloTz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/9iCLloTz> <http://id.ukpds.org/schema/constituencyGroupName> "Sunderland Central" .
+<http://id.ukpds.org/9iCLloTz> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/pIzwImYs> .
+<http://id.ukpds.org/pIzwImYs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/pIzwImYs> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/t2HJca8I> .
+<http://id.ukpds.org/t2HJca8I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/t2HJca8I> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/kkLt8b8J> .
+<http://id.ukpds.org/kkLt8b8J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/kkLt8b8J> <http://id.ukpds.org/schema/personGivenName> "Julie" .
+<http://id.ukpds.org/kkLt8b8J> <http://id.ukpds.org/schema/personFamilyName> "Elliott" .
+<http://id.ukpds.org/kkLt8b8J> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Julie Elliott" .
+<http://id.ukpds.org/kkLt8b8J> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/JynOkMo5> .
+<http://id.ukpds.org/JynOkMo5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/JynOkMo5> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/XaGrBZMY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/XaGrBZMY> <http://id.ukpds.org/schema/constituencyGroupName> "Jarrow" .
+<http://id.ukpds.org/XaGrBZMY> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/a9HidfqF> .
+<http://id.ukpds.org/a9HidfqF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/a9HidfqF> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/WErPxr60> .
+<http://id.ukpds.org/WErPxr60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/WErPxr60> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/n3WwQcL5> .
+<http://id.ukpds.org/n3WwQcL5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/n3WwQcL5> <http://id.ukpds.org/schema/personGivenName> "Stephen" .
+<http://id.ukpds.org/n3WwQcL5> <http://id.ukpds.org/schema/personFamilyName> "Hepburn" .
+<http://id.ukpds.org/n3WwQcL5> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Stephen Hepburn" .
+<http://id.ukpds.org/n3WwQcL5> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/h0xvoady> .
+<http://id.ukpds.org/h0xvoady> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/h0xvoady> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/1rODOHME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/1rODOHME> <http://id.ukpds.org/schema/constituencyGroupName> "Newcastle upon Tyne East" .
+<http://id.ukpds.org/1rODOHME> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/bABe26TR> .
+<http://id.ukpds.org/bABe26TR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/bABe26TR> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/rzwXmy3I> .
+<http://id.ukpds.org/rzwXmy3I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/rzwXmy3I> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/9Ma4Rbqp> .
+<http://id.ukpds.org/9Ma4Rbqp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/9Ma4Rbqp> <http://id.ukpds.org/schema/personGivenName> "Nicholas" .
+<http://id.ukpds.org/9Ma4Rbqp> <http://id.ukpds.org/schema/personFamilyName> "Brown" .
+<http://id.ukpds.org/9Ma4Rbqp> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Nicholas Brown" .
+<http://id.ukpds.org/9Ma4Rbqp> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/chZarx7M> .
+<http://id.ukpds.org/chZarx7M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/chZarx7M> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/L4g2oH92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/L4g2oH92> <http://id.ukpds.org/schema/constituencyGroupName> "Redcar" .
+<http://id.ukpds.org/L4g2oH92> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/cJDSA9ur> .
+<http://id.ukpds.org/cJDSA9ur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/cJDSA9ur> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Ghdz6OiZ> .
+<http://id.ukpds.org/Ghdz6OiZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/Ghdz6OiZ> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/6AtyaEg4> .
+<http://id.ukpds.org/6AtyaEg4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/6AtyaEg4> <http://id.ukpds.org/schema/personGivenName> "Anna" .
+<http://id.ukpds.org/6AtyaEg4> <http://id.ukpds.org/schema/personFamilyName> "Turley" .
+<http://id.ukpds.org/6AtyaEg4> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Anna Turley" .
+<http://id.ukpds.org/6AtyaEg4> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/WGVQmVWH> .
+<http://id.ukpds.org/WGVQmVWH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/WGVQmVWH> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/rVErgZzr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/rVErgZzr> <http://id.ukpds.org/schema/constituencyGroupName> "Stockton North" .
+<http://id.ukpds.org/rVErgZzr> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/GWb8Nmdm> .
+<http://id.ukpds.org/GWb8Nmdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/GWb8Nmdm> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/OdXr7xmS> .
+<http://id.ukpds.org/OdXr7xmS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/OdXr7xmS> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/AkauAnSN> .
+<http://id.ukpds.org/AkauAnSN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/AkauAnSN> <http://id.ukpds.org/schema/personGivenName> "Alexander" .
+<http://id.ukpds.org/AkauAnSN> <http://id.ukpds.org/schema/personFamilyName> "Cunningham" .
+<http://id.ukpds.org/AkauAnSN> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Alex Cunningham" .
+<http://id.ukpds.org/AkauAnSN> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/pZsBHxOh> .
+<http://id.ukpds.org/pZsBHxOh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/pZsBHxOh> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/RlVdNiT8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/RlVdNiT8> <http://id.ukpds.org/schema/constituencyGroupName> "South Shields" .
+<http://id.ukpds.org/RlVdNiT8> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/ve5MgV92> .
+<http://id.ukpds.org/ve5MgV92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/ve5MgV92> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/ovMQODst> .
+<http://id.ukpds.org/ovMQODst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/ovMQODst> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/D1W7MsTM> .
+<http://id.ukpds.org/D1W7MsTM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/D1W7MsTM> <http://id.ukpds.org/schema/personGivenName> "Emma" .
+<http://id.ukpds.org/D1W7MsTM> <http://id.ukpds.org/schema/personFamilyName> "Lewell-Buck" .
+<http://id.ukpds.org/D1W7MsTM> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Emma Lewell-Buck" .
+<http://id.ukpds.org/D1W7MsTM> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Hn8z64Oi> .
+<http://id.ukpds.org/Hn8z64Oi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Hn8z64Oi> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/991DbrXo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/991DbrXo> <http://id.ukpds.org/schema/constituencyGroupName> "Middlesbrough" .
+<http://id.ukpds.org/991DbrXo> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/45A8u1hZ> .
+<http://id.ukpds.org/45A8u1hZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/45A8u1hZ> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/hZ4TN5FM> .
+<http://id.ukpds.org/hZ4TN5FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/hZ4TN5FM> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/j5fSBfmR> .
+<http://id.ukpds.org/j5fSBfmR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/j5fSBfmR> <http://id.ukpds.org/schema/personGivenName> "Andrew" .
+<http://id.ukpds.org/j5fSBfmR> <http://id.ukpds.org/schema/personFamilyName> "McDonald" .
+<http://id.ukpds.org/j5fSBfmR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Andy McDonald" .
+<http://id.ukpds.org/j5fSBfmR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/D5uBN9ej> .
+<http://id.ukpds.org/D5uBN9ej> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/D5uBN9ej> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
 <http://id.ukpds.org/Ns0XOfyE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/Ns0XOfyE> <http://id.ukpds.org/schema/constituencyGroupName> "Middlesbrough South and East Cleveland" .
+<http://id.ukpds.org/Ns0XOfyE> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/wGCowbWh> .
+<http://id.ukpds.org/wGCowbWh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/wGCowbWh> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/0Dq1SenP> .
+<http://id.ukpds.org/0Dq1SenP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/0Dq1SenP> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/o6aj3KhD> .
+<http://id.ukpds.org/o6aj3KhD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/o6aj3KhD> <http://id.ukpds.org/schema/personGivenName> "Simon" .
+<http://id.ukpds.org/o6aj3KhD> <http://id.ukpds.org/schema/personFamilyName> "Clarke" .
+<http://id.ukpds.org/o6aj3KhD> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Simon Clarke" .
+<http://id.ukpds.org/o6aj3KhD> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/3yhnUglu> .
+<http://id.ukpds.org/3yhnUglu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/3yhnUglu> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
 <http://id.ukpds.org/TloZQRIl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
 <http://id.ukpds.org/TloZQRIl> <http://id.ukpds.org/schema/constituencyGroupName> "Stockton South" .
+<http://id.ukpds.org/TloZQRIl> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/vW89ZHYF> .
+<http://id.ukpds.org/vW89ZHYF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/vW89ZHYF> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/er6gYuII> .
+<http://id.ukpds.org/er6gYuII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/er6gYuII> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/a1VnrOZR> .
+<http://id.ukpds.org/a1VnrOZR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/a1VnrOZR> <http://id.ukpds.org/schema/personGivenName> "Paul" .
+<http://id.ukpds.org/a1VnrOZR> <http://id.ukpds.org/schema/personFamilyName> "Williams" .
+<http://id.ukpds.org/a1VnrOZR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Dr Paul Williams" .
+<http://id.ukpds.org/a1VnrOZR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/vymegImA> .
+<http://id.ukpds.org/vymegImA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/vymegImA> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+_:node1677045 <http://id.ukpds.org/schema/value> "B" .
+_:node1677046 <http://id.ukpds.org/schema/value> "H" .
+_:node1677047 <http://id.ukpds.org/schema/value> "A" .
+_:node1677048 <http://id.ukpds.org/schema/value> "C" .
+_:node1677049 <http://id.ukpds.org/schema/value> "E" .
+_:node1677050 <http://id.ukpds.org/schema/value> "M" .
+_:node1677051 <http://id.ukpds.org/schema/value> "S" .
+_:node1677052 <http://id.ukpds.org/schema/value> "N" .
+_:node1677053 <http://id.ukpds.org/schema/value> "W" .
+_:node1677054 <http://id.ukpds.org/schema/value> "T" .
+_:node1677055 <http://id.ukpds.org/schema/value> "V" .
+_:node1677056 <http://id.ukpds.org/schema/value> "I" .
+_:node1677057 <http://id.ukpds.org/schema/value> "P" .
+_:node1677058 <http://id.ukpds.org/schema/value> "K" .
+_:node1677059 <http://id.ukpds.org/schema/value> "R" .
+_:node1677060 <http://id.ukpds.org/schema/value> "G" .
+_:node1677061 <http://id.ukpds.org/schema/value> "D" .
+_:node1677062 <http://id.ukpds.org/schema/value> "L" .
+_:node1677063 <http://id.ukpds.org/schema/value> "F" .
+_:node1677064 <http://id.ukpds.org/schema/value> "Y" .
+_:node1677065 <http://id.ukpds.org/schema/value> "U" .
+_:node1677066 <http://id.ukpds.org/schema/value> "O" .
+_:node1677067 <http://id.ukpds.org/schema/value> "J" .
