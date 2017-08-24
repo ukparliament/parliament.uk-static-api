@@ -1,0 +1,72 @@
+<http://id.ukpds.org/Bw0PzrQH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/Bw0PzrQH> <http://id.ukpds.org/schema/partyName> "Sinn F\u00E9in" .
+<http://id.ukpds.org/Bw0PzrQH> <http://id.ukpds.org/schema/commonsCount> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/Bw0PzrQH> <http://id.ukpds.org/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/XHzHTevp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/XHzHTevp> <http://id.ukpds.org/schema/partyName> "Independent Social Democrat" .
+<http://id.ukpds.org/XHzHTevp> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/XHzHTevp> <http://id.ukpds.org/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/nSB33tyM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/nSB33tyM> <http://id.ukpds.org/schema/partyName> "Green Party" .
+<http://id.ukpds.org/nSB33tyM> <http://id.ukpds.org/schema/commonsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/nSB33tyM> <http://id.ukpds.org/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/ODXnALpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/ODXnALpk> <http://id.ukpds.org/schema/partyName> "Independent" .
+<http://id.ukpds.org/ODXnALpk> <http://id.ukpds.org/schema/commonsCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/ODXnALpk> <http://id.ukpds.org/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/2HkaDLpq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/2HkaDLpq> <http://id.ukpds.org/schema/partyName> "UK Independence Party" .
+<http://id.ukpds.org/2HkaDLpq> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/2HkaDLpq> <http://id.ukpds.org/schema/lordsCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/S5kOwGsu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/S5kOwGsu> <http://id.ukpds.org/schema/partyName> "Independent Ulster Unionist" .
+<http://id.ukpds.org/S5kOwGsu> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/S5kOwGsu> <http://id.ukpds.org/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/commonsCount> "316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/lordsCount> "258"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/oQPASljv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/oQPASljv> <http://id.ukpds.org/schema/partyName> "Independent Labour" .
+<http://id.ukpds.org/oQPASljv> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/oQPASljv> <http://id.ukpds.org/schema/lordsCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/uokUfbsX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/uokUfbsX> <http://id.ukpds.org/schema/partyName> "Speaker" .
+<http://id.ukpds.org/uokUfbsX> <http://id.ukpds.org/schema/commonsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/uokUfbsX> <http://id.ukpds.org/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/bpDfGfBF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/bpDfGfBF> <http://id.ukpds.org/schema/partyName> "Bishops" .
+<http://id.ukpds.org/bpDfGfBF> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/bpDfGfBF> <http://id.ukpds.org/schema/lordsCount> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/msCC3sDK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/partyName> "Scottish National Party" .
+<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/commonsCount> "35"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/vY69C2Qi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/vY69C2Qi> <http://id.ukpds.org/schema/partyName> "Non-affiliated" .
+<http://id.ukpds.org/vY69C2Qi> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/vY69C2Qi> <http://id.ukpds.org/schema/lordsCount> "43"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/OvQrKi8Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/OvQrKi8Q> <http://id.ukpds.org/schema/partyName> "Ulster Unionist Party" .
+<http://id.ukpds.org/OvQrKi8Q> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/OvQrKi8Q> <http://id.ukpds.org/schema/lordsCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/dnTABZqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/dnTABZqn> <http://id.ukpds.org/schema/partyName> "Crossbench" .
+<http://id.ukpds.org/dnTABZqn> <http://id.ukpds.org/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/dnTABZqn> <http://id.ukpds.org/schema/lordsCount> "178"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/PTqFnU5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/partyName> "Democratic Unionist Party" .
+<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/commonsCount> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/lordsCount> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/891w1b1k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/partyName> "Labour" .
+<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/commonsCount> "262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/lordsCount> "208"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/sh0csIGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/sh0csIGS> <http://id.ukpds.org/schema/partyName> "Plaid Cymru" .
+<http://id.ukpds.org/sh0csIGS> <http://id.ukpds.org/schema/commonsCount> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/sh0csIGS> <http://id.ukpds.org/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/aHG1WJDM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/aHG1WJDM> <http://id.ukpds.org/schema/partyName> "Liberal Democrat" .
+<http://id.ukpds.org/aHG1WJDM> <http://id.ukpds.org/schema/commonsCount> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/aHG1WJDM> <http://id.ukpds.org/schema/lordsCount> "104"^^<http://www.w3.org/2001/XMLSchema#integer> .

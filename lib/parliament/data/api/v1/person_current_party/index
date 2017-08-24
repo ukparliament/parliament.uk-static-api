@@ -1,0 +1,9 @@
+<http://id.ukpds.org/7KNGxTli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/7KNGxTli> <http://id.ukpds.org/schema/personGivenName> "Theresa" .
+<http://id.ukpds.org/7KNGxTli> <http://id.ukpds.org/schema/personFamilyName> "May" .
+<http://id.ukpds.org/7KNGxTli> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Theresa May" .
+<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyHasPartyMembership> <http://id.ukpds.org/O6r65Q5m> .
+<http://id.ukpds.org/O6r65Q5m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/O6r65Q5m> <http://id.ukpds.org/schema/partyMembershipStartDate> "2017-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
