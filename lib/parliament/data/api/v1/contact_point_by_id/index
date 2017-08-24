@@ -1,0 +1,9 @@
+<http://id.ukpds.org/t3Qeaou5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ContactPoint> .
+<http://id.ukpds.org/t3Qeaou5> <http://id.ukpds.org/schema/faxNumber> "020 7219 2815" .
+<http://id.ukpds.org/t3Qeaou5> <http://id.ukpds.org/schema/contactPointHasIncumbency> <http://id.ukpds.org/IPFQbYsj> .
+<http://id.ukpds.org/IPFQbYsj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
+<http://id.ukpds.org/IPFQbYsj> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/bsbXy12q> .
+<http://id.ukpds.org/bsbXy12q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/bsbXy12q> <http://id.ukpds.org/schema/personGivenName> "Martyn" .
+<http://id.ukpds.org/bsbXy12q> <http://id.ukpds.org/schema/personFamilyName> "Jones" .
+<http://id.ukpds.org/bsbXy12q> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Martyn Jones" .

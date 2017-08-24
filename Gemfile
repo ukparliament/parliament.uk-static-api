@@ -11,6 +11,7 @@ gem 'puma', require: false
 group :development do
   gem 'shotgun'
   gem 'macmillan-utils'
+  gem 'nokogiri'
 end
 
 group :test do

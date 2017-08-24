@@ -1,0 +1,1391 @@
+<http://id.ukpds.org/IzRCmUys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/IzRCmUys> <http://id.ukpds.org/schema/constituencyGroupName> "Leith" .
+<http://id.ukpds.org/IzRCmUys> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IzRCmUys> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/34oJXoRB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/34oJXoRB> <http://id.ukpds.org/schema/constituencyGroupName> "Lichfield and Tamworth" .
+<http://id.ukpds.org/34oJXoRB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/34oJXoRB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4ceEfePu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4ceEfePu> <http://id.ukpds.org/schema/constituencyGroupName> "Lambeth Central" .
+<http://id.ukpds.org/4ceEfePu> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4ceEfePu> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PW6NeGmj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/PW6NeGmj> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South" .
+<http://id.ukpds.org/PW6NeGmj> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PW6NeGmj> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/EDP4Y9gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/EDP4Y9gw> <http://id.ukpds.org/schema/constituencyGroupName> "Lowestoft" .
+<http://id.ukpds.org/EDP4Y9gw> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/EDP4Y9gw> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4qhqVpGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4qhqVpGP> <http://id.ukpds.org/schema/constituencyGroupName> "Leek" .
+<http://id.ukpds.org/4qhqVpGP> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4qhqVpGP> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZML3BNmK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ZML3BNmK> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South East" .
+<http://id.ukpds.org/ZML3BNmK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZML3BNmK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GxgNVu2A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/GxgNVu2A> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Toxteth" .
+<http://id.ukpds.org/GxgNVu2A> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GxgNVu2A> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VnLrgzt3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VnLrgzt3> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Toxteth" .
+<http://id.ukpds.org/VnLrgzt3> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VnLrgzt3> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2HIOTWgg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2HIOTWgg> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/2HIOTWgg> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2HIOTWgg> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/LLJUOkXw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/LLJUOkXw> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North" .
+<http://id.ukpds.org/LLJUOkXw> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1955-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/LLJUOkXw> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UJgPWGTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/UJgPWGTL> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelli" .
+<http://id.ukpds.org/UJgPWGTL> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UJgPWGTL> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bibBlLKk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bibBlLKk> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton" .
+<http://id.ukpds.org/bibBlLKk> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bibBlLKk> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/m8h5piV8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/m8h5piV8> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Scotland" .
+<http://id.ukpds.org/m8h5piV8> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/m8h5piV8> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hBikLict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/hBikLict> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/hBikLict> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hBikLict> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/KkY7AyNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/KkY7AyNT> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelli" .
+<http://id.ukpds.org/KkY7AyNT> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/KkY7AyNT> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/S67tTIe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/S67tTIe6> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Everton" .
+<http://id.ukpds.org/S67tTIe6> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/S67tTIe6> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AAriI0vU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/AAriI0vU> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds East" .
+<http://id.ukpds.org/AAriI0vU> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AAriI0vU> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/d4nE6eXz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/d4nE6eXz> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham, Deptford" .
+<http://id.ukpds.org/d4nE6eXz> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/d4nE6eXz> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/dp4PWoIG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/dp4PWoIG> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West" .
+<http://id.ukpds.org/dp4PWoIG> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/dp4PWoIG> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/iBttUy9i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/iBttUy9i> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Broadgreen" .
+<http://id.ukpds.org/iBttUy9i> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/iBttUy9i> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7QsuWb4D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/7QsuWb4D> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Wavertree" .
+<http://id.ukpds.org/7QsuWb4D> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7QsuWb4D> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0ua87bvz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/0ua87bvz> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton and Wanstead" .
+<http://id.ukpds.org/0ua87bvz> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0ua87bvz> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/sVyh3q82> .
+<http://id.ukpds.org/sVyh3q82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/sVyh3q82> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/bwNj7pTB> .
+<http://id.ukpds.org/bwNj7pTB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/bwNj7pTB> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/dUJIths0> .
+<http://id.ukpds.org/dUJIths0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/dUJIths0> <http://id.ukpds.org/schema/personGivenName> "John" .
+<http://id.ukpds.org/dUJIths0> <http://id.ukpds.org/schema/personFamilyName> "Cryer" .
+<http://id.ukpds.org/dUJIths0> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "John Cryer" .
+<http://id.ukpds.org/dUJIths0> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/IoCdRyBG> .
+<http://id.ukpds.org/IoCdRyBG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/IoCdRyBG> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/891w1b1k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/partyName> "Labour" .
+<http://id.ukpds.org/dUJIths0> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/n1gZX7tS> .
+<http://id.ukpds.org/n1gZX7tS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/n1gZX7tS> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/dUJIths0> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/89z2nphG> .
+<http://id.ukpds.org/89z2nphG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/89z2nphG> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/BjwQPHPc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/BjwQPHPc> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelli" .
+<http://id.ukpds.org/BjwQPHPc> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BjwQPHPc> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/iZzfMF1S> .
+<http://id.ukpds.org/iZzfMF1S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/iZzfMF1S> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/vZ89t6Rg> .
+<http://id.ukpds.org/vZ89t6Rg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/vZ89t6Rg> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/Wsx8T1pR> .
+<http://id.ukpds.org/Wsx8T1pR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/Wsx8T1pR> <http://id.ukpds.org/schema/personGivenName> "Nia" .
+<http://id.ukpds.org/Wsx8T1pR> <http://id.ukpds.org/schema/personFamilyName> "Griffith" .
+<http://id.ukpds.org/Wsx8T1pR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Nia Griffith" .
+<http://id.ukpds.org/Wsx8T1pR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/t91JjYx2> .
+<http://id.ukpds.org/t91JjYx2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/t91JjYx2> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/Wsx8T1pR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/0KxadkAl> .
+<http://id.ukpds.org/0KxadkAl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/0KxadkAl> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/Wsx8T1pR> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/EVg6Gwrm> .
+<http://id.ukpds.org/EVg6Gwrm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/EVg6Gwrm> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/uhqvflbT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/uhqvflbT> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds East" .
+<http://id.ukpds.org/uhqvflbT> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uhqvflbT> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/HcfgrLBV> .
+<http://id.ukpds.org/HcfgrLBV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/HcfgrLBV> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/EzXj3oUX> .
+<http://id.ukpds.org/EzXj3oUX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/EzXj3oUX> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/6QuWbRr2> .
+<http://id.ukpds.org/6QuWbRr2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/6QuWbRr2> <http://id.ukpds.org/schema/personGivenName> "Richard" .
+<http://id.ukpds.org/6QuWbRr2> <http://id.ukpds.org/schema/personFamilyName> "Burgon" .
+<http://id.ukpds.org/6QuWbRr2> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Richard Burgon" .
+<http://id.ukpds.org/6QuWbRr2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/KQkMYKpk> .
+<http://id.ukpds.org/KQkMYKpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/KQkMYKpk> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/6QuWbRr2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/i6B3zz4F> .
+<http://id.ukpds.org/i6B3zz4F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/i6B3zz4F> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/PhAztUcp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/PhAztUcp> <http://id.ukpds.org/schema/constituencyGroupName> "Lanark and Hamilton East" .
+<http://id.ukpds.org/PhAztUcp> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2005-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PhAztUcp> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/AebEVisQ> .
+<http://id.ukpds.org/AebEVisQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/AebEVisQ> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/c1W15ExX> .
+<http://id.ukpds.org/c1W15ExX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/c1W15ExX> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/zMRX29wW> .
+<http://id.ukpds.org/zMRX29wW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/zMRX29wW> <http://id.ukpds.org/schema/personGivenName> "Angela" .
+<http://id.ukpds.org/zMRX29wW> <http://id.ukpds.org/schema/personFamilyName> "Crawley" .
+<http://id.ukpds.org/zMRX29wW> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Angela Crawley" .
+<http://id.ukpds.org/zMRX29wW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/yBUVQVGT> .
+<http://id.ukpds.org/yBUVQVGT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/yBUVQVGT> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/msCC3sDK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/partyName> "Scottish National Party" .
+<http://id.ukpds.org/zMRX29wW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/5zuvzwnK> .
+<http://id.ukpds.org/5zuvzwnK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/5zuvzwnK> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/G4Q93C92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/G4Q93C92> <http://id.ukpds.org/schema/constituencyGroupName> "Livingston" .
+<http://id.ukpds.org/G4Q93C92> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2005-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/G4Q93C92> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/EKVywRO4> .
+<http://id.ukpds.org/EKVywRO4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/EKVywRO4> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/SbBWi86J> .
+<http://id.ukpds.org/SbBWi86J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/SbBWi86J> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/8cNN5ica> .
+<http://id.ukpds.org/8cNN5ica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/8cNN5ica> <http://id.ukpds.org/schema/personGivenName> "Hannah" .
+<http://id.ukpds.org/8cNN5ica> <http://id.ukpds.org/schema/personFamilyName> "Bardell" .
+<http://id.ukpds.org/8cNN5ica> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Hannah Bardell" .
+<http://id.ukpds.org/8cNN5ica> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Z7vi4Xy1> .
+<http://id.ukpds.org/Z7vi4Xy1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Z7vi4Xy1> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/8cNN5ica> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/LiV9UdSd> .
+<http://id.ukpds.org/LiV9UdSd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/LiV9UdSd> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/GnjbHO15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/GnjbHO15> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds East" .
+<http://id.ukpds.org/GnjbHO15> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GnjbHO15> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1955-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wYNnIW1x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/wYNnIW1x> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester East" .
+<http://id.ukpds.org/wYNnIW1x> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wYNnIW1x> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CYXKv3vu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CYXKv3vu> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South East" .
+<http://id.ukpds.org/CYXKv3vu> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CYXKv3vu> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GEtuvSUa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/GEtuvSUa> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster" .
+<http://id.ukpds.org/GEtuvSUa> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GEtuvSUa> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VSL01BJz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VSL01BJz> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South East" .
+<http://id.ukpds.org/VSL01BJz> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VSL01BJz> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1dSy5ARA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/1dSy5ARA> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South" .
+<http://id.ukpds.org/1dSy5ARA> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1dSy5ARA> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2QaXzA7M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2QaXzA7M> <http://id.ukpds.org/schema/constituencyGroupName> "Lanark" .
+<http://id.ukpds.org/2QaXzA7M> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2QaXzA7M> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/MtGI4wJD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/MtGI4wJD> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/MtGI4wJD> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/MtGI4wJD> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bceFVGYF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bceFVGYF> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/bceFVGYF> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bceFVGYF> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vJVtYVQv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/vJVtYVQv> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West" .
+<http://id.ukpds.org/vJVtYVQv> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vJVtYVQv> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4nzZjIZF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4nzZjIZF> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South" .
+<http://id.ukpds.org/4nzZjIZF> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4nzZjIZF> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wkirZ8Hf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/wkirZ8Hf> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds Central" .
+<http://id.ukpds.org/wkirZ8Hf> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wkirZ8Hf> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3t9UD5AU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/3t9UD5AU> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/3t9UD5AU> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3t9UD5AU> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PXcyKO6q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/PXcyKO6q> <http://id.ukpds.org/schema/constituencyGroupName> "Louth" .
+<http://id.ukpds.org/PXcyKO6q> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PXcyKO6q> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/rg3mDyVD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/rg3mDyVD> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Toxteth" .
+<http://id.ukpds.org/rg3mDyVD> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/rg3mDyVD> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZTQCSdTj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ZTQCSdTj> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelly" .
+<http://id.ukpds.org/ZTQCSdTj> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZTQCSdTj> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nXtqnOng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/nXtqnOng> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South East" .
+<http://id.ukpds.org/nXtqnOng> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nXtqnOng> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/jiOeLvfw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/jiOeLvfw> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North" .
+<http://id.ukpds.org/jiOeLvfw> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/jiOeLvfw> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lHmFbzWK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lHmFbzWK> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Scotland Exchange" .
+<http://id.ukpds.org/lHmFbzWK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lHmFbzWK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2f3G9JQ7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2f3G9JQ7> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/2f3G9JQ7> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2f3G9JQ7> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hgRdWpQq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/hgRdWpQq> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester North West" .
+<http://id.ukpds.org/hgRdWpQq> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hgRdWpQq> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VVi85vYL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VVi85vYL> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton East" .
+<http://id.ukpds.org/VVi85vYL> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VVi85vYL> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/I2mKY7Km> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/I2mKY7Km> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton" .
+<http://id.ukpds.org/I2mKY7Km> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/I2mKY7Km> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/y1hzPunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/y1hzPunk> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/y1hzPunk> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/y1hzPunk> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OG5pLoN2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/OG5pLoN2> <http://id.ukpds.org/schema/constituencyGroupName> "Linlithgow" .
+<http://id.ukpds.org/OG5pLoN2> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2005-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OG5pLoN2> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/MED51fr9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/MED51fr9> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Wavertree" .
+<http://id.ukpds.org/MED51fr9> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/MED51fr9> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9QD0g6lC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/9QD0g6lC> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelli" .
+<http://id.ukpds.org/9QD0g6lC> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9QD0g6lC> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/eq3VMwuo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/eq3VMwuo> <http://id.ukpds.org/schema/constituencyGroupName> "Lichfield and Tamworth" .
+<http://id.ukpds.org/eq3VMwuo> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/eq3VMwuo> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3ML1GGko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/3ML1GGko> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester West" .
+<http://id.ukpds.org/3ML1GGko> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3ML1GGko> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gUQ6MoBK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/gUQ6MoBK> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South" .
+<http://id.ukpds.org/gUQ6MoBK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gUQ6MoBK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bDtzvu2n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bDtzvu2n> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/bDtzvu2n> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bDtzvu2n> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/E9mGsrKd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/E9mGsrKd> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South" .
+<http://id.ukpds.org/E9mGsrKd> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/E9mGsrKd> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2v2fcOhQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2v2fcOhQ> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/2v2fcOhQ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2v2fcOhQ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QF2kVXkL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/QF2kVXkL> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester West" .
+<http://id.ukpds.org/QF2kVXkL> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QF2kVXkL> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/RcuFbD6j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/RcuFbD6j> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/RcuFbD6j> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/RcuFbD6j> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nEglZqC2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/nEglZqC2> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/nEglZqC2> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nEglZqC2> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kWV03tk4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/kWV03tk4> <http://id.ukpds.org/schema/constituencyGroupName> "Luton South" .
+<http://id.ukpds.org/kWV03tk4> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kWV03tk4> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PvUkZ2wO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/PvUkZ2wO> <http://id.ukpds.org/schema/constituencyGroupName> "Louth" .
+<http://id.ukpds.org/PvUkZ2wO> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PvUkZ2wO> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/qmMScgyB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/qmMScgyB> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/qmMScgyB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/qmMScgyB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AIsXmcte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/AIsXmcte> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/AIsXmcte> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AIsXmcte> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7hqcDofW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/7hqcDofW> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds Central" .
+<http://id.ukpds.org/7hqcDofW> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1955-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7hqcDofW> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kmD5ynNS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/kmD5ynNS> <http://id.ukpds.org/schema/constituencyGroupName> "Luton South" .
+<http://id.ukpds.org/kmD5ynNS> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kmD5ynNS> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/bN6e62cW> .
+<http://id.ukpds.org/bN6e62cW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/bN6e62cW> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/5zSLKMLb> .
+<http://id.ukpds.org/5zSLKMLb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/5zSLKMLb> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/oDOHDohF> .
+<http://id.ukpds.org/oDOHDohF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/oDOHDohF> <http://id.ukpds.org/schema/personGivenName> "Gavin" .
+<http://id.ukpds.org/oDOHDohF> <http://id.ukpds.org/schema/personFamilyName> "Shuker" .
+<http://id.ukpds.org/oDOHDohF> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Gavin Shuker" .
+<http://id.ukpds.org/oDOHDohF> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/wzhSvPWu> .
+<http://id.ukpds.org/wzhSvPWu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/wzhSvPWu> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/oDOHDohF> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/HTUZo63r> .
+<http://id.ukpds.org/HTUZo63r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/HTUZo63r> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/oDOHDohF> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/dHzmeiaA> .
+<http://id.ukpds.org/dHzmeiaA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/dHzmeiaA> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/lQWJMVX3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lQWJMVX3> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/lQWJMVX3> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lQWJMVX3> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/wH7yx4M3> .
+<http://id.ukpds.org/wH7yx4M3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/wH7yx4M3> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/4mN3wMA3> .
+<http://id.ukpds.org/4mN3wMA3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/4mN3wMA3> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/OyxReljV> .
+<http://id.ukpds.org/OyxReljV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/OyxReljV> <http://id.ukpds.org/schema/personGivenName> "Fabian" .
+<http://id.ukpds.org/OyxReljV> <http://id.ukpds.org/schema/personFamilyName> "Hamilton" .
+<http://id.ukpds.org/OyxReljV> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Fabian Hamilton" .
+<http://id.ukpds.org/OyxReljV> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/nWnnkXCY> .
+<http://id.ukpds.org/nWnnkXCY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/nWnnkXCY> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/OyxReljV> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/rlofkq4M> .
+<http://id.ukpds.org/rlofkq4M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/rlofkq4M> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/OyxReljV> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/onhonDus> .
+<http://id.ukpds.org/onhonDus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/onhonDus> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/hwhvBbqe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/hwhvBbqe> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/hwhvBbqe> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hwhvBbqe> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/8H1eu077> .
+<http://id.ukpds.org/8H1eu077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/8H1eu077> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/63XivxDn> .
+<http://id.ukpds.org/63XivxDn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/63XivxDn> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ubiWLBSt> .
+<http://id.ukpds.org/ubiWLBSt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ubiWLBSt> <http://id.ukpds.org/schema/personGivenName> "Rachel" .
+<http://id.ukpds.org/ubiWLBSt> <http://id.ukpds.org/schema/personFamilyName> "Reeves" .
+<http://id.ukpds.org/ubiWLBSt> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Rachel Reeves" .
+<http://id.ukpds.org/ubiWLBSt> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/l1o6sm74> .
+<http://id.ukpds.org/l1o6sm74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/l1o6sm74> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/ubiWLBSt> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/l6ahOtcs> .
+<http://id.ukpds.org/l6ahOtcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/l6ahOtcs> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/ubiWLBSt> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/CVzu5sFR> .
+<http://id.ukpds.org/CVzu5sFR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/CVzu5sFR> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/pSh6o6Gs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/pSh6o6Gs> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Garston" .
+<http://id.ukpds.org/pSh6o6Gs> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/pSh6o6Gs> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Jt0mjzba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Jt0mjzba> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton and Wanstead" .
+<http://id.ukpds.org/Jt0mjzba> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Jt0mjzba> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kQHR339H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/kQHR339H> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/kQHR339H> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kQHR339H> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kFBUe0cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/kFBUe0cc> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/kFBUe0cc> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kFBUe0cc> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/POonFaEr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/POonFaEr> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/POonFaEr> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/POonFaEr> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Luq3ZaqJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Luq3ZaqJ> <http://id.ukpds.org/schema/constituencyGroupName> "Limehouse" .
+<http://id.ukpds.org/Luq3ZaqJ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Luq3ZaqJ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CyhyW8RW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CyhyW8RW> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/CyhyW8RW> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CyhyW8RW> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GXtOM48n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/GXtOM48n> <http://id.ukpds.org/schema/constituencyGroupName> "Livingston" .
+<http://id.ukpds.org/GXtOM48n> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/GXtOM48n> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/TeBYKbm6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/TeBYKbm6> <http://id.ukpds.org/schema/constituencyGroupName> "Lonsdale" .
+<http://id.ukpds.org/TeBYKbm6> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/TeBYKbm6> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2MRgznQs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2MRgznQs> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West and Penge" .
+<http://id.ukpds.org/2MRgznQs> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2MRgznQs> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/YACnzW5I> .
+<http://id.ukpds.org/YACnzW5I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/YACnzW5I> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/vKESHrzQ> .
+<http://id.ukpds.org/vKESHrzQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/vKESHrzQ> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ureayCCM> .
+<http://id.ukpds.org/ureayCCM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ureayCCM> <http://id.ukpds.org/schema/personGivenName> "Eleanor" .
+<http://id.ukpds.org/ureayCCM> <http://id.ukpds.org/schema/personFamilyName> "Reeves" .
+<http://id.ukpds.org/ureayCCM> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ellie Reeves" .
+<http://id.ukpds.org/ureayCCM> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/vuzHEBK8> .
+<http://id.ukpds.org/vuzHEBK8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/vuzHEBK8> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/mTxUm6kW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/mTxUm6kW> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/mTxUm6kW> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mTxUm6kW> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/fnPvWVdB> .
+<http://id.ukpds.org/fnPvWVdB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/fnPvWVdB> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/9E4EHoMe> .
+<http://id.ukpds.org/9E4EHoMe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/9E4EHoMe> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/cXtnU3AY> .
+<http://id.ukpds.org/cXtnU3AY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/cXtnU3AY> <http://id.ukpds.org/schema/personGivenName> "Joanne" .
+<http://id.ukpds.org/cXtnU3AY> <http://id.ukpds.org/schema/personFamilyName> "Platt" .
+<http://id.ukpds.org/cXtnU3AY> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Jo Platt" .
+<http://id.ukpds.org/cXtnU3AY> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/2z2Qgw2a> .
+<http://id.ukpds.org/2z2Qgw2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/2z2Qgw2a> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/HrhBN0ms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/HrhBN0ms> <http://id.ukpds.org/schema/constituencyGroupName> "Linlithgow" .
+<http://id.ukpds.org/HrhBN0ms> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/HrhBN0ms> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PXDMjm2S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/PXDMjm2S> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/PXDMjm2S> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/PXDMjm2S> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/daEPlW4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/daEPlW4l> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/daEPlW4l> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/daEPlW4l> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CKmqJ4XI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CKmqJ4XI> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham East" .
+<http://id.ukpds.org/CKmqJ4XI> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CKmqJ4XI> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Ba0krPnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Ba0krPnR> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton" .
+<http://id.ukpds.org/Ba0krPnR> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Ba0krPnR> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VwECy1rK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VwECy1rK> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Riverside" .
+<http://id.ukpds.org/VwECy1rK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VwECy1rK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AXvKo4rJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/AXvKo4rJ> <http://id.ukpds.org/schema/constituencyGroupName> "Lichfield" .
+<http://id.ukpds.org/AXvKo4rJ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/AXvKo4rJ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/STBZeJ3D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/STBZeJ3D> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Exchange" .
+<http://id.ukpds.org/STBZeJ3D> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/STBZeJ3D> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/KcbT3s4N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/KcbT3s4N> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Garston" .
+<http://id.ukpds.org/KcbT3s4N> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/KcbT3s4N> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/8gs3EBC2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/8gs3EBC2> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/8gs3EBC2> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/8gs3EBC2> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fWrnIDma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/fWrnIDma> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester North East" .
+<http://id.ukpds.org/fWrnIDma> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fWrnIDma> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FmHQZ49L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/FmHQZ49L> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Garston" .
+<http://id.ukpds.org/FmHQZ49L> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FmHQZ49L> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/75ep40cY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/75ep40cY> <http://id.ukpds.org/schema/constituencyGroupName> "Lichfield" .
+<http://id.ukpds.org/75ep40cY> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/75ep40cY> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/85b9ISwU> .
+<http://id.ukpds.org/85b9ISwU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/85b9ISwU> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/ctZJOjI1> .
+<http://id.ukpds.org/ctZJOjI1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/ctZJOjI1> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/aWcEdhkK> .
+<http://id.ukpds.org/aWcEdhkK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/aWcEdhkK> <http://id.ukpds.org/schema/personGivenName> "Michael" .
+<http://id.ukpds.org/aWcEdhkK> <http://id.ukpds.org/schema/personFamilyName> "Fabricant" .
+<http://id.ukpds.org/aWcEdhkK> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Michael Fabricant" .
+<http://id.ukpds.org/aWcEdhkK> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/7GqrJtbl> .
+<http://id.ukpds.org/7GqrJtbl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/7GqrJtbl> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
+<http://id.ukpds.org/aWcEdhkK> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/6TJa28Cx> .
+<http://id.ukpds.org/6TJa28Cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/6TJa28Cx> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/aWcEdhkK> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/fM00LHUk> .
+<http://id.ukpds.org/fM00LHUk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/fM00LHUk> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/3OW3yOO0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/3OW3yOO0> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/3OW3yOO0> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3OW3yOO0> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/f0073oCh> .
+<http://id.ukpds.org/f0073oCh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/f0073oCh> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/P0rjMPjX> .
+<http://id.ukpds.org/P0rjMPjX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/P0rjMPjX> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/ECNQF5zH> .
+<http://id.ukpds.org/ECNQF5zH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/ECNQF5zH> <http://id.ukpds.org/schema/personGivenName> "Stephen" .
+<http://id.ukpds.org/ECNQF5zH> <http://id.ukpds.org/schema/personFamilyName> "Twigg" .
+<http://id.ukpds.org/ECNQF5zH> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Stephen Twigg" .
+<http://id.ukpds.org/ECNQF5zH> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/KrRH5jhL> .
+<http://id.ukpds.org/KrRH5jhL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/KrRH5jhL> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/ECNQF5zH> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Go5Owvaw> .
+<http://id.ukpds.org/Go5Owvaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Go5Owvaw> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/ECNQF5zH> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/nd3vGLTU> .
+<http://id.ukpds.org/nd3vGLTU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/nd3vGLTU> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/BWiC8rX4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/BWiC8rX4> <http://id.ukpds.org/schema/constituencyGroupName> "Louth and Horncastle" .
+<http://id.ukpds.org/BWiC8rX4> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BWiC8rX4> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/M6aJLnAI> .
+<http://id.ukpds.org/M6aJLnAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/M6aJLnAI> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Kqner9dh> .
+<http://id.ukpds.org/Kqner9dh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/Kqner9dh> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/PzHtT5cG> .
+<http://id.ukpds.org/PzHtT5cG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/PzHtT5cG> <http://id.ukpds.org/schema/personGivenName> "Victoria" .
+<http://id.ukpds.org/PzHtT5cG> <http://id.ukpds.org/schema/personFamilyName> "Atkins" .
+<http://id.ukpds.org/PzHtT5cG> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Victoria Atkins" .
+<http://id.ukpds.org/PzHtT5cG> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/VXD8lzD5> .
+<http://id.ukpds.org/VXD8lzD5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/VXD8lzD5> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/PzHtT5cG> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/hIxv87MW> .
+<http://id.ukpds.org/hIxv87MW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/hIxv87MW> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/4lJ8scZ6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4lJ8scZ6> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds Central" .
+<http://id.ukpds.org/4lJ8scZ6> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4lJ8scZ6> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/zJM3Oh6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/zJM3Oh6d> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Edge Hill" .
+<http://id.ukpds.org/zJM3Oh6d> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/zJM3Oh6d> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9MScDZs7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/9MScDZs7> <http://id.ukpds.org/schema/constituencyGroupName> "Leominster" .
+<http://id.ukpds.org/9MScDZs7> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9MScDZs7> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/N9bMFzH0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/N9bMFzH0> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham East" .
+<http://id.ukpds.org/N9bMFzH0> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/N9bMFzH0> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CeSJxI89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CeSJxI89> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/CeSJxI89> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CeSJxI89> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mqbHYBe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/mqbHYBe9> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South" .
+<http://id.ukpds.org/mqbHYBe9> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mqbHYBe9> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hfOaP3km> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/hfOaP3km> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, East Toxteth" .
+<http://id.ukpds.org/hfOaP3km> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/hfOaP3km> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/xvyKRFiF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/xvyKRFiF> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds East" .
+<http://id.ukpds.org/xvyKRFiF> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/xvyKRFiF> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nopIEnw7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/nopIEnw7> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Kirkdale" .
+<http://id.ukpds.org/nopIEnw7> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nopIEnw7> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0IkTX4NL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/0IkTX4NL> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds Central" .
+<http://id.ukpds.org/0IkTX4NL> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0IkTX4NL> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/5urfF6QQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/5urfF6QQ> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster" .
+<http://id.ukpds.org/5urfF6QQ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/5urfF6QQ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/S1zJeySo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/S1zJeySo> <http://id.ukpds.org/schema/constituencyGroupName> "Livingston" .
+<http://id.ukpds.org/S1zJeySo> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2005-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/S1zJeySo> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bdsCZxJd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bdsCZxJd> <http://id.ukpds.org/schema/constituencyGroupName> "Luton East" .
+<http://id.ukpds.org/bdsCZxJd> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bdsCZxJd> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/u8SJ4Qho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/u8SJ4Qho> <http://id.ukpds.org/schema/constituencyGroupName> "Luton West" .
+<http://id.ukpds.org/u8SJ4Qho> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/u8SJ4Qho> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Alz2SmbK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Alz2SmbK> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Kirkdale" .
+<http://id.ukpds.org/Alz2SmbK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Alz2SmbK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Q3DyiWrW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Q3DyiWrW> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North West" .
+<http://id.ukpds.org/Q3DyiWrW> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Q3DyiWrW> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/yijDopbS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/yijDopbS> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Mossley Hill" .
+<http://id.ukpds.org/yijDopbS> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/yijDopbS> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4T3MXueW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4T3MXueW> <http://id.ukpds.org/schema/constituencyGroupName> "Leominster" .
+<http://id.ukpds.org/4T3MXueW> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4T3MXueW> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lOzGF8T2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lOzGF8T2> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Riverside" .
+<http://id.ukpds.org/lOzGF8T2> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lOzGF8T2> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/I37F6W2U> .
+<http://id.ukpds.org/I37F6W2U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/I37F6W2U> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/2D820Aas> .
+<http://id.ukpds.org/2D820Aas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/2D820Aas> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/BGI5UbDL> .
+<http://id.ukpds.org/BGI5UbDL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/BGI5UbDL> <http://id.ukpds.org/schema/personGivenName> "Louise" .
+<http://id.ukpds.org/BGI5UbDL> <http://id.ukpds.org/schema/personFamilyName> "Ellman" .
+<http://id.ukpds.org/BGI5UbDL> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Louise Ellman" .
+<http://id.ukpds.org/BGI5UbDL> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/dbqxBQSL> .
+<http://id.ukpds.org/dbqxBQSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/dbqxBQSL> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/BGI5UbDL> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Vnv0rQUD> .
+<http://id.ukpds.org/Vnv0rQUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Vnv0rQUD> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/BGI5UbDL> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/lgD5WgcQ> .
+<http://id.ukpds.org/lgD5WgcQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/lgD5WgcQ> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/Om54sQbN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Om54sQbN> <http://id.ukpds.org/schema/constituencyGroupName> "Lewes" .
+<http://id.ukpds.org/Om54sQbN> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Om54sQbN> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/5bOqRuWI> .
+<http://id.ukpds.org/5bOqRuWI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/5bOqRuWI> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/imWfZYqo> .
+<http://id.ukpds.org/imWfZYqo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/imWfZYqo> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/GQD9AyXn> .
+<http://id.ukpds.org/GQD9AyXn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/GQD9AyXn> <http://id.ukpds.org/schema/personGivenName> "Maria" .
+<http://id.ukpds.org/GQD9AyXn> <http://id.ukpds.org/schema/personFamilyName> "Caulfield" .
+<http://id.ukpds.org/GQD9AyXn> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Maria Caulfield" .
+<http://id.ukpds.org/GQD9AyXn> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/wFkt7cmb> .
+<http://id.ukpds.org/wFkt7cmb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/wFkt7cmb> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/GQD9AyXn> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Hy5ghZ86> .
+<http://id.ukpds.org/Hy5ghZ86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Hy5ghZ86> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/SZ5OrH42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/SZ5OrH42> <http://id.ukpds.org/schema/constituencyGroupName> "Lanark" .
+<http://id.ukpds.org/SZ5OrH42> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/SZ5OrH42> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/x2UvjMEo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/x2UvjMEo> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/x2UvjMEo> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/x2UvjMEo> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZYI3yFiz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ZYI3yFiz> <http://id.ukpds.org/schema/constituencyGroupName> "Luton North" .
+<http://id.ukpds.org/ZYI3yFiz> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ZYI3yFiz> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/SGnOp2iO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/SGnOp2iO> <http://id.ukpds.org/schema/constituencyGroupName> "Leominster" .
+<http://id.ukpds.org/SGnOp2iO> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/SGnOp2iO> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2LcrFNqy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2LcrFNqy> <http://id.ukpds.org/schema/constituencyGroupName> "Lowestoft" .
+<http://id.ukpds.org/2LcrFNqy> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2LcrFNqy> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lReHLaVF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lReHLaVF> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham, Deptford" .
+<http://id.ukpds.org/lReHLaVF> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lReHLaVF> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/FepeNqfl> .
+<http://id.ukpds.org/FepeNqfl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/FepeNqfl> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/gmYS579Z> .
+<http://id.ukpds.org/gmYS579Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/gmYS579Z> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/fCpPm1nW> .
+<http://id.ukpds.org/fCpPm1nW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/fCpPm1nW> <http://id.ukpds.org/schema/personGivenName> "Victoria" .
+<http://id.ukpds.org/fCpPm1nW> <http://id.ukpds.org/schema/personFamilyName> "Foxcroft" .
+<http://id.ukpds.org/fCpPm1nW> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Vicky Foxcroft" .
+<http://id.ukpds.org/fCpPm1nW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/dNhAlO4F> .
+<http://id.ukpds.org/dNhAlO4F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/dNhAlO4F> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/fCpPm1nW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/yNyAGNsT> .
+<http://id.ukpds.org/yNyAGNsT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/yNyAGNsT> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/y1EEKwFB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/y1EEKwFB> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester East" .
+<http://id.ukpds.org/y1EEKwFB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/y1EEKwFB> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/aog6RQua> .
+<http://id.ukpds.org/aog6RQua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/aog6RQua> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/zj7lHLmj> .
+<http://id.ukpds.org/zj7lHLmj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/zj7lHLmj> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/8yVlr93z> .
+<http://id.ukpds.org/8yVlr93z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/8yVlr93z> <http://id.ukpds.org/schema/personGivenName> "Keith" .
+<http://id.ukpds.org/8yVlr93z> <http://id.ukpds.org/schema/personFamilyName> "Vaz" .
+<http://id.ukpds.org/8yVlr93z> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Keith Vaz" .
+<http://id.ukpds.org/8yVlr93z> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/nWtvejPK> .
+<http://id.ukpds.org/nWtvejPK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/nWtvejPK> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/8yVlr93z> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/8IrTCt4O> .
+<http://id.ukpds.org/8IrTCt4O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/8IrTCt4O> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/8yVlr93z> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/mou7Sduy> .
+<http://id.ukpds.org/mou7Sduy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/mou7Sduy> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/YVfjRyvZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/YVfjRyvZ> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster" .
+<http://id.ukpds.org/YVfjRyvZ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/YVfjRyvZ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QkCiTbtr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/QkCiTbtr> <http://id.ukpds.org/schema/constituencyGroupName> "Leek" .
+<http://id.ukpds.org/QkCiTbtr> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QkCiTbtr> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/LMnIUKvP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/LMnIUKvP> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Wavertree" .
+<http://id.ukpds.org/LMnIUKvP> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/LMnIUKvP> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/DZZISrTm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/DZZISrTm> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham East" .
+<http://id.ukpds.org/DZZISrTm> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/DZZISrTm> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/NBg2NN3q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/NBg2NN3q> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/NBg2NN3q> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/NBg2NN3q> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XEwCMhAO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/XEwCMhAO> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/XEwCMhAO> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XEwCMhAO> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uTpxXCOy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/uTpxXCOy> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Exchange" .
+<http://id.ukpds.org/uTpxXCOy> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uTpxXCOy> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/5fQZq22M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/5fQZq22M> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/5fQZq22M> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/5fQZq22M> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/YNF7D3Fg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/YNF7D3Fg> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/YNF7D3Fg> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/YNF7D3Fg> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OcbkXMLc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/OcbkXMLc> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester East" .
+<http://id.ukpds.org/OcbkXMLc> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OcbkXMLc> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Mu5HVl9U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Mu5HVl9U> <http://id.ukpds.org/schema/constituencyGroupName> "Luton North" .
+<http://id.ukpds.org/Mu5HVl9U> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Mu5HVl9U> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/XyfyeEls> .
+<http://id.ukpds.org/XyfyeEls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/XyfyeEls> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/xbethmdm> .
+<http://id.ukpds.org/xbethmdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/xbethmdm> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/zTi22fA8> .
+<http://id.ukpds.org/zTi22fA8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/zTi22fA8> <http://id.ukpds.org/schema/personGivenName> "Kelvin" .
+<http://id.ukpds.org/zTi22fA8> <http://id.ukpds.org/schema/personFamilyName> "Hopkins" .
+<http://id.ukpds.org/zTi22fA8> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Kelvin Hopkins" .
+<http://id.ukpds.org/zTi22fA8> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/VLVxBlot> .
+<http://id.ukpds.org/VLVxBlot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/VLVxBlot> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/zTi22fA8> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/wCbyAWQ6> .
+<http://id.ukpds.org/wCbyAWQ6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/wCbyAWQ6> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/zTi22fA8> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/TeWXOfqq> .
+<http://id.ukpds.org/TeWXOfqq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/TeWXOfqq> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/sYUN2rFa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/sYUN2rFa> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/sYUN2rFa> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/sYUN2rFa> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/zhmWmNFK> .
+<http://id.ukpds.org/zhmWmNFK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/zhmWmNFK> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/opj0M6RT> .
+<http://id.ukpds.org/opj0M6RT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/opj0M6RT> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/AaF4uAp0> .
+<http://id.ukpds.org/AaF4uAp0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/AaF4uAp0> <http://id.ukpds.org/schema/personGivenName> "Karen" .
+<http://id.ukpds.org/AaF4uAp0> <http://id.ukpds.org/schema/personFamilyName> "Lee" .
+<http://id.ukpds.org/AaF4uAp0> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ms Karen Lee" .
+<http://id.ukpds.org/AaF4uAp0> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/SXbB9GKH> .
+<http://id.ukpds.org/SXbB9GKH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/SXbB9GKH> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/2rYyQDyA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2rYyQDyA> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Wavertree" .
+<http://id.ukpds.org/2rYyQDyA> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2rYyQDyA> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/IRRAQD5o> .
+<http://id.ukpds.org/IRRAQD5o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/IRRAQD5o> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/cXhf0Xxl> .
+<http://id.ukpds.org/cXhf0Xxl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/cXhf0Xxl> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/9GKRkFGG> .
+<http://id.ukpds.org/9GKRkFGG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/9GKRkFGG> <http://id.ukpds.org/schema/personGivenName> "Luciana" .
+<http://id.ukpds.org/9GKRkFGG> <http://id.ukpds.org/schema/personFamilyName> "Goldsmith (Berger)" .
+<http://id.ukpds.org/9GKRkFGG> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Luciana Berger" .
+<http://id.ukpds.org/9GKRkFGG> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/wISjvk08> .
+<http://id.ukpds.org/wISjvk08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/wISjvk08> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9GKRkFGG> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/XGXNUcof> .
+<http://id.ukpds.org/XGXNUcof> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/XGXNUcof> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9GKRkFGG> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/uspJI0mF> .
+<http://id.ukpds.org/uspJI0mF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/uspJI0mF> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/R2t62q1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/R2t62q1b> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West" .
+<http://id.ukpds.org/R2t62q1b> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/R2t62q1b> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/n2HwNbjD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/n2HwNbjD> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Scotland" .
+<http://id.ukpds.org/n2HwNbjD> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/n2HwNbjD> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/iWAJrdpc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/iWAJrdpc> <http://id.ukpds.org/schema/constituencyGroupName> "Llandaff and Barry" .
+<http://id.ukpds.org/iWAJrdpc> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/iWAJrdpc> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wz2rDfWi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/wz2rDfWi> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/wz2rDfWi> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/wz2rDfWi> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1J4vdWFJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/1J4vdWFJ> <http://id.ukpds.org/schema/constituencyGroupName> "London University" .
+<http://id.ukpds.org/1J4vdWFJ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1J4vdWFJ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uViACJLR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/uViACJLR> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Wavertree" .
+<http://id.ukpds.org/uViACJLR> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uViACJLR> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3bqR22PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/3bqR22PC> <http://id.ukpds.org/schema/constituencyGroupName> "Llanelli" .
+<http://id.ukpds.org/3bqR22PC> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/3bqR22PC> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gD75WvBE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/gD75WvBE> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham East" .
+<http://id.ukpds.org/gD75WvBE> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gD75WvBE> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/v3IOYeiP> .
+<http://id.ukpds.org/v3IOYeiP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/v3IOYeiP> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/iBYclAAR> .
+<http://id.ukpds.org/iBYclAAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/iBYclAAR> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/9GUN7QNU> .
+<http://id.ukpds.org/9GUN7QNU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/9GUN7QNU> <http://id.ukpds.org/schema/personGivenName> "Heidi" .
+<http://id.ukpds.org/9GUN7QNU> <http://id.ukpds.org/schema/personFamilyName> "Alexander" .
+<http://id.ukpds.org/9GUN7QNU> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Heidi Alexander" .
+<http://id.ukpds.org/9GUN7QNU> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Ex3Ra6Mz> .
+<http://id.ukpds.org/Ex3Ra6Mz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Ex3Ra6Mz> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9GUN7QNU> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/gyQz5lFP> .
+<http://id.ukpds.org/gyQz5lFP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/gyQz5lFP> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9GUN7QNU> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/Q85dWSeN> .
+<http://id.ukpds.org/Q85dWSeN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/Q85dWSeN> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/WvRUPhy0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/WvRUPhy0> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester West" .
+<http://id.ukpds.org/WvRUPhy0> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/WvRUPhy0> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/DXAXQdfG> .
+<http://id.ukpds.org/DXAXQdfG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/DXAXQdfG> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/HnZLubsB> .
+<http://id.ukpds.org/HnZLubsB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/HnZLubsB> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/2yNiEdFY> .
+<http://id.ukpds.org/2yNiEdFY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/2yNiEdFY> <http://id.ukpds.org/schema/personGivenName> "Elizabeth" .
+<http://id.ukpds.org/2yNiEdFY> <http://id.ukpds.org/schema/personFamilyName> "Kendall" .
+<http://id.ukpds.org/2yNiEdFY> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Liz Kendall" .
+<http://id.ukpds.org/2yNiEdFY> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/fe40OGhP> .
+<http://id.ukpds.org/fe40OGhP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/fe40OGhP> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/2yNiEdFY> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/t5WexxrE> .
+<http://id.ukpds.org/t5WexxrE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/t5WexxrE> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/2yNiEdFY> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/P0Zek09C> .
+<http://id.ukpds.org/P0Zek09C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/P0Zek09C> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/OHhl4MGa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/OHhl4MGa> <http://id.ukpds.org/schema/constituencyGroupName> "Langbaurgh" .
+<http://id.ukpds.org/OHhl4MGa> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OHhl4MGa> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9cZSCBOC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/9cZSCBOC> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/9cZSCBOC> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9cZSCBOC> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/7jnio87j> .
+<http://id.ukpds.org/7jnio87j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/7jnio87j> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/MlMLDcY6> .
+<http://id.ukpds.org/MlMLDcY6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/MlMLDcY6> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/3y6GQ6An> .
+<http://id.ukpds.org/3y6GQ6An> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/3y6GQ6An> <http://id.ukpds.org/schema/personGivenName> "Philip" .
+<http://id.ukpds.org/3y6GQ6An> <http://id.ukpds.org/schema/personFamilyName> "Dunne" .
+<http://id.ukpds.org/3y6GQ6An> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Philip Dunne" .
+<http://id.ukpds.org/3y6GQ6An> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/0A55y2q1> .
+<http://id.ukpds.org/0A55y2q1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/0A55y2q1> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/3y6GQ6An> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/GVX2PVf4> .
+<http://id.ukpds.org/GVX2PVf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/GVX2PVf4> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/3y6GQ6An> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/B3l3fM63> .
+<http://id.ukpds.org/B3l3fM63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/B3l3fM63> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/1rw2MAK8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/1rw2MAK8> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North West" .
+<http://id.ukpds.org/1rw2MAK8> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1rw2MAK8> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/wJYDUruq> .
+<http://id.ukpds.org/wJYDUruq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/wJYDUruq> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/R2O0cJ0u> .
+<http://id.ukpds.org/R2O0cJ0u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/R2O0cJ0u> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/BnPGfgaY> .
+<http://id.ukpds.org/BnPGfgaY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/BnPGfgaY> <http://id.ukpds.org/schema/personGivenName> "Alexander" .
+<http://id.ukpds.org/BnPGfgaY> <http://id.ukpds.org/schema/personFamilyName> "Sobel" .
+<http://id.ukpds.org/BnPGfgaY> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Alex Sobel" .
+<http://id.ukpds.org/BnPGfgaY> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/0F3tkotn> .
+<http://id.ukpds.org/0F3tkotn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/0F3tkotn> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/t9GslQSF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/t9GslQSF> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South" .
+<http://id.ukpds.org/t9GslQSF> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/t9GslQSF> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/zBAWnl30> .
+<http://id.ukpds.org/zBAWnl30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/zBAWnl30> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/yuqVhn5B> .
+<http://id.ukpds.org/yuqVhn5B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/yuqVhn5B> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/C6y6NjhN> .
+<http://id.ukpds.org/C6y6NjhN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/C6y6NjhN> <http://id.ukpds.org/schema/personGivenName> "Jonathan" .
+<http://id.ukpds.org/C6y6NjhN> <http://id.ukpds.org/schema/personFamilyName> "Ashworth" .
+<http://id.ukpds.org/C6y6NjhN> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Jonathan Ashworth" .
+<http://id.ukpds.org/C6y6NjhN> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/eRUHBRxa> .
+<http://id.ukpds.org/eRUHBRxa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/eRUHBRxa> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/C6y6NjhN> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/wP6H04zi> .
+<http://id.ukpds.org/wP6H04zi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/wP6H04zi> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/C6y6NjhN> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/ibIlZum5> .
+<http://id.ukpds.org/ibIlZum5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/ibIlZum5> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/7AIqoabK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/7AIqoabK> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds South" .
+<http://id.ukpds.org/7AIqoabK> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/7AIqoabK> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CEGnQArC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CEGnQArC> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/CEGnQArC> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CEGnQArC> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/I9DBcOY3> .
+<http://id.ukpds.org/I9DBcOY3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/I9DBcOY3> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/NydjPSGJ> .
+<http://id.ukpds.org/NydjPSGJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/NydjPSGJ> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/lMU6OIbW> .
+<http://id.ukpds.org/lMU6OIbW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/lMU6OIbW> <http://id.ukpds.org/schema/personGivenName> "Nicola" .
+<http://id.ukpds.org/lMU6OIbW> <http://id.ukpds.org/schema/personFamilyName> "Morgan" .
+<http://id.ukpds.org/lMU6OIbW> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Nicky Morgan" .
+<http://id.ukpds.org/lMU6OIbW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/gLakWlad> .
+<http://id.ukpds.org/gLakWlad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/gLakWlad> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/lMU6OIbW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/xnQ22IdQ> .
+<http://id.ukpds.org/xnQ22IdQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/xnQ22IdQ> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/lMU6OIbW> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/UptlaFhR> .
+<http://id.ukpds.org/UptlaFhR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/UptlaFhR> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
+<http://id.ukpds.org/I1HGLIpD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/I1HGLIpD> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/I1HGLIpD> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/I1HGLIpD> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/k8FHlH4w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/k8FHlH4w> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/k8FHlH4w> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/k8FHlH4w> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/5OgRYqBu> .
+<http://id.ukpds.org/5OgRYqBu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/5OgRYqBu> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/8oCMI1VH> .
+<http://id.ukpds.org/8oCMI1VH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/8oCMI1VH> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/rnoEsu9t> .
+<http://id.ukpds.org/rnoEsu9t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/rnoEsu9t> <http://id.ukpds.org/schema/personGivenName> "Daniel" .
+<http://id.ukpds.org/rnoEsu9t> <http://id.ukpds.org/schema/personFamilyName> "Carden" .
+<http://id.ukpds.org/rnoEsu9t> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Dan Carden" .
+<http://id.ukpds.org/rnoEsu9t> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/qNKaWuqN> .
+<http://id.ukpds.org/qNKaWuqN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/qNKaWuqN> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/6hGKXgFr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/6hGKXgFr> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/6hGKXgFr> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/6hGKXgFr> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mZCWkrgx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/mZCWkrgx> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Riverside" .
+<http://id.ukpds.org/mZCWkrgx> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mZCWkrgx> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BExuYjfm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/BExuYjfm> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Fairfield" .
+<http://id.ukpds.org/BExuYjfm> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BExuYjfm> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CroWYkmy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CroWYkmy> <http://id.ukpds.org/schema/constituencyGroupName> "Lichfield" .
+<http://id.ukpds.org/CroWYkmy> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CroWYkmy> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/rcoLispy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/rcoLispy> <http://id.ukpds.org/schema/constituencyGroupName> "Leyton West" .
+<http://id.ukpds.org/rcoLispy> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/rcoLispy> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IxblSvjt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/IxblSvjt> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds Central" .
+<http://id.ukpds.org/IxblSvjt> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IxblSvjt> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/SE76O6eG> .
+<http://id.ukpds.org/SE76O6eG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/SE76O6eG> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Lv08m6kh> .
+<http://id.ukpds.org/Lv08m6kh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/Lv08m6kh> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/9JExzCt2> .
+<http://id.ukpds.org/9JExzCt2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/9JExzCt2> <http://id.ukpds.org/schema/personGivenName> "Hilary" .
+<http://id.ukpds.org/9JExzCt2> <http://id.ukpds.org/schema/personFamilyName> "Benn" .
+<http://id.ukpds.org/9JExzCt2> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Hilary Benn" .
+<http://id.ukpds.org/9JExzCt2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/N0gujfD1> .
+<http://id.ukpds.org/N0gujfD1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/N0gujfD1> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9JExzCt2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/pBbRySeU> .
+<http://id.ukpds.org/pBbRySeU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/pBbRySeU> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/9JExzCt2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/XhhVEq6w> .
+<http://id.ukpds.org/XhhVEq6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/XhhVEq6w> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/aU0zZbZf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/aU0zZbZf> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster and Fleetwood" .
+<http://id.ukpds.org/aU0zZbZf> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/aU0zZbZf> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/BmStrcu7> .
+<http://id.ukpds.org/BmStrcu7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/BmStrcu7> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/EC5ahwUU> .
+<http://id.ukpds.org/EC5ahwUU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/EC5ahwUU> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/Av8y9zL2> .
+<http://id.ukpds.org/Av8y9zL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/Av8y9zL2> <http://id.ukpds.org/schema/personGivenName> "Catherine" .
+<http://id.ukpds.org/Av8y9zL2> <http://id.ukpds.org/schema/personFamilyName> "Smith" .
+<http://id.ukpds.org/Av8y9zL2> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Cat Smith" .
+<http://id.ukpds.org/Av8y9zL2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/bckaZtRC> .
+<http://id.ukpds.org/bckaZtRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/bckaZtRC> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/Av8y9zL2> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/lAIPUpNS> .
+<http://id.ukpds.org/lAIPUpNS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/lAIPUpNS> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/891w1b1k> .
+<http://id.ukpds.org/jMGnyn9N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/jMGnyn9N> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West" .
+<http://id.ukpds.org/jMGnyn9N> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/jMGnyn9N> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/v1GzOZHh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/v1GzOZHh> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, West Derby" .
+<http://id.ukpds.org/v1GzOZHh> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/v1GzOZHh> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/RruB3M1A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/RruB3M1A> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North East" .
+<http://id.ukpds.org/RruB3M1A> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/RruB3M1A> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0WmKHhYl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/0WmKHhYl> <http://id.ukpds.org/schema/constituencyGroupName> "Linlithgow and East Falkirk" .
+<http://id.ukpds.org/0WmKHhYl> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2005-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/0WmKHhYl> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/Ump8ZEMj> .
+<http://id.ukpds.org/Ump8ZEMj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/Ump8ZEMj> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/tyVQbieZ> .
+<http://id.ukpds.org/tyVQbieZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/tyVQbieZ> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/vbvpn5G4> .
+<http://id.ukpds.org/vbvpn5G4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/vbvpn5G4> <http://id.ukpds.org/schema/personGivenName> "Martyn" .
+<http://id.ukpds.org/vbvpn5G4> <http://id.ukpds.org/schema/personFamilyName> "Day" .
+<http://id.ukpds.org/vbvpn5G4> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Martyn Day" .
+<http://id.ukpds.org/vbvpn5G4> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/BpGreYHb> .
+<http://id.ukpds.org/BpGreYHb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/BpGreYHb> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/vbvpn5G4> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/9fcVj16V> .
+<http://id.ukpds.org/9fcVj16V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/9fcVj16V> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/msCC3sDK> .
+<http://id.ukpds.org/kM4Uhxo8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/kM4Uhxo8> <http://id.ukpds.org/schema/constituencyGroupName> "Londonderry" .
+<http://id.ukpds.org/kM4Uhxo8> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/kM4Uhxo8> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vRmow2pS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/vRmow2pS> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/vRmow2pS> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/vRmow2pS> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/b76HAMFh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/b76HAMFh> <http://id.ukpds.org/schema/constituencyGroupName> "Lagan Valley" .
+<http://id.ukpds.org/b76HAMFh> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/b76HAMFh> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FXLVMUqe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/FXLVMUqe> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester South West" .
+<http://id.ukpds.org/FXLVMUqe> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FXLVMUqe> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/SNU1J4mB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/SNU1J4mB> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North West" .
+<http://id.ukpds.org/SNU1J4mB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/SNU1J4mB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/D6M0YoVH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/D6M0YoVH> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North West" .
+<http://id.ukpds.org/D6M0YoVH> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/D6M0YoVH> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fAhPmOEe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/fAhPmOEe> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester West" .
+<http://id.ukpds.org/fAhPmOEe> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fAhPmOEe> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/k2dURamI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/k2dURamI> <http://id.ukpds.org/schema/constituencyGroupName> "Lincoln" .
+<http://id.ukpds.org/k2dURamI> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/k2dURamI> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/pShfmrgB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/pShfmrgB> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/pShfmrgB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/pShfmrgB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/xKFWCMim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/xKFWCMim> <http://id.ukpds.org/schema/constituencyGroupName> "Littleborough and Saddleworth" .
+<http://id.ukpds.org/xKFWCMim> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/xKFWCMim> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/a4YHo9kU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/a4YHo9kU> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster" .
+<http://id.ukpds.org/a4YHo9kU> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/a4YHo9kU> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/sppa7NEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/sppa7NEB> <http://id.ukpds.org/schema/constituencyGroupName> "Lagan Valley" .
+<http://id.ukpds.org/sppa7NEB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/sppa7NEB> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/Vm7zM2Nk> .
+<http://id.ukpds.org/Vm7zM2Nk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<http://id.ukpds.org/Vm7zM2Nk> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/8U64fp5r> .
+<http://id.ukpds.org/8U64fp5r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
+<http://id.ukpds.org/8U64fp5r> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/794HnSkC> .
+<http://id.ukpds.org/794HnSkC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/personGivenName> "Jeffrey" .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/personFamilyName> "Donaldson" .
+<http://id.ukpds.org/794HnSkC> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Sir Jeffrey M. Donaldson" .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/DXgXgbhK> .
+<http://id.ukpds.org/DXgXgbhK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/DXgXgbhK> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/OvQrKi8Q> .
+<http://id.ukpds.org/OvQrKi8Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/OvQrKi8Q> <http://id.ukpds.org/schema/partyName> "Ulster Unionist Party" .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/yM6Fqo0T> .
+<http://id.ukpds.org/yM6Fqo0T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/yM6Fqo0T> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/PxdeRudC> .
+<http://id.ukpds.org/PxdeRudC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/PxdeRudC> <http://id.ukpds.org/schema/partyName> "Independent Unionist" .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/k0yBuJgB> .
+<http://id.ukpds.org/k0yBuJgB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/k0yBuJgB> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/PTqFnU5d> .
+<http://id.ukpds.org/PTqFnU5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/partyName> "Democratic Unionist Party" .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/SyzTJnsl> .
+<http://id.ukpds.org/SyzTJnsl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/SyzTJnsl> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/PTqFnU5d> .
+<http://id.ukpds.org/794HnSkC> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/zWtZhfqb> .
+<http://id.ukpds.org/zWtZhfqb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
+<http://id.ukpds.org/zWtZhfqb> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/PTqFnU5d> .
+<http://id.ukpds.org/XaUSuoE8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/XaUSuoE8> <http://id.ukpds.org/schema/constituencyGroupName> "Leominster" .
+<http://id.ukpds.org/XaUSuoE8> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XaUSuoE8> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BCJkuS90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/BCJkuS90> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham, Deptford" .
+<http://id.ukpds.org/BCJkuS90> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/BCJkuS90> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fE9q414O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/fE9q414O> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham East" .
+<http://id.ukpds.org/fE9q414O> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fE9q414O> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/faGVz5eG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/faGVz5eG> <http://id.ukpds.org/schema/constituencyGroupName> "Linlithgowshire" .
+<http://id.ukpds.org/faGVz5eG> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/faGVz5eG> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bWq2IlHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bWq2IlHM> <http://id.ukpds.org/schema/constituencyGroupName> "Louth" .
+<http://id.ukpds.org/bWq2IlHM> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bWq2IlHM> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uPpLw9AM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/uPpLw9AM> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/uPpLw9AM> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uPpLw9AM> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/EXVuaoQS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/EXVuaoQS> <http://id.ukpds.org/schema/constituencyGroupName> "Londonderry" .
+<http://id.ukpds.org/EXVuaoQS> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/EXVuaoQS> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2cQcLmDq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/2cQcLmDq> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester East" .
+<http://id.ukpds.org/2cQcLmDq> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/2cQcLmDq> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OA4Z2Ier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/OA4Z2Ier> <http://id.ukpds.org/schema/constituencyGroupName> "Leek" .
+<http://id.ukpds.org/OA4Z2Ier> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OA4Z2Ier> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UtdctwEn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/UtdctwEn> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester West" .
+<http://id.ukpds.org/UtdctwEn> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UtdctwEn> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/8n4pHNS1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/8n4pHNS1> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Edge Hill" .
+<http://id.ukpds.org/8n4pHNS1> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/8n4pHNS1> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CfJnGc6v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/CfJnGc6v> <http://id.ukpds.org/schema/constituencyGroupName> "Leominster" .
+<http://id.ukpds.org/CfJnGc6v> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/CfJnGc6v> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IyRVXE3m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/IyRVXE3m> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/IyRVXE3m> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IyRVXE3m> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UtirsbmT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/UtirsbmT> <http://id.ukpds.org/schema/constituencyGroupName> "Leicester East" .
+<http://id.ukpds.org/UtirsbmT> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/UtirsbmT> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gqvcOgzT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/gqvcOgzT> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/gqvcOgzT> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/gqvcOgzT> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bBCeXw91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/bBCeXw91> <http://id.ukpds.org/schema/constituencyGroupName> "Lanark" .
+<http://id.ukpds.org/bBCeXw91> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bBCeXw91> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nljBDdbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/nljBDdbe> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/nljBDdbe> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nljBDdbe> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4s2SsHdm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4s2SsHdm> <http://id.ukpds.org/schema/constituencyGroupName> "Lancaster and Wyre" .
+<http://id.ukpds.org/4s2SsHdm> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4s2SsHdm> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ktSW7kNX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ktSW7kNX> <http://id.ukpds.org/schema/constituencyGroupName> "Louth and Horncastle" .
+<http://id.ukpds.org/ktSW7kNX> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ktSW7kNX> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XefE4Ena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/XefE4Ena> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham North" .
+<http://id.ukpds.org/XefE4Ena> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XefE4Ena> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ux78L3n7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ux78L3n7> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Kirkdale" .
+<http://id.ukpds.org/ux78L3n7> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ux78L3n7> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VYiCYF4r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/VYiCYF4r> <http://id.ukpds.org/schema/constituencyGroupName> "Londonderry" .
+<http://id.ukpds.org/VYiCYF4r> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/VYiCYF4r> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9Hdrkviy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/9Hdrkviy> <http://id.ukpds.org/schema/constituencyGroupName> "Luton" .
+<http://id.ukpds.org/9Hdrkviy> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/9Hdrkviy> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fjO8DhXx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/fjO8DhXx> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds North West" .
+<http://id.ukpds.org/fjO8DhXx> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/fjO8DhXx> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ED89dnVG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/ED89dnVG> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Garston" .
+<http://id.ukpds.org/ED89dnVG> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/ED89dnVG> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FAO0PJrj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/FAO0PJrj> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Edge Hill" .
+<http://id.ukpds.org/FAO0PJrj> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/FAO0PJrj> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lFCz26zD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/lFCz26zD> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/lFCz26zD> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/lFCz26zD> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/taYDn3IB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/taYDn3IB> <http://id.ukpds.org/schema/constituencyGroupName> "Luton" .
+<http://id.ukpds.org/taYDn3IB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/taYDn3IB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OHuIDI9G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/OHuIDI9G> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham, Deptford" .
+<http://id.ukpds.org/OHuIDI9G> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/OHuIDI9G> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XqZaYbzY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/XqZaYbzY> <http://id.ukpds.org/schema/constituencyGroupName> "Luton South" .
+<http://id.ukpds.org/XqZaYbzY> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/XqZaYbzY> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QW1jgON2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/QW1jgON2> <http://id.ukpds.org/schema/constituencyGroupName> "Lowestoft" .
+<http://id.ukpds.org/QW1jgON2> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QW1jgON2> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/JTd8y21U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/JTd8y21U> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/JTd8y21U> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/JTd8y21U> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/M3AdGqZZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/M3AdGqZZ> <http://id.ukpds.org/schema/constituencyGroupName> "Leigh" .
+<http://id.ukpds.org/M3AdGqZZ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/M3AdGqZZ> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Pkofa6Gi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Pkofa6Gi> <http://id.ukpds.org/schema/constituencyGroupName> "Ludlow" .
+<http://id.ukpds.org/Pkofa6Gi> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Pkofa6Gi> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1Fjulb4g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/1Fjulb4g> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds East" .
+<http://id.ukpds.org/1Fjulb4g> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/1Fjulb4g> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/70aQ7K18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/70aQ7K18> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham South" .
+<http://id.ukpds.org/70aQ7K18> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/70aQ7K18> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IOgcjtzj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/IOgcjtzj> <http://id.ukpds.org/schema/constituencyGroupName> "Lambeth North" .
+<http://id.ukpds.org/IOgcjtzj> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/IOgcjtzj> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Q9N7pqGR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/Q9N7pqGR> <http://id.ukpds.org/schema/constituencyGroupName> "Lewisham West" .
+<http://id.ukpds.org/Q9N7pqGR> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Q9N7pqGR> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/TF3oggLe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/TF3oggLe> <http://id.ukpds.org/schema/constituencyGroupName> "Liverpool, Walton" .
+<http://id.ukpds.org/TF3oggLe> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/TF3oggLe> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1918-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uku3iKHV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/uku3iKHV> <http://id.ukpds.org/schema/constituencyGroupName> "Leeds West" .
+<http://id.ukpds.org/uku3iKHV> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/uku3iKHV> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nRMU1Xhn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/nRMU1Xhn> <http://id.ukpds.org/schema/constituencyGroupName> "Lagan Valley" .
+<http://id.ukpds.org/nRMU1Xhn> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nRMU1Xhn> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4f7az7Hm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
+<http://id.ukpds.org/4f7az7Hm> <http://id.ukpds.org/schema/constituencyGroupName> "Loughborough" .
+<http://id.ukpds.org/4f7az7Hm> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/4f7az7Hm> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node1307749 <http://id.ukpds.org/schema/value> "F" .
+_:node1307750 <http://id.ukpds.org/schema/value> "D" .
+_:node1307751 <http://id.ukpds.org/schema/value> "E" .
+_:node1307752 <http://id.ukpds.org/schema/value> "G" .
+_:node1307753 <http://id.ukpds.org/schema/value> "H" .
+_:node1307754 <http://id.ukpds.org/schema/value> "K" .
+_:node1307755 <http://id.ukpds.org/schema/value> "I" .
+_:node1307756 <http://id.ukpds.org/schema/value> "M" .
+_:node1307757 <http://id.ukpds.org/schema/value> "L" .
+_:node1307758 <http://id.ukpds.org/schema/value> "O" .
+_:node1307759 <http://id.ukpds.org/schema/value> "N" .
+_:node1307760 <http://id.ukpds.org/schema/value> "B" .
+_:node1307761 <http://id.ukpds.org/schema/value> "P" .
+_:node1307762 <http://id.ukpds.org/schema/value> "A" .
+_:node1307763 <http://id.ukpds.org/schema/value> "C" .
+_:node1307764 <http://id.ukpds.org/schema/value> "S" .
+_:node1307765 <http://id.ukpds.org/schema/value> "R" .
+_:node1307766 <http://id.ukpds.org/schema/value> "T" .
+_:node1307767 <http://id.ukpds.org/schema/value> "W" .
+_:node1307768 <http://id.ukpds.org/schema/value> "U" .
+_:node1307769 <http://id.ukpds.org/schema/value> "Q" .
+_:node1307770 <http://id.ukpds.org/schema/value> "Y" .
+_:node1307771 <http://id.ukpds.org/schema/value> "V" .
+_:node1307772 <http://id.ukpds.org/schema/value> "J" .

@@ -50,9 +50,12 @@ GEM
       syslog-logger
       webmock
     method_source (0.8.2)
+    mini_portile2 (2.2.0)
     multi_json (1.12.1)
     multi_test (0.1.2)
     nenv (0.3.0)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
     notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
@@ -144,6 +147,7 @@ DEPENDENCIES
   dotenv
   guard-rspec
   macmillan-utils
+  nokogiri
   pry
   puma
   rack-test
@@ -155,4 +159,4 @@ DEPENDENCIES
   sinatra-contrib
 
 BUNDLED WITH
-   1.14.6
+   1.15.3
