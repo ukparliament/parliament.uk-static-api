@@ -1,40 +1,69 @@
-<http://id.ukpds.org/Kz7ncmrt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
-<http://id.ukpds.org/Kz7ncmrt> <http://id.ukpds.org/schema/houseName> "House of Commons" .
-<http://id.ukpds.org/JCORBTRADECOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/TRADECOMMITTEE> .
-<http://id.ukpds.org/JCORBTRADECOMMITTEEMEMBERSHIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/JCORBTRADECOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "1991-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/JCORBTRADECOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2001-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/TRADECOMMITTEE> <http://id.ukpds.org/schema/formalBodyName> "Trade Committee" .
-<http://id.ukpds.org/TRADECOMMITTEE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/JCORBJOBSCOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/JOBSCOMMITTEE> .
-<http://id.ukpds.org/JCORBJOBSCOMMITTEEMEMBERSHIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/JCORBJOBSCOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "1998-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/JCORBJOBSCOMMITTEEMEMBERSHIP> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "20012-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/JOBSCOMMITTEE> <http://id.ukpds.org/schema/formalBodyName> "Jobs Committee" .
-<http://id.ukpds.org/JOBSCOMMITTEE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-_:node1349959 <http://id.ukpds.org/schema/value> "S" .
-_:node1349960 <http://id.ukpds.org/schema/value> "C" .
-_:node1349961 <http://id.ukpds.org/schema/value> "R" .
-_:node1349962 <http://id.ukpds.org/schema/value> "W" .
-_:node1349963 <http://id.ukpds.org/schema/value> "M" .
-_:node1349964 <http://id.ukpds.org/schema/value> "G" .
-_:node1349965 <http://id.ukpds.org/schema/value> "K" .
-_:node1349966 <http://id.ukpds.org/schema/value> "T" .
-_:node1349967 <http://id.ukpds.org/schema/value> "B" .
-_:node1349968 <http://id.ukpds.org/schema/value> "A" .
-_:node1349969 <http://id.ukpds.org/schema/value> "H" .
-_:node1349970 <http://id.ukpds.org/schema/value> "F" .
-_:node1349971 <http://id.ukpds.org/schema/value> "D" .
-_:node1349972 <http://id.ukpds.org/schema/value> "J" .
-_:node1349973 <http://id.ukpds.org/schema/value> "P" .
-_:node1349974 <http://id.ukpds.org/schema/value> "O" .
-_:node1349975 <http://id.ukpds.org/schema/value> "L" .
-_:node1349976 <http://id.ukpds.org/schema/value> "V" .
-_:node1349977 <http://id.ukpds.org/schema/value> "N" .
-_:node1349978 <http://id.ukpds.org/schema/value> "E" .
-_:node1349979 <http://id.ukpds.org/schema/value> "Y" .
-_:node1349980 <http://id.ukpds.org/schema/value> "I" .
-_:node1349981 <http://id.ukpds.org/schema/value> "U" .
-_:node1349982 <http://id.ukpds.org/schema/value> “X” .
-_:node1349983 <http://id.ukpds.org/schema/value> "Q" .
-_:node1349984 <http://id.ukpds.org/schema/value> "Z" .
+_:node73975 <http://id.ukpds.org/schema/value> "N" .
+_:node73976 <http://id.ukpds.org/schema/value> "W" .
+_:node73977 <http://id.ukpds.org/schema/value> "S" .
+_:node73978 <http://id.ukpds.org/schema/value> "O" .
+_:node73979 <http://id.ukpds.org/schema/value> "E" .
+_:node73980 <http://id.ukpds.org/schema/value> "T" .
+_:node73981 <http://id.ukpds.org/schema/value> "C" .
+_:node73982 <http://id.ukpds.org/schema/value> "H" .
+_:node73983 <http://id.ukpds.org/schema/value> "U" .
+_:node73984 <http://id.ukpds.org/schema/value> "D" .
+_:node73985 <http://id.ukpds.org/schema/value> "P" .
+_:node73986 <http://id.ukpds.org/schema/value> "I" .
+_:node73987 <http://id.ukpds.org/schema/value> "F" .
+_:node73988 <http://id.ukpds.org/schema/value> "A" .
+_:node73989 <http://id.ukpds.org/schema/value> "R" .
+_:node73990 <http://id.ukpds.org/schema/value> "B" .
+_:node73991 <http://id.ukpds.org/schema/value> "M" .
+_:node73992 <http://id.ukpds.org/schema/value> "L" .
+_:node73993 <http://id.ukpds.org/schema/value> "Y" .
+_:node73994 <http://id.ukpds.org/schema/value> "J" .
+_:node73995 <http://id.ukpds.org/schema/value> "G" .
+_:node73996 <http://id.ukpds.org/schema/value> "V" .
+<http://id.ukpds.org/i2l8iys6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseName> "House of Commons" .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/nVDEacS8> .
+<http://id.ukpds.org/nVDEacS8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyName> "Accomodation & Works" .
+<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/QTnNmUnk> .
+<http://id.ukpds.org/QTnNmUnk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyName> "Agriculture" .
+<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyStartDate> "1979-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/sOFhJXTb> .
+<http://id.ukpds.org/sOFhJXTb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyName> "Armed Forces Bill Committee" .
+<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyStartDate> "2005-12-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyEndDate> "2011-03-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/bWV22pwm> .
+<http://id.ukpds.org/bWV22pwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyName> "Adminstration Sub Committee" .
+<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyStartDate> "1977-11-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyEndDate> "1998-11-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/NUqcxqyK> .
+<http://id.ukpds.org/NUqcxqyK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyName> "Armed Forces  Bill Committee" .
+<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyStartDate> "2015-10-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyEndDate> "2015-11-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/NR3BEzhZ> .
+<http://id.ukpds.org/NR3BEzhZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyName> "Administration and Works Committee (Lords)" .
+<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyStartDate> "1998-12-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyEndDate> "2016-08-31+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/Si15COns> .
+<http://id.ukpds.org/Si15COns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyName> "Affordable Childcare" .
+<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyStartDate> "2014-06-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyEndDate> "2015-02-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/mvOcyYxH> .
+<http://id.ukpds.org/mvOcyYxH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyName> "Adoption Legislation Committee" .
+<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyStartDate> "2012-05-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyEndDate> "2013-02-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/Ub6ggUo8> .
+<http://id.ukpds.org/Ub6ggUo8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyName> "Able Marine Energy Park Development Consent Order 2014" .
+<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyStartDate> "2014-06-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyEndDate> "2014-10-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
