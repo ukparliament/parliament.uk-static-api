@@ -1,0 +1,11 @@
+<http://id.ukpds.org/JPp4EPXc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
+<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personGivenName> "Adrian" .
+<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personFamilyName> "Bailey" .
+<http://id.ukpds.org/JPp4EPXc> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Adrian Bailey" .
+<http://id.ukpds.org/JPp4EPXc> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Bailey, Mr Adrian" .
+<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/EaRICHSf> .
+<http://id.ukpds.org/EaRICHSf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
+<http://id.ukpds.org/EaRICHSf> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2017-06-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://id.ukpds.org/EaRICHSf> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/u7laxo6f> .
+<http://id.ukpds.org/u7laxo6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
+<http://id.ukpds.org/u7laxo6f> <http://id.ukpds.org/schema/formalBodyName> "Panel of Chairs" .
