@@ -20,12 +20,6 @@ RSpec.describe Parliament::APIv1 do
   end
 
   describe 'GET /parties' do
-    before do
-      get '/parties'
-    end
-
-    it 'returns a 200 status' do
-      expect(last_response.status).to eq(200)
-    end
+    it 'is a pending example'
   end
 end
