@@ -1,1 +1,12 @@
-{ "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/commonsCount> "316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/lordsCount> "253"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/Lb2fghe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/partyName> "Labour" .
+<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/commonsCount> "262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/lordsCount> "199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/BfenMrA6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
+<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/partyName> "Liberal Democrat" .
+<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/commonsCount> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/lordsCount> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
