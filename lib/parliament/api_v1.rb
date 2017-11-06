@@ -22,6 +22,10 @@ module Parliament
       get do
         respond(request.path_info)
       end
+
+      post do
+        respond(request.path_info)
+      end
     end
 
     private
