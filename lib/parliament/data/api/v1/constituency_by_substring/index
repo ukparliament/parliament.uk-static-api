@@ -1,78 +1,88 @@
-<http://id.ukpds.org/40FSF8va> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/40FSF8va> <http://id.ukpds.org/schema/constituencyGroupName> "Surrey Heath" .
-<http://id.ukpds.org/40FSF8va> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/9J0xpHJB> .
-<http://id.ukpds.org/9J0xpHJB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
-<http://id.ukpds.org/9J0xpHJB> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/frfNeBj2> .
-<http://id.ukpds.org/frfNeBj2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
-<http://id.ukpds.org/frfNeBj2> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/B80xA0i1> .
-<http://id.ukpds.org/B80xA0i1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
-<http://id.ukpds.org/B80xA0i1> <http://id.ukpds.org/schema/personGivenName> "Michael" .
-<http://id.ukpds.org/B80xA0i1> <http://id.ukpds.org/schema/personFamilyName> "Gove" .
-<http://id.ukpds.org/B80xA0i1> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Michael Gove" .
-<http://id.ukpds.org/B80xA0i1> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/vo1D2rjF> .
-<http://id.ukpds.org/vo1D2rjF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
-<http://id.ukpds.org/vo1D2rjF> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
-<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
-<http://id.ukpds.org/M7Zj8aMl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/M7Zj8aMl> <http://id.ukpds.org/schema/constituencyGroupName> "Bexleyheath and Crayford" .
-<http://id.ukpds.org/M7Zj8aMl> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/girO6CTX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/girO6CTX> <http://id.ukpds.org/schema/constituencyGroupName> "Birmingham, Small Heath" .
-<http://id.ukpds.org/girO6CTX> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/ZqgNNDYJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/ZqgNNDYJ> <http://id.ukpds.org/schema/constituencyGroupName> "Bexleyheath and Crayford" .
-<http://id.ukpds.org/ZqgNNDYJ> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/kwlp5MVV> .
-<http://id.ukpds.org/kwlp5MVV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
-<http://id.ukpds.org/kwlp5MVV> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/Khb4trIB> .
-<http://id.ukpds.org/Khb4trIB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
-<http://id.ukpds.org/Khb4trIB> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/VhIaWdzc> .
-<http://id.ukpds.org/VhIaWdzc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
-<http://id.ukpds.org/VhIaWdzc> <http://id.ukpds.org/schema/personGivenName> "David" .
-<http://id.ukpds.org/VhIaWdzc> <http://id.ukpds.org/schema/personFamilyName> "Evennett" .
-<http://id.ukpds.org/VhIaWdzc> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "David Evennett" .
-<http://id.ukpds.org/VhIaWdzc> <http://id.ukpds.org/schema/partyMemberHasPartyMembership> <http://id.ukpds.org/gEPU5dYr> .
-<http://id.ukpds.org/gEPU5dYr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/PartyMembership> .
-<http://id.ukpds.org/gEPU5dYr> <http://id.ukpds.org/schema/partyMembershipHasParty> <http://id.ukpds.org/AJgeHzL2> .
-<http://id.ukpds.org/Yrg4mj7I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/Yrg4mj7I> <http://id.ukpds.org/schema/constituencyGroupName> "Surrey Heath" .
-<http://id.ukpds.org/Yrg4mj7I> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/HybbGaJ9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/HybbGaJ9> <http://id.ukpds.org/schema/constituencyGroupName> "Birmingham, Small Heath" .
-<http://id.ukpds.org/HybbGaJ9> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/9ROdhQcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/9ROdhQcs> <http://id.ukpds.org/schema/constituencyGroupName> "Birmingham, Sparkbrook and Small Heath" .
-<http://id.ukpds.org/9ROdhQcs> <http://id.ukpds.org/schema/constituencyGroupEndDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/753kWEeN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/753kWEeN> <http://id.ukpds.org/schema/constituencyGroupName> "Bexleyheath" .
-<http://id.ukpds.org/753kWEeN> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1983-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/VoT3V6jZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/VoT3V6jZ> <http://id.ukpds.org/schema/constituencyGroupName> "Birmingham, Small Heath" .
-<http://id.ukpds.org/VoT3V6jZ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/QvuwURcJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/QvuwURcJ> <http://id.ukpds.org/schema/constituencyGroupName> "Bexleyheath" .
-<http://id.ukpds.org/QvuwURcJ> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1997-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
-_:node1308456 <http://id.ukpds.org/schema/value> "F" .
-_:node1308457 <http://id.ukpds.org/schema/value> "D" .
-_:node1308458 <http://id.ukpds.org/schema/value> "E" .
-_:node1308459 <http://id.ukpds.org/schema/value> "G" .
-_:node1308460 <http://id.ukpds.org/schema/value> "H" .
-_:node1308461 <http://id.ukpds.org/schema/value> "K" .
-_:node1308462 <http://id.ukpds.org/schema/value> "I" .
-_:node1308463 <http://id.ukpds.org/schema/value> "M" .
-_:node1308464 <http://id.ukpds.org/schema/value> "L" .
-_:node1308465 <http://id.ukpds.org/schema/value> "O" .
-_:node1308466 <http://id.ukpds.org/schema/value> "N" .
-_:node1308467 <http://id.ukpds.org/schema/value> "B" .
-_:node1308468 <http://id.ukpds.org/schema/value> "P" .
-_:node1308469 <http://id.ukpds.org/schema/value> "A" .
-_:node1308470 <http://id.ukpds.org/schema/value> "C" .
-_:node1308471 <http://id.ukpds.org/schema/value> "S" .
-_:node1308472 <http://id.ukpds.org/schema/value> "R" .
-_:node1308473 <http://id.ukpds.org/schema/value> "T" .
-_:node1308474 <http://id.ukpds.org/schema/value> "W" .
-_:node1308475 <http://id.ukpds.org/schema/value> "U" .
-_:node1308476 <http://id.ukpds.org/schema/value> "Q" .
-_:node1308477 <http://id.ukpds.org/schema/value> "Y" .
-_:node1308478 <http://id.ukpds.org/schema/value> "V" .
-_:node1308479 <http://id.ukpds.org/schema/value> "J" .
+<https://id.parliament.uk/WKVrccJb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/WKVrccJb> <https://id.parliament.uk/schema/constituencyGroupName> "Birmingham, Small Heath" .
+<https://id.parliament.uk/WKVrccJb> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1950-02-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/WKVrccJb> <https://id.parliament.uk/schema/constituencyGroupEndDate> "1974-02-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IIwHYfwA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/IIwHYfwA> <https://id.parliament.uk/schema/constituencyGroupName> "Bexleyheath" .
+<https://id.parliament.uk/IIwHYfwA> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1974-02-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IIwHYfwA> <https://id.parliament.uk/schema/constituencyGroupEndDate> "1983-06-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sYoecRDz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/sYoecRDz> <https://id.parliament.uk/schema/constituencyGroupName> "Bexleyheath and Crayford" .
+<https://id.parliament.uk/sYoecRDz> <https://id.parliament.uk/schema/constituencyGroupStartDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sYoecRDz> <https://id.parliament.uk/schema/constituencyGroupHasHouseSeat> <https://id.parliament.uk/Nkvsmh1t> .
+<https://id.parliament.uk/Nkvsmh1t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/Nkvsmh1t> <https://id.parliament.uk/schema/houseSeatHasSeatIncumbency> <https://id.parliament.uk/vLQ4Gkq2> .
+<https://id.parliament.uk/vLQ4Gkq2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/vLQ4Gkq2> <https://id.parliament.uk/schema/parliamentaryIncumbencyHasMember> <https://id.parliament.uk/KhqjbENy> .
+<https://id.parliament.uk/KhqjbENy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/KhqjbENy> <https://id.parliament.uk/schema/personGivenName> "David" .
+<https://id.parliament.uk/KhqjbENy> <https://id.parliament.uk/schema/personFamilyName> "Evennett" .
+<https://id.parliament.uk/KhqjbENy> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "David Evennett" .
+<https://id.parliament.uk/KhqjbENy> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/xYg9qUAv> .
+<https://id.parliament.uk/xYg9qUAv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/xYg9qUAv> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/DIifZMjq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/partyName> "Conservative" .
+<https://id.parliament.uk/f6RFjeRs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/f6RFjeRs> <https://id.parliament.uk/schema/constituencyGroupName> "Bexleyheath and Crayford" .
+<https://id.parliament.uk/f6RFjeRs> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/f6RFjeRs> <https://id.parliament.uk/schema/constituencyGroupEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/APKgqaXw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/APKgqaXw> <https://id.parliament.uk/schema/constituencyGroupName> "Birmingham, Small Heath" .
+<https://id.parliament.uk/APKgqaXw> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1974-02-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/APKgqaXw> <https://id.parliament.uk/schema/constituencyGroupEndDate> "1983-06-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hhN3u9YZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/hhN3u9YZ> <https://id.parliament.uk/schema/constituencyGroupName> "Birmingham, Sparkbrook and Small Heath" .
+<https://id.parliament.uk/hhN3u9YZ> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hhN3u9YZ> <https://id.parliament.uk/schema/constituencyGroupEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pif1FOU0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/pif1FOU0> <https://id.parliament.uk/schema/constituencyGroupName> "Birmingham, Small Heath" .
+<https://id.parliament.uk/pif1FOU0> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1983-06-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pif1FOU0> <https://id.parliament.uk/schema/constituencyGroupEndDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PUfH60gs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/PUfH60gs> <https://id.parliament.uk/schema/constituencyGroupName> "Surrey Heath" .
+<https://id.parliament.uk/PUfH60gs> <https://id.parliament.uk/schema/constituencyGroupStartDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PUfH60gs> <https://id.parliament.uk/schema/constituencyGroupHasHouseSeat> <https://id.parliament.uk/QTcnCkMN> .
+<https://id.parliament.uk/QTcnCkMN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/QTcnCkMN> <https://id.parliament.uk/schema/houseSeatHasSeatIncumbency> <https://id.parliament.uk/ccyYBNxm> .
+<https://id.parliament.uk/ccyYBNxm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/ccyYBNxm> <https://id.parliament.uk/schema/parliamentaryIncumbencyHasMember> <https://id.parliament.uk/0K7kX33I> .
+<https://id.parliament.uk/0K7kX33I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/0K7kX33I> <https://id.parliament.uk/schema/personGivenName> "Michael" .
+<https://id.parliament.uk/0K7kX33I> <https://id.parliament.uk/schema/personFamilyName> "Gove" .
+<https://id.parliament.uk/0K7kX33I> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Michael Gove" .
+<https://id.parliament.uk/0K7kX33I> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/p6eogoXc> .
+<https://id.parliament.uk/p6eogoXc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/p6eogoXc> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/MswzTqa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/MswzTqa2> <https://id.parliament.uk/schema/constituencyGroupName> "Surrey Heath" .
+<https://id.parliament.uk/MswzTqa2> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MswzTqa2> <https://id.parliament.uk/schema/constituencyGroupEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hGRGNaKB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/hGRGNaKB> <https://id.parliament.uk/schema/constituencyGroupName> "Bexleyheath" .
+<https://id.parliament.uk/hGRGNaKB> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1983-06-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hGRGNaKB> <https://id.parliament.uk/schema/constituencyGroupEndDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node357096 <https://id.parliament.uk/schema/value> "B" .
+_:node357097 <https://id.parliament.uk/schema/value> "A" .
+_:node357098 <https://id.parliament.uk/schema/value> "C" .
+_:node357099 <https://id.parliament.uk/schema/value> "D" .
+_:node357100 <https://id.parliament.uk/schema/value> "E" .
+_:node357101 <https://id.parliament.uk/schema/value> "F" .
+_:node357102 <https://id.parliament.uk/schema/value> "G" .
+_:node357103 <https://id.parliament.uk/schema/value> "H" .
+_:node357104 <https://id.parliament.uk/schema/value> "L" .
+_:node357105 <https://id.parliament.uk/schema/value> "J" .
+_:node357106 <https://id.parliament.uk/schema/value> "I" .
+_:node357107 <https://id.parliament.uk/schema/value> "K" .
+_:node357108 <https://id.parliament.uk/schema/value> "M" .
+_:node357109 <https://id.parliament.uk/schema/value> "N" .
+_:node357110 <https://id.parliament.uk/schema/value> "O" .
+_:node357111 <https://id.parliament.uk/schema/value> "P" .
+_:node357112 <https://id.parliament.uk/schema/value> "R" .
+_:node357113 <https://id.parliament.uk/schema/value> "S" .
+_:node357114 <https://id.parliament.uk/schema/value> "T" .
+_:node357115 <https://id.parliament.uk/schema/value> "U" .
+_:node357116 <https://id.parliament.uk/schema/value> "W" .
+_:node357117 <https://id.parliament.uk/schema/value> "V" .
+_:node357118 <https://id.parliament.uk/schema/value> "Y" .
+_:node357119 <https://id.parliament.uk/schema/value> "Q" .

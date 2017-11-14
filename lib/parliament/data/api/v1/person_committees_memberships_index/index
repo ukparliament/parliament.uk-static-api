@@ -1,98 +1,25 @@
-<http://id.ukpds.org/JPp4EPXc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personGivenName> "Adrian" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personFamilyName> "Bailey" .
-<http://id.ukpds.org/JPp4EPXc> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Adrian Bailey" .
-<http://id.ukpds.org/JPp4EPXc> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Bailey, Mr Adrian" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/8WBcdYIA> .
-<http://id.ukpds.org/8WBcdYIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/8WBcdYIA> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2015-06-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/8WBcdYIA> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2017-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/8WBcdYIA> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/u7laxo6f> .
-<http://id.ukpds.org/u7laxo6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/u7laxo6f> <http://id.ukpds.org/schema/formalBodyName> "Panel of Chairs" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/vxTWhK8o> .
-<http://id.ukpds.org/vxTWhK8o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/vxTWhK8o> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2007-11-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/vxTWhK8o> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/vxTWhK8o> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/gB0L5my4> .
-<http://id.ukpds.org/gB0L5my4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/gB0L5my4> <http://id.ukpds.org/schema/formalBodyName> "European Scrutiny Committee" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/GlubkdBx> .
-<http://id.ukpds.org/GlubkdBx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/GlubkdBx> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2009-03-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/GlubkdBx> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/GlubkdBx> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/H6c8LSRN> .
-<http://id.ukpds.org/H6c8LSRN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/H6c8LSRN> <http://id.ukpds.org/schema/formalBodyName> "West Midlands Regional Select Committee" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/EaRICHSf> .
-<http://id.ukpds.org/EaRICHSf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/EaRICHSf> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2017-06-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/EaRICHSf> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/u7laxo6f> .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/8RoXt0dG> .
-<http://id.ukpds.org/8RoXt0dG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/8RoXt0dG> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2009-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/8RoXt0dG> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2009-11-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/8RoXt0dG> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/E2b0GA4K> .
-<http://id.ukpds.org/E2b0GA4K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/E2b0GA4K> <http://id.ukpds.org/schema/formalBodyName> "Business, Innovation and Skills Committee" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/Cp9YKrb5> .
-<http://id.ukpds.org/Cp9YKrb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/Cp9YKrb5> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2010-07-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/Cp9YKrb5> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/Cp9YKrb5> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/hqBDJUag> .
-<http://id.ukpds.org/hqBDJUag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/hqBDJUag> <http://id.ukpds.org/schema/formalBodyName> "Liaison Committee (Commons)" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/ajknWFxV> .
-<http://id.ukpds.org/ajknWFxV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/ajknWFxV> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2001-10-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/ajknWFxV> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/ajknWFxV> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/wKcbLddt> .
-<http://id.ukpds.org/wKcbLddt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/wKcbLddt> <http://id.ukpds.org/schema/formalBodyName> "Unopposed Bills (Panel)" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/gCzRYX8Y> .
-<http://id.ukpds.org/gCzRYX8Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/gCzRYX8Y> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2010-11-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/gCzRYX8Y> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/gCzRYX8Y> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/yeDPMLLy> .
-<http://id.ukpds.org/yeDPMLLy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/yeDPMLLy> <http://id.ukpds.org/schema/formalBodyName> "National Security Strategy (Joint Committee)" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/JZj8QwNT> .
-<http://id.ukpds.org/JZj8QwNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/JZj8QwNT> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2001-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/JZj8QwNT> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2005-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/JZj8QwNT> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/kQJBRET3> .
-<http://id.ukpds.org/kQJBRET3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/kQJBRET3> <http://id.ukpds.org/schema/formalBodyName> "Northern Ireland Affairs Committee" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/PoeckyDG> .
-<http://id.ukpds.org/PoeckyDG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/PoeckyDG> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2003-07-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/PoeckyDG> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2003-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/PoeckyDG> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/Wwez48bA> .
-<http://id.ukpds.org/Wwez48bA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/Wwez48bA> <http://id.ukpds.org/schema/formalBodyName> "Draft Civil Contingencies Bill (Joint Committee)" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/GgTQCTK1> .
-<http://id.ukpds.org/GgTQCTK1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/GgTQCTK1> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2007-11-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/GgTQCTK1> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2008-03-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/GgTQCTK1> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/g0q4xJ54> .
-<http://id.ukpds.org/g0q4xJ54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/g0q4xJ54> <http://id.ukpds.org/schema/formalBodyName> "Business, Enterprise and Regulatory Reform" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/NiAu8Sh2> .
-<http://id.ukpds.org/NiAu8Sh2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/NiAu8Sh2> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2007-11-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/NiAu8Sh2> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/NiAu8Sh2> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/otVxK1mQ> .
-<http://id.ukpds.org/otVxK1mQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/otVxK1mQ> <http://id.ukpds.org/schema/formalBodyName> "Committees on Arms Export Controls (formerly Quadripartite Committee)" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/aHkajpCr> .
-<http://id.ukpds.org/aHkajpCr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/aHkajpCr> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2008-03-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/aHkajpCr> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2009-09-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/aHkajpCr> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/sYDz1KUL> .
-<http://id.ukpds.org/sYDz1KUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/sYDz1KUL> <http://id.ukpds.org/schema/formalBodyName> "Business and Enterprise Committee" .
-<http://id.ukpds.org/JPp4EPXc> <http://id.ukpds.org/schema/personHasFormalBodyMembership> <http://id.ukpds.org/FzR397aZ> .
-<http://id.ukpds.org/FzR397aZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBodyMembership> .
-<http://id.ukpds.org/FzR397aZ> <http://id.ukpds.org/schema/formalBodyMembershipStartDate> "2010-06-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/FzR397aZ> <http://id.ukpds.org/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/FzR397aZ> <http://id.ukpds.org/schema/formalBodyMembershipHasFormalBody> <http://id.ukpds.org/E2b0GA4K> .
+<https://id.parliament.uk/TyNGhslR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personGivenName> "Kenneth" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personFamilyName> "Clarke" .
+<https://id.parliament.uk/TyNGhslR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Kenneth Clarke" .
+<https://id.parliament.uk/TyNGhslR> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Clarke, Mr Kenneth" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/xWK9CHQS> .
+<https://id.parliament.uk/xWK9CHQS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/xWK9CHQS> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2002-12-02+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xWK9CHQS> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2009-11-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xWK9CHQS> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/MA7VBrwA> .
+<https://id.parliament.uk/MA7VBrwA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/MA7VBrwA> <https://id.parliament.uk/schema/formalBodyName> "Tax Law Rewrite Bills (Joint Committee)" .
+<https://id.parliament.uk/MA7VBrwA> <https://id.parliament.uk/schema/formalBodyStartDate> "2002-12-02+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MA7VBrwA> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/RtPAWF9i> .
+<https://id.parliament.uk/RtPAWF9i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/RtPAWF9i> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2002-06-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/RtPAWF9i> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2005-05-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/RtPAWF9i> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/iJRMobzT> .
+<https://id.parliament.uk/iJRMobzT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyName> "House of Lords Reform (Joint Committee)" .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyStartDate> "2002-06-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node352070 <https://id.parliament.uk/schema/value> "T" .
+_:node352071 <https://id.parliament.uk/schema/value> "H" .

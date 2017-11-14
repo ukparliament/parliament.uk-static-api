@@ -1,1 +1,17 @@
-{ "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+<https://id.parliament.uk/TyNGhslR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personGivenName> "Kenneth" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personFamilyName> "Clarke" .
+<https://id.parliament.uk/TyNGhslR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Kenneth Clarke" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/QQuEfBIf> .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/aYjUAyLd> .
+<https://id.parliament.uk/QQuEfBIf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/aYjUAyLd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentaryIncumbency> .
+<https://id.parliament.uk/aYjUAyLd> <https://id.parliament.uk/schema/parliamentaryIncumbencyHasContactPoint> <https://id.parliament.uk/zmKhQU2j> .
+<https://id.parliament.uk/zmKhQU2j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactPoint> .
+<https://id.parliament.uk/zmKhQU2j> <https://id.parliament.uk/schema/email> "clarkek@parliament.uk; suggd@parliament.uk " .
+<https://id.parliament.uk/zmKhQU2j> <https://id.parliament.uk/schema/phoneNumber> "0207 219 5189" .
+<https://id.parliament.uk/zmKhQU2j> <https://id.parliament.uk/schema/contactPointHasPostalAddress> <https://id.parliament.uk/uvRv7AJR> .
+<https://id.parliament.uk/uvRv7AJR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PostalAddress> .
+<https://id.parliament.uk/uvRv7AJR> <https://id.parliament.uk/schema/addressLine1> "House of Commons" .
+<https://id.parliament.uk/uvRv7AJR> <https://id.parliament.uk/schema/addressLine2> "London" .
+<https://id.parliament.uk/uvRv7AJR> <https://id.parliament.uk/schema/postCode> "SW1A 0AA" .

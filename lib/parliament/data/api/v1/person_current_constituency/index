@@ -1,12 +1,14 @@
-<http://id.ukpds.org/7KNGxTli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
-<http://id.ukpds.org/7KNGxTli> <http://id.ukpds.org/schema/personGivenName> "Theresa" .
-<http://id.ukpds.org/7KNGxTli> <http://id.ukpds.org/schema/personFamilyName> "May" .
-<http://id.ukpds.org/7KNGxTli> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Theresa May" .
-<http://id.ukpds.org/xROPr9Cq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/xROPr9Cq> <http://id.ukpds.org/schema/constituencyGroupName> "Maidenhead" .
-<http://id.ukpds.org/xROPr9Cq> <http://id.ukpds.org/schema/constituencyGroupStartDate> "2010-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/xROPr9Cq> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/J8WD5jI7> .
-<http://id.ukpds.org/J8WD5jI7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
-<http://id.ukpds.org/J8WD5jI7> <http://id.ukpds.org/schema/houseSeatHasSeatIncumbency> <http://id.ukpds.org/o02UYaRh> .
-<http://id.ukpds.org/o02UYaRh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/SeatIncumbency> .
-<http://id.ukpds.org/o02UYaRh> <http://id.ukpds.org/schema/incumbencyStartDate> "2017-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TyNGhslR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personGivenName> "Kenneth" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/personFamilyName> "Clarke" .
+<https://id.parliament.uk/TyNGhslR> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Kenneth Clarke" .
+<https://id.parliament.uk/TyNGhslR> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/QQuEfBIf> .
+<https://id.parliament.uk/QQuEfBIf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/YkBPgvrR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/YkBPgvrR> <https://id.parliament.uk/schema/constituencyGroupName> "Rushcliffe" .
+<https://id.parliament.uk/YkBPgvrR> <https://id.parliament.uk/schema/constituencyGroupStartDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/YkBPgvrR> <https://id.parliament.uk/schema/constituencyGroupHasHouseSeat> <https://id.parliament.uk/WQcBtTWi> .
+<https://id.parliament.uk/WQcBtTWi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/WQcBtTWi> <https://id.parliament.uk/schema/houseSeatHasSeatIncumbency> <https://id.parliament.uk/aYjUAyLd> .
+<https://id.parliament.uk/aYjUAyLd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/aYjUAyLd> <https://id.parliament.uk/schema/parliamentaryIncumbencyStartDate> "2017-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
