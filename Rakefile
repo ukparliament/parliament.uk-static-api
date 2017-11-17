@@ -32,7 +32,6 @@ task :populate_data do
   dirs_to_generate = routes.map { |route| route.split('?')[0] }
 
   dirs_to_generate.zip(routes).each do |directory, route|
-    sleep 30
     path = File.join(Dir.pwd, "lib/parliament/data/api/v1/#{directory}")
     unless Dir.exist?(path)
       Dir.mkdir(path)
