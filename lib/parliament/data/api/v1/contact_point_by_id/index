@@ -1,9 +1,9 @@
-<http://id.ukpds.org/t3Qeaou5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ContactPoint> .
-<http://id.ukpds.org/t3Qeaou5> <http://id.ukpds.org/schema/faxNumber> "020 7219 2815" .
-<http://id.ukpds.org/t3Qeaou5> <http://id.ukpds.org/schema/contactPointHasIncumbency> <http://id.ukpds.org/IPFQbYsj> .
-<http://id.ukpds.org/IPFQbYsj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Incumbency> .
-<http://id.ukpds.org/IPFQbYsj> <http://id.ukpds.org/schema/incumbencyHasMember> <http://id.ukpds.org/bsbXy12q> .
-<http://id.ukpds.org/bsbXy12q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Person> .
-<http://id.ukpds.org/bsbXy12q> <http://id.ukpds.org/schema/personGivenName> "Martyn" .
-<http://id.ukpds.org/bsbXy12q> <http://id.ukpds.org/schema/personFamilyName> "Jones" .
-<http://id.ukpds.org/bsbXy12q> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Martyn Jones" .
+<https://id.parliament.uk/wk1atnfh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactPoint> .
+<https://id.parliament.uk/wk1atnfh> <https://id.parliament.uk/schema/email> "enquiries@yeovil-libdems.org.uk" .
+<https://id.parliament.uk/wk1atnfh> <https://id.parliament.uk/schema/phoneNumber> "01935 425025; 01935 423284" .
+<https://id.parliament.uk/wk1atnfh> <https://id.parliament.uk/schema/faxNumber> "01935 433652" .
+<https://id.parliament.uk/wk1atnfh> <https://id.parliament.uk/schema/contactPointHasPostalAddress> <https://id.parliament.uk/DxiQuQEB> .
+<https://id.parliament.uk/DxiQuQEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PostalAddress> .
+<https://id.parliament.uk/DxiQuQEB> <https://id.parliament.uk/schema/postCode> "BA20 1HB" .
+<https://id.parliament.uk/DxiQuQEB> <https://id.parliament.uk/schema/addressLine1> "5 Church Street" .
+<https://id.parliament.uk/DxiQuQEB> <https://id.parliament.uk/schema/addressLine2> "Yeovil" .

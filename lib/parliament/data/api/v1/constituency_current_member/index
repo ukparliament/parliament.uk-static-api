@@ -1,6 +1,6 @@
-<http://id.ukpds.org/dwtSdieB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ConstituencyGroup> .
-<http://id.ukpds.org/dwtSdieB> <http://id.ukpds.org/schema/constituencyGroupName> "Farnham" .
-<http://id.ukpds.org/dwtSdieB> <http://id.ukpds.org/schema/constituencyGroupStartDate> "1950-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/dwtSdieB> <http://id.ukpds.org/schema/constituencyGroupEndDate> "1974-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/dwtSdieB> <http://id.ukpds.org/schema/constituencyGroupHasHouseSeat> <http://id.ukpds.org/FXAnggqP> .
-<http://id.ukpds.org/FXAnggqP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/HouseSeat> .
+<https://id.parliament.uk/AEyWGYaP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/AEyWGYaP> <https://id.parliament.uk/schema/constituencyGroupName> "Vale of Glamorgan" .
+<https://id.parliament.uk/AEyWGYaP> <https://id.parliament.uk/schema/constituencyGroupStartDate> "1997-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AEyWGYaP> <https://id.parliament.uk/schema/constituencyGroupEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AEyWGYaP> <https://id.parliament.uk/schema/constituencyGroupHasHouseSeat> <https://id.parliament.uk/k8Ak5xhv> .
+<https://id.parliament.uk/k8Ak5xhv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .

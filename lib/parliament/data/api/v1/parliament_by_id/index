@@ -1,48 +1,45 @@
-<http://id.ukpds.org/fHx6P1lb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/ParliamentPeriod> .
-<http://id.ukpds.org/fHx6P1lb> <http://id.ukpds.org/schema/parliamentPeriodStartDate> "2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/fHx6P1lb> <http://id.ukpds.org/schema/parliamentPeriodEndDate> "2015-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/fHx6P1lb> <http://id.ukpds.org/schema/parliamentPeriodNumber> "55"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/fHx6P1lb> <http://id.ukpds.org/schema/parliamentPeriodHasImmediatelyFollowingParliamentPeriod> <http://id.ukpds.org/ExyBZkI7> .
-<http://id.ukpds.org/fHx6P1lb> <http://id.ukpds.org/schema/parliamentPeriodHasImmediatelyPreviousParliamentPeriod> <http://id.ukpds.org/Lr7LZwQn> .
-<http://id.ukpds.org/2HkaDLpq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/2HkaDLpq> <http://id.ukpds.org/schema/partyName> "UK Independence Party" .
-<http://id.ukpds.org/2HkaDLpq> <http://id.ukpds.org/schema/count> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/count> "309"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/msCC3sDK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/partyName> "Scottish National Party" .
-<http://id.ukpds.org/msCC3sDK> <http://id.ukpds.org/schema/count> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/Bw0PzrQH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/Bw0PzrQH> <http://id.ukpds.org/schema/partyName> "Sinn F\u00E9in" .
-<http://id.ukpds.org/Bw0PzrQH> <http://id.ukpds.org/schema/count> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/K50q4OgY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/K50q4OgY> <http://id.ukpds.org/schema/partyName> "Alliance" .
-<http://id.ukpds.org/K50q4OgY> <http://id.ukpds.org/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/nSB33tyM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/nSB33tyM> <http://id.ukpds.org/schema/partyName> "Green Party" .
-<http://id.ukpds.org/nSB33tyM> <http://id.ukpds.org/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/sh0csIGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/sh0csIGS> <http://id.ukpds.org/schema/partyName> "Plaid Cymru" .
-<http://id.ukpds.org/sh0csIGS> <http://id.ukpds.org/schema/count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/aHG1WJDM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/aHG1WJDM> <http://id.ukpds.org/schema/partyName> "Liberal Democrat" .
-<http://id.ukpds.org/aHG1WJDM> <http://id.ukpds.org/schema/count> "59"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/PTqFnU5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/partyName> "Democratic Unionist Party" .
-<http://id.ukpds.org/PTqFnU5d> <http://id.ukpds.org/schema/count> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/3HnskdIl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/3HnskdIl> <http://id.ukpds.org/schema/partyName> "Respect" .
-<http://id.ukpds.org/3HnskdIl> <http://id.ukpds.org/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/pkw2yLEp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/pkw2yLEp> <http://id.ukpds.org/schema/partyName> "Social Democratic & Labour Party" .
-<http://id.ukpds.org/pkw2yLEp> <http://id.ukpds.org/schema/count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/891w1b1k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/partyName> "Labour" .
-<http://id.ukpds.org/891w1b1k> <http://id.ukpds.org/schema/count> "270"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/uokUfbsX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/uokUfbsX> <http://id.ukpds.org/schema/partyName> "Speaker" .
-<http://id.ukpds.org/uokUfbsX> <http://id.ukpds.org/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/ODXnALpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/ODXnALpk> <http://id.ukpds.org/schema/partyName> "Independent" .
-<http://id.ukpds.org/ODXnALpk> <http://id.ukpds.org/schema/count> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/b0t56VVL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentPeriod> .
+<https://id.parliament.uk/b0t56VVL> <https://id.parliament.uk/schema/parliamentPeriodStartDate> "2015-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/b0t56VVL> <https://id.parliament.uk/schema/parliamentPeriodEndDate> "2017-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/b0t56VVL> <https://id.parliament.uk/schema/parliamentPeriodNumber> "56"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/b0t56VVL> <https://id.parliament.uk/schema/parliamentPeriodHasImmediatelyFollowingParliamentPeriod> <https://id.parliament.uk/CziDyoTJ> .
+<https://id.parliament.uk/b0t56VVL> <https://id.parliament.uk/schema/parliamentPeriodHasImmediatelyPreviousParliamentPeriod> <https://id.parliament.uk/CebSOCBj> .
+<https://id.parliament.uk/4nnupy01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/4nnupy01> <https://id.parliament.uk/schema/partyName> "Sinn F\u00E9in" .
+<https://id.parliament.uk/4nnupy01> <https://id.parliament.uk/schema/count> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DIifZMjq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/partyName> "Conservative" .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/count> "333"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wnvdA00Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/partyName> "Scottish National Party" .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/count> "56"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1NdM3fZE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/1NdM3fZE> <https://id.parliament.uk/schema/partyName> "Social Democratic & Labour Party" .
+<https://id.parliament.uk/1NdM3fZE> <https://id.parliament.uk/schema/count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/aZpLZuPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/aZpLZuPM> <https://id.parliament.uk/schema/partyName> "Ulster Unionist Party" .
+<https://id.parliament.uk/aZpLZuPM> <https://id.parliament.uk/schema/count> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1cIxOTTd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/1cIxOTTd> <https://id.parliament.uk/schema/partyName> "Green Party" .
+<https://id.parliament.uk/1cIxOTTd> <https://id.parliament.uk/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wKMInYxd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/partyName> "Liberal Democrat" .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/count> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/S4nbut2r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/S4nbut2r> <https://id.parliament.uk/schema/partyName> "Democratic Unionist Party" .
+<https://id.parliament.uk/S4nbut2r> <https://id.parliament.uk/schema/count> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/UeAtkxYY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/partyName> "Independent" .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/count> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LfB2y7qm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LfB2y7qm> <https://id.parliament.uk/schema/partyName> "Speaker" .
+<https://id.parliament.uk/LfB2y7qm> <https://id.parliament.uk/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LEYIBvV9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/partyName> "Labour" .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/count> "240"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/CrVChKOx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/CrVChKOx> <https://id.parliament.uk/schema/partyName> "Plaid Cymru" .
+<https://id.parliament.uk/CrVChKOx> <https://id.parliament.uk/schema/count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/GcWDomat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/GcWDomat> <https://id.parliament.uk/schema/partyName> "UK Independence Party" .
+<https://id.parliament.uk/GcWDomat> <https://id.parliament.uk/schema/count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

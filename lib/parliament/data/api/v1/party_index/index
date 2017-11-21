@@ -1,12 +1,194 @@
-<http://id.ukpds.org/AJgeHzL2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/partyName> "Conservative" .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/commonsCount> "316"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/AJgeHzL2> <http://id.ukpds.org/schema/lordsCount> "253"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/Lb2fghe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/partyName> "Labour" .
-<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/commonsCount> "262"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/Lb2fgheR> <http://id.ukpds.org/schema/lordsCount> "199"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/BfenMrA6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/Party> .
-<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/partyName> "Liberal Democrat" .
-<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/commonsCount> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://id.ukpds.org/BfenMrA6> <http://id.ukpds.org/schema/lordsCount> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/S4nbut2r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/S4nbut2r> <https://id.parliament.uk/schema/partyName> "Democratic Unionist Party" .
+<https://id.parliament.uk/S4nbut2r> <https://id.parliament.uk/schema/commonsCount> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/S4nbut2r> <https://id.parliament.uk/schema/lordsCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1cIxOTTd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/1cIxOTTd> <https://id.parliament.uk/schema/partyName> "Green Party" .
+<https://id.parliament.uk/1cIxOTTd> <https://id.parliament.uk/schema/commonsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1cIxOTTd> <https://id.parliament.uk/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/nPbEIaEb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/nPbEIaEb> <https://id.parliament.uk/schema/partyName> "Independent Unionist" .
+<https://id.parliament.uk/nPbEIaEb> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/nPbEIaEb> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/krRWjLhn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/krRWjLhn> <https://id.parliament.uk/schema/partyName> "Labour Independent" .
+<https://id.parliament.uk/krRWjLhn> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/krRWjLhn> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/NzWyUDGu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/NzWyUDGu> <https://id.parliament.uk/schema/partyName> "Ulster Popular Unionist Party" .
+<https://id.parliament.uk/NzWyUDGu> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/NzWyUDGu> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/65F7fNUX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/65F7fNUX> <https://id.parliament.uk/schema/partyName> "Independent Labour" .
+<https://id.parliament.uk/65F7fNUX> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/65F7fNUX> <https://id.parliament.uk/schema/lordsCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wB7LWDiV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wB7LWDiV> <https://id.parliament.uk/schema/partyName> "National Liberal & Conservative" .
+<https://id.parliament.uk/wB7LWDiV> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wB7LWDiV> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/J5v1qqhH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/J5v1qqhH> <https://id.parliament.uk/schema/partyName> "Alliance" .
+<https://id.parliament.uk/J5v1qqhH> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/J5v1qqhH> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/EVCYBsZd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/EVCYBsZd> <https://id.parliament.uk/schema/partyName> "United Ulster Unionist Party" .
+<https://id.parliament.uk/EVCYBsZd> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/EVCYBsZd> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/UeAtkxYY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/partyName> "Independent" .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/commonsCount> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/kLknAi9P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/kLknAi9P> <https://id.parliament.uk/schema/partyName> "Opposition Unity" .
+<https://id.parliament.uk/kLknAi9P> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/kLknAi9P> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LfB2y7qm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LfB2y7qm> <https://id.parliament.uk/schema/partyName> "Speaker" .
+<https://id.parliament.uk/LfB2y7qm> <https://id.parliament.uk/schema/commonsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LfB2y7qm> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/GcWDomat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/GcWDomat> <https://id.parliament.uk/schema/partyName> "UK Independence Party" .
+<https://id.parliament.uk/GcWDomat> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/GcWDomat> <https://id.parliament.uk/schema/lordsCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/CrVChKOx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/CrVChKOx> <https://id.parliament.uk/schema/partyName> "Plaid Cymru" .
+<https://id.parliament.uk/CrVChKOx> <https://id.parliament.uk/schema/commonsCount> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/CrVChKOx> <https://id.parliament.uk/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/4nnupy01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/4nnupy01> <https://id.parliament.uk/schema/partyName> "Sinn F\u00E9in" .
+<https://id.parliament.uk/4nnupy01> <https://id.parliament.uk/schema/commonsCount> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/4nnupy01> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/0uBsH1dr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/0uBsH1dr> <https://id.parliament.uk/schema/partyName> "Independent Conservative" .
+<https://id.parliament.uk/0uBsH1dr> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/0uBsH1dr> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/zKPWILAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/zKPWILAK> <https://id.parliament.uk/schema/partyName> "Independent Social Democrat" .
+<https://id.parliament.uk/zKPWILAK> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/zKPWILAK> <https://id.parliament.uk/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/xOOfbSvZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/xOOfbSvZ> <https://id.parliament.uk/schema/partyName> "Independent Socialist" .
+<https://id.parliament.uk/xOOfbSvZ> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/xOOfbSvZ> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DIifZMjq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/partyName> "Conservative" .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/commonsCount> "316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/lordsCount> "257"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wKMInYxd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/partyName> "Liberal Democrat" .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/commonsCount> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/lordsCount> "104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/l8TApJpu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/l8TApJpu> <https://id.parliament.uk/schema/partyName> "Independent Liberal Democrat" .
+<https://id.parliament.uk/l8TApJpu> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/l8TApJpu> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/SO0Ta5C3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/SO0Ta5C3> <https://id.parliament.uk/schema/partyName> "Other" .
+<https://id.parliament.uk/SO0Ta5C3> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/SO0Ta5C3> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/64rtwcpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/64rtwcpe> <https://id.parliament.uk/schema/partyName> "Respect" .
+<https://id.parliament.uk/64rtwcpe> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/64rtwcpe> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/fhgf3GDr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/fhgf3GDr> <https://id.parliament.uk/schema/partyName> "United Kingdom Unionist" .
+<https://id.parliament.uk/fhgf3GDr> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/fhgf3GDr> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wz637AXO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wz637AXO> <https://id.parliament.uk/schema/partyName> "Bishops" .
+<https://id.parliament.uk/wz637AXO> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wz637AXO> <https://id.parliament.uk/schema/lordsCount> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/ENKH6ztY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/ENKH6ztY> <https://id.parliament.uk/schema/partyName> "Vanguard Unionist Progressive Party" .
+<https://id.parliament.uk/ENKH6ztY> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/ENKH6ztY> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/aZpLZuPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/aZpLZuPM> <https://id.parliament.uk/schema/partyName> "Ulster Unionist Party" .
+<https://id.parliament.uk/aZpLZuPM> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/aZpLZuPM> <https://id.parliament.uk/schema/lordsCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LEYIBvV9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/partyName> "Labour" .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/commonsCount> "261"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/lordsCount> "208"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/7CRHd6kA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/7CRHd6kA> <https://id.parliament.uk/schema/partyName> "Ulster Progressive Unionist Party" .
+<https://id.parliament.uk/7CRHd6kA> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/7CRHd6kA> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/uUsLuHtv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/uUsLuHtv> <https://id.parliament.uk/schema/partyName> "Social Democratic Party" .
+<https://id.parliament.uk/uUsLuHtv> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/uUsLuHtv> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/MQQISPeP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/MQQISPeP> <https://id.parliament.uk/schema/partyName> "Liberal" .
+<https://id.parliament.uk/MQQISPeP> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/MQQISPeP> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/l1Quv02Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/l1Quv02Y> <https://id.parliament.uk/schema/partyName> "Liberal Democrat Independent" .
+<https://id.parliament.uk/l1Quv02Y> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/l1Quv02Y> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/QmzzhRBp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/QmzzhRBp> <https://id.parliament.uk/schema/partyName> "Independent Ulster Unionist" .
+<https://id.parliament.uk/QmzzhRBp> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/QmzzhRBp> <https://id.parliament.uk/schema/lordsCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FYLuxQLv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/FYLuxQLv> <https://id.parliament.uk/schema/partyName> "Republican Labour" .
+<https://id.parliament.uk/FYLuxQLv> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FYLuxQLv> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/6Rl8upSl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/6Rl8upSl> <https://id.parliament.uk/schema/partyName> "United Ulster Unionist Movement" .
+<https://id.parliament.uk/6Rl8upSl> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/6Rl8upSl> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/qhmpyibJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/qhmpyibJ> <https://id.parliament.uk/schema/partyName> "Conservative Independent" .
+<https://id.parliament.uk/qhmpyibJ> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/qhmpyibJ> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/yndgk5Ou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/yndgk5Ou> <https://id.parliament.uk/schema/partyName> "Anti H Block" .
+<https://id.parliament.uk/yndgk5Ou> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/yndgk5Ou> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1d45Xrmr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/1d45Xrmr> <https://id.parliament.uk/schema/partyName> "Referendum" .
+<https://id.parliament.uk/1d45Xrmr> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1d45Xrmr> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FzPgYmCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/FzPgYmCR> <https://id.parliament.uk/schema/partyName> "Independent SDP" .
+<https://id.parliament.uk/FzPgYmCR> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FzPgYmCR> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/2QWu0T16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/2QWu0T16> <https://id.parliament.uk/schema/partyName> "Non-affiliated" .
+<https://id.parliament.uk/2QWu0T16> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/2QWu0T16> <https://id.parliament.uk/schema/lordsCount> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/Q8zBFjn0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/Q8zBFjn0> <https://id.parliament.uk/schema/partyName> "Crossbench" .
+<https://id.parliament.uk/Q8zBFjn0> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/Q8zBFjn0> <https://id.parliament.uk/schema/lordsCount> "186"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1NdM3fZE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/1NdM3fZE> <https://id.parliament.uk/schema/partyName> "Social Democratic & Labour Party" .
+<https://id.parliament.uk/1NdM3fZE> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/1NdM3fZE> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wnvdA00Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/partyName> "Scottish National Party" .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/commonsCount> "35"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/cRfWu2at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/cRfWu2at> <https://id.parliament.uk/schema/partyName> "Scottish Labour Party" .
+<https://id.parliament.uk/cRfWu2at> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/cRfWu2at> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DbfKK2De> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/DbfKK2De> <https://id.parliament.uk/schema/partyName> "Protestant Unionist" .
+<https://id.parliament.uk/DbfKK2De> <https://id.parliament.uk/schema/commonsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DbfKK2De> <https://id.parliament.uk/schema/lordsCount> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:node357238 <https://id.parliament.uk/schema/value> "O" .
+_:node357239 <https://id.parliament.uk/schema/value> "C" .
+_:node357240 <https://id.parliament.uk/schema/value> "L" .
+_:node357241 <https://id.parliament.uk/schema/value> "S" .
+_:node357242 <https://id.parliament.uk/schema/value> "I" .
+_:node357243 <https://id.parliament.uk/schema/value> "U" .
+_:node357244 <https://id.parliament.uk/schema/value> "D" .
+_:node357245 <https://id.parliament.uk/schema/value> "N" .
+_:node357246 <https://id.parliament.uk/schema/value> "B" .
+_:node357247 <https://id.parliament.uk/schema/value> "V" .
+_:node357248 <https://id.parliament.uk/schema/value> "P" .
+_:node357249 <https://id.parliament.uk/schema/value> "R" .
+_:node357250 <https://id.parliament.uk/schema/value> "G" .
+_:node357251 <https://id.parliament.uk/schema/value> "A" .

@@ -1,69 +1,99 @@
-_:node73975 <http://id.ukpds.org/schema/value> "N" .
-_:node73976 <http://id.ukpds.org/schema/value> "W" .
-_:node73977 <http://id.ukpds.org/schema/value> "S" .
-_:node73978 <http://id.ukpds.org/schema/value> "O" .
-_:node73979 <http://id.ukpds.org/schema/value> "E" .
-_:node73980 <http://id.ukpds.org/schema/value> "T" .
-_:node73981 <http://id.ukpds.org/schema/value> "C" .
-_:node73982 <http://id.ukpds.org/schema/value> "H" .
-_:node73983 <http://id.ukpds.org/schema/value> "U" .
-_:node73984 <http://id.ukpds.org/schema/value> "D" .
-_:node73985 <http://id.ukpds.org/schema/value> "P" .
-_:node73986 <http://id.ukpds.org/schema/value> "I" .
-_:node73987 <http://id.ukpds.org/schema/value> "F" .
-_:node73988 <http://id.ukpds.org/schema/value> "A" .
-_:node73989 <http://id.ukpds.org/schema/value> "R" .
-_:node73990 <http://id.ukpds.org/schema/value> "B" .
-_:node73991 <http://id.ukpds.org/schema/value> "M" .
-_:node73992 <http://id.ukpds.org/schema/value> "L" .
-_:node73993 <http://id.ukpds.org/schema/value> "Y" .
-_:node73994 <http://id.ukpds.org/schema/value> "J" .
-_:node73995 <http://id.ukpds.org/schema/value> "G" .
-_:node73996 <http://id.ukpds.org/schema/value> "V" .
-<http://id.ukpds.org/i2l8iys6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/House> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseName> "House of Commons" .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/nVDEacS8> .
-<http://id.ukpds.org/nVDEacS8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyName> "Accomodation & Works" .
-<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/nVDEacS8> <http://id.ukpds.org/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/QTnNmUnk> .
-<http://id.ukpds.org/QTnNmUnk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyName> "Agriculture" .
-<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyStartDate> "1979-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/QTnNmUnk> <http://id.ukpds.org/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/sOFhJXTb> .
-<http://id.ukpds.org/sOFhJXTb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyName> "Armed Forces Bill Committee" .
-<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyStartDate> "2005-12-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/sOFhJXTb> <http://id.ukpds.org/schema/formalBodyEndDate> "2011-03-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/bWV22pwm> .
-<http://id.ukpds.org/bWV22pwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyName> "Adminstration Sub Committee" .
-<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyStartDate> "1977-11-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/bWV22pwm> <http://id.ukpds.org/schema/formalBodyEndDate> "1998-11-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/NUqcxqyK> .
-<http://id.ukpds.org/NUqcxqyK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyName> "Armed Forces  Bill Committee" .
-<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyStartDate> "2015-10-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/NUqcxqyK> <http://id.ukpds.org/schema/formalBodyEndDate> "2015-11-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/NR3BEzhZ> .
-<http://id.ukpds.org/NR3BEzhZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyName> "Administration and Works Committee (Lords)" .
-<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyStartDate> "1998-12-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/NR3BEzhZ> <http://id.ukpds.org/schema/formalBodyEndDate> "2016-08-31+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/Si15COns> .
-<http://id.ukpds.org/Si15COns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyName> "Affordable Childcare" .
-<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyStartDate> "2014-06-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/Si15COns> <http://id.ukpds.org/schema/formalBodyEndDate> "2015-02-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/mvOcyYxH> .
-<http://id.ukpds.org/mvOcyYxH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyName> "Adoption Legislation Committee" .
-<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyStartDate> "2012-05-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/mvOcyYxH> <http://id.ukpds.org/schema/formalBodyEndDate> "2013-02-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/i2l8iys6> <http://id.ukpds.org/schema/houseHasFormalBody> <http://id.ukpds.org/Ub6ggUo8> .
-<http://id.ukpds.org/Ub6ggUo8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.ukpds.org/schema/FormalBody> .
-<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyName> "Able Marine Energy Park Development Consent Order 2014" .
-<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyStartDate> "2014-06-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://id.ukpds.org/Ub6ggUo8> <http://id.ukpds.org/schema/formalBodyEndDate> "2014-10-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node384728 <https://id.parliament.uk/schema/value> "C" .
+_:node384729 <https://id.parliament.uk/schema/value> "P" .
+_:node384730 <https://id.parliament.uk/schema/value> "M" .
+_:node384731 <https://id.parliament.uk/schema/value> "E" .
+_:node384732 <https://id.parliament.uk/schema/value> "N" .
+_:node384733 <https://id.parliament.uk/schema/value> "D" .
+_:node384734 <https://id.parliament.uk/schema/value> "T" .
+_:node384735 <https://id.parliament.uk/schema/value> "I" .
+_:node384736 <https://id.parliament.uk/schema/value> "F" .
+_:node384737 <https://id.parliament.uk/schema/value> "U" .
+_:node384738 <https://id.parliament.uk/schema/value> "A" .
+_:node384739 <https://id.parliament.uk/schema/value> "S" .
+_:node384740 <https://id.parliament.uk/schema/value> "B" .
+_:node384741 <https://id.parliament.uk/schema/value> "L" .
+_:node384742 <https://id.parliament.uk/schema/value> "R" .
+_:node384743 <https://id.parliament.uk/schema/value> "H" .
+_:node384744 <https://id.parliament.uk/schema/value> "J" .
+_:node384745 <https://id.parliament.uk/schema/value> "W" .
+_:node384746 <https://id.parliament.uk/schema/value> "O" .
+_:node384747 <https://id.parliament.uk/schema/value> "Y" .
+_:node384748 <https://id.parliament.uk/schema/value> "G" .
+_:node384749 <https://id.parliament.uk/schema/value> "V" .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/iJRMobzT> .
+<https://id.parliament.uk/iJRMobzT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyName> "House of Lords Reform (Joint Committee)" .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyStartDate> "2002-06-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/LsbP3ker> .
+<https://id.parliament.uk/LsbP3ker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/LsbP3ker> <https://id.parliament.uk/schema/formalBodyName> "High Speed Rail (London - West Midlands) Bill (Commons)" .
+<https://id.parliament.uk/LsbP3ker> <https://id.parliament.uk/schema/formalBodyStartDate> "2014-04-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LsbP3ker> <https://id.parliament.uk/schema/formalBodyEndDate> "2016-02-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/T6Yiw5Gb> .
+<https://id.parliament.uk/T6Yiw5Gb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/T6Yiw5Gb> <https://id.parliament.uk/schema/formalBodyName> "House of Commons (Services): Accomodation & Administration Sub-Committee" .
+<https://id.parliament.uk/T6Yiw5Gb> <https://id.parliament.uk/schema/formalBodyStartDate> "1978-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/T6Yiw5Gb> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/DRX1dKRe> .
+<https://id.parliament.uk/DRX1dKRe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/DRX1dKRe> <https://id.parliament.uk/schema/formalBodyName> "House of Commons Governance Committee" .
+<https://id.parliament.uk/DRX1dKRe> <https://id.parliament.uk/schema/formalBodyStartDate> "2014-09-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/DRX1dKRe> <https://id.parliament.uk/schema/formalBodyEndDate> "2014-12-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/jrUSwaNE> .
+<https://id.parliament.uk/jrUSwaNE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/jrUSwaNE> <https://id.parliament.uk/schema/formalBodyName> "Home Affairs Committee" .
+<https://id.parliament.uk/jrUSwaNE> <https://id.parliament.uk/schema/formalBodyStartDate> "1979-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/eXJZnDB2> .
+<https://id.parliament.uk/eXJZnDB2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/eXJZnDB2> <https://id.parliament.uk/schema/formalBodyName> "House of Commons (Services): Computer Sub-Committee" .
+<https://id.parliament.uk/eXJZnDB2> <https://id.parliament.uk/schema/formalBodyStartDate> "1978-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/eXJZnDB2> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/zZsfSn4U> .
+<https://id.parliament.uk/zZsfSn4U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/zZsfSn4U> <https://id.parliament.uk/schema/formalBodyName> "House of Commons (Services)" .
+<https://id.parliament.uk/zZsfSn4U> <https://id.parliament.uk/schema/formalBodyStartDate> "1978-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zZsfSn4U> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/wzO3nBgS> .
+<https://id.parliament.uk/wzO3nBgS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/wzO3nBgS> <https://id.parliament.uk/schema/formalBodyName> "Home Affairs: Sub-Committee on Race Relations & Immigration" .
+<https://id.parliament.uk/wzO3nBgS> <https://id.parliament.uk/schema/formalBodyStartDate> "1979-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wzO3nBgS> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/bzr17moa> .
+<https://id.parliament.uk/bzr17moa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/bzr17moa> <https://id.parliament.uk/schema/formalBodyName> "House of Commons: Catering Sub-Committee" .
+<https://id.parliament.uk/bzr17moa> <https://id.parliament.uk/schema/formalBodyStartDate> "1978-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bzr17moa> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/lR8dhXfl> .
+<https://id.parliament.uk/lR8dhXfl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/lR8dhXfl> <https://id.parliament.uk/schema/formalBodyName> "House of Commons (Services): Library Sub-Committee" .
+<https://id.parliament.uk/lR8dhXfl> <https://id.parliament.uk/schema/formalBodyStartDate> "1978-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/lR8dhXfl> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/P7Ne09WK> .
+<https://id.parliament.uk/P7Ne09WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyName> "Human Rights (Joint Committee)" .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyStartDate> "2001-01-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/T0woVauG> .
+<https://id.parliament.uk/T0woVauG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/T0woVauG> <https://id.parliament.uk/schema/formalBodyName> "Home Affairs Sub-Committee" .
+<https://id.parliament.uk/T0woVauG> <https://id.parliament.uk/schema/formalBodyStartDate> "1992-04-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/T0woVauG> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/dSZupNQR> .
+<https://id.parliament.uk/dSZupNQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/dSZupNQR> <https://id.parliament.uk/schema/formalBodyName> "Health Committee" .
+<https://id.parliament.uk/dSZupNQR> <https://id.parliament.uk/schema/formalBodyStartDate> "1991-10-31+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/ml5W3Beh> .
+<https://id.parliament.uk/ml5W3Beh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/ml5W3Beh> <https://id.parliament.uk/schema/formalBodyName> "House of Commons Commission" .
+<https://id.parliament.uk/ml5W3Beh> <https://id.parliament.uk/schema/formalBodyStartDate> "2010-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/16hw4ssW> .
+<https://id.parliament.uk/16hw4ssW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/16hw4ssW> <https://id.parliament.uk/schema/formalBodyName> "House of Commons (Services): New Building Sub-Committee" .
+<https://id.parliament.uk/16hw4ssW> <https://id.parliament.uk/schema/formalBodyStartDate> "1983-06-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/16hw4ssW> <https://id.parliament.uk/schema/formalBodyEndDate> "2010-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasFormalBody> <https://id.parliament.uk/2Hs59aWG> .
+<https://id.parliament.uk/2Hs59aWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/2Hs59aWG> <https://id.parliament.uk/schema/formalBodyName> "High Speed Rail (West Midlands to Crewe) Bill Select Committee (Commons) " .
+<https://id.parliament.uk/2Hs59aWG> <https://id.parliament.uk/schema/formalBodyStartDate> "2017-11-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
