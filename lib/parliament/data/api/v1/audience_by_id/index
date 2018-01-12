@@ -1,0 +1,2 @@
+<https://id.parliament.uk/autos6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/content/Audience> .
+<https://id.parliament.uk/autos6> <http://example.com/content/name> "audience 1" .

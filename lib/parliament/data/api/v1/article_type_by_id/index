@@ -1,0 +1,4 @@
+<https://id.parliament.uk/autos7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/content/ArticleType> .
+<https://id.parliament.uk/autos7> <http://example.com/content/name> "article type 1" .
+<https://id.parliament.uk/autos8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/content/ArticleType> .
+<https://id.parliament.uk/autos8> <http://example.com/content/name> "article type 2" .
