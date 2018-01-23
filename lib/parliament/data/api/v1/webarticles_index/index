@@ -1,0 +1,16 @@
+<https://id.parliament.uk/8MHJ9zSp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/8MHJ9zSp> <http://example.com/content/schema/title> "title - 1" .
+<https://id.parliament.uk/oxGevlNF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/oxGevlNF> <http://example.com/content/schema/title> "title - 2" .
+<https://id.parliament.uk/Vtqt7PEx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/Vtqt7PEx> <http://example.com/content/schema/title> "title - 3" .
+<https://id.parliament.uk/ES78N8GY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/ES78N8GY> <http://example.com/content/schema/title> "title - 4" .
+<https://id.parliament.uk/GqhMqs58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/GqhMqs58> <http://example.com/content/schema/title> "title - 5" .
+<https://id.parliament.uk/Dw0Uwxkh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/Dw0Uwxkh> <http://example.com/content/schema/title> "title - 6" .
+<https://id.parliament.uk/hrjl6a1q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/hrjl6a1q> <http://example.com/content/schema/title> "title - 7" .
+<https://id.parliament.uk/DhZaSyxJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/DhZaSyxJ> <http://example.com/content/schema/title> "title - 8" .
