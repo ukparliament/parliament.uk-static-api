@@ -1,0 +1,12 @@
+<https://id.parliament.uk/OralQues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/OralQues> <https://id.parliament.uk/schema/conceptLabel> "Oral Questions" .
+<https://id.parliament.uk/PMQuesti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/PMQuesti> <https://id.parliament.uk/schema/conceptLabel> "Prime Minister's Questions" .
+<https://id.parliament.uk/WritQues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/WritQues> <https://id.parliament.uk/schema/conceptLabel> "Written Questions" .
+<https://id.parliament.uk/EarDayMo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/EarDayMo> <https://id.parliament.uk/schema/conceptLabel> "Early Day Motions" .
+<https://id.parliament.uk/Question> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/Question> <https://id.parliament.uk/schema/conceptLabel> "Questions" .
+<https://id.parliament.uk/BillsLeg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Concept> .
+<https://id.parliament.uk/BillsLeg> <https://id.parliament.uk/schema/conceptLabel> "Bills and Legislature" .
