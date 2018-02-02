@@ -1,0 +1,125 @@
+<https://id.parliament.uk/k95wDkT3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupName> "Department of Trade and Industry" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/tdO0VtPK> .
+<https://id.parliament.uk/tdO0VtPK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/tdO0VtPK> <https://id.parliament.uk/schema/positionName> "Minister of State (Industry and the Regions)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/iXUqPjls> .
+<https://id.parliament.uk/iXUqPjls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/iXUqPjls> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Department of Trade and Industry)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/1yJsD5bG> .
+<https://id.parliament.uk/1yJsD5bG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/1yJsD5bG> <https://id.parliament.uk/schema/positionName> "Minister of State (Department of Trade and Industry)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/NIyFaulP> .
+<https://id.parliament.uk/NIyFaulP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/NIyFaulP> <https://id.parliament.uk/schema/positionName> "Minister of State (Employment Relations, Industry & the Regions)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/NuUWSeWr> .
+<https://id.parliament.uk/NuUWSeWr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/NuUWSeWr> <https://id.parliament.uk/schema/positionName> "Secretary of State for Trade and Industry" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/wQUU2EpW> .
+<https://id.parliament.uk/wQUU2EpW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/wQUU2EpW> <https://id.parliament.uk/schema/positionName> "Minister of State (e-Commerce & Competitiveness)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/iN3p4TWX> .
+<https://id.parliament.uk/iN3p4TWX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/iN3p4TWX> <https://id.parliament.uk/schema/positionName> "Minister of State (Department of Trade and Industry) (Trade) (also Foreign and Commonwealth Office)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/srbdkiuw> .
+<https://id.parliament.uk/srbdkiuw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/srbdkiuw> <https://id.parliament.uk/schema/positionName> "Minister of State (Energy and Construction)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/cvnziJ8Y> .
+<https://id.parliament.uk/cvnziJ8Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/cvnziJ8Y> <https://id.parliament.uk/schema/positionName> "Secretary of State for Trade" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/4cxE5UGT> .
+<https://id.parliament.uk/4cxE5UGT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/4cxE5UGT> <https://id.parliament.uk/schema/positionName> "Minister of State (Energy and Industry)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/vccyyFHb> .
+<https://id.parliament.uk/vccyyFHb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/vccyyFHb> <https://id.parliament.uk/schema/positionName> "Minister of State (Energy and Competitiveness in Europe)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/ki4dOzcw> .
+<https://id.parliament.uk/ki4dOzcw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/ki4dOzcw> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Employment Relations and Consumer Affairs)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/30Hjcy5g> .
+<https://id.parliament.uk/30Hjcy5g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/30Hjcy5g> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Energy)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/yvSUI62A> .
+<https://id.parliament.uk/yvSUI62A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/yvSUI62A> <https://id.parliament.uk/schema/positionName> "Minister of State (Small Business)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/ZIBCvdVg> .
+<https://id.parliament.uk/ZIBCvdVg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/ZIBCvdVg> <https://id.parliament.uk/schema/positionName> "Secretary of State for Trade and Industry and Minister for Women and e-Minister in Cabinet" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/V5FsU9Ri> .
+<https://id.parliament.uk/V5FsU9Ri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/V5FsU9Ri> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Women and Equality)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/mF6J4ZMK> .
+<https://id.parliament.uk/mF6J4ZMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/mF6J4ZMK> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Competition, Consumers and Markets)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/AKkJyiE4> .
+<https://id.parliament.uk/AKkJyiE4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/AKkJyiE4> <https://id.parliament.uk/schema/positionName> "President of the Board of Trade" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/I5377T5U> .
+<https://id.parliament.uk/I5377T5U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/I5377T5U> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Small Business)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/87UMK72q> .
+<https://id.parliament.uk/87UMK72q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/87UMK72q> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Industrial Development)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/bZPzaS8O> .
+<https://id.parliament.uk/bZPzaS8O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/bZPzaS8O> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Delivery and Efficiency)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/yyDxck1R> .
+<https://id.parliament.uk/yyDxck1R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/yyDxck1R> <https://id.parliament.uk/schema/positionName> "Minister of State (Industry and the Regions) and Deputy Minister (Women)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/EVdOZ4Yj> .
+<https://id.parliament.uk/EVdOZ4Yj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/EVdOZ4Yj> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Aerospace)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/nu3jPT31> .
+<https://id.parliament.uk/nu3jPT31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/nu3jPT31> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Aerospace & Shipping)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/3fejUCPz> .
+<https://id.parliament.uk/3fejUCPz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/3fejUCPz> <https://id.parliament.uk/schema/positionName> "Minister of State (Trade and Investment) Deputy Leader of the House of Lords (also FCO)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/3zAwsbjv> .
+<https://id.parliament.uk/3zAwsbjv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/3zAwsbjv> <https://id.parliament.uk/schema/positionName> "Minister of State (Competitiveness)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/aitIU9TJ> .
+<https://id.parliament.uk/aitIU9TJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/aitIU9TJ> <https://id.parliament.uk/schema/positionName> "Minister os State (Trade and Industry) (Trade, Investment and Foreign Affairs) (also in the Foreign and Commonwealth Office)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/zIPaCYOP> .
+<https://id.parliament.uk/zIPaCYOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/zIPaCYOP> <https://id.parliament.uk/schema/positionName> "Minister of State (Energy)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/XlXw1tZF> .
+<https://id.parliament.uk/XlXw1tZF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/XlXw1tZF> <https://id.parliament.uk/schema/positionName> "Minister of State (Trade & Consumer Affairs)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/fAqOPlM9> .
+<https://id.parliament.uk/fAqOPlM9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/fAqOPlM9> <https://id.parliament.uk/schema/positionName> "Minister of State (Industry & Information Technology)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/PygGwqfE> .
+<https://id.parliament.uk/PygGwqfE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/PygGwqfE> <https://id.parliament.uk/schema/positionName> "Minister of State (Science and Innovation)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/92q27S9B> .
+<https://id.parliament.uk/92q27S9B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/92q27S9B> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Employment Relations & Postal Services)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/x7LUuO5M> .
+<https://id.parliament.uk/x7LUuO5M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/x7LUuO5M> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Department of Trade and Industry) (Science and Innovation)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/u3HUYIGs> .
+<https://id.parliament.uk/u3HUYIGs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/u3HUYIGs> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Science and Innovation)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/wVQ1fiVw> .
+<https://id.parliament.uk/wVQ1fiVw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/wVQ1fiVw> <https://id.parliament.uk/schema/positionName> "Secretary of State for Trade and Industry" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/DFiFGjaj> .
+<https://id.parliament.uk/DFiFGjaj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/DFiFGjaj> <https://id.parliament.uk/schema/positionName> "Minister of State (Energy)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/ouRuPKuW> .
+<https://id.parliament.uk/ouRuPKuW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/ouRuPKuW> <https://id.parliament.uk/schema/positionName> "Minister of State (Department of Trade and Industry)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/NtmNFyw2> .
+<https://id.parliament.uk/NtmNFyw2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/NtmNFyw2> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Trade and Industry) (Aerospace)" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/NxdDpBO1> .
+<https://id.parliament.uk/NxdDpBO1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/NxdDpBO1> <https://id.parliament.uk/schema/positionName> "President of the Board of Trade" .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupHasPosition> <https://id.parliament.uk/ZslwyWV4> .
+<https://id.parliament.uk/ZslwyWV4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/ZslwyWV4> <https://id.parliament.uk/schema/positionName> "Minister of State (Department of Trade and Industry) (Trade) (also Foreign and Commonwealth Office)" .
+_:node19535272 <https://id.parliament.uk/schema/value> "M" .
+_:node19535273 <https://id.parliament.uk/schema/value> "P" .
+_:node19535274 <https://id.parliament.uk/schema/value> "S" .

@@ -1,0 +1,256 @@
+<https://id.parliament.uk/MsX7YL9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MsX7YL9f> <https://id.parliament.uk/schema/groupStartDate> "2013-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MsX7YL9f> <https://id.parliament.uk/schema/groupName> "Draft Voting Eligibility (Prisoners) Bill" .
+<https://id.parliament.uk/NYBGGR3u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/NYBGGR3u> <https://id.parliament.uk/schema/groupStartDate> "2006-05-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/NYBGGR3u> <https://id.parliament.uk/schema/groupName> "Draft Constitutional Renewal Bill (Joint Committee)" .
+<https://id.parliament.uk/3bjh6zAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/3bjh6zAS> <https://id.parliament.uk/schema/groupStartDate> "2003-07-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3bjh6zAS> <https://id.parliament.uk/schema/groupName> "Draft Civil Contingencies Bill (Joint Committee)" .
+<https://id.parliament.uk/GBUkZZFZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GBUkZZFZ> <https://id.parliament.uk/schema/groupStartDate> "2007-05-02+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/GBUkZZFZ> <https://id.parliament.uk/schema/groupName> "Draft Human Tissue and Embryos Bill (Joint Committee)" .
+<https://id.parliament.uk/RErHh5vz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/RErHh5vz> <https://id.parliament.uk/schema/groupStartDate> "2004-07-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/RErHh5vz> <https://id.parliament.uk/schema/groupName> "Draft Mental Health Bill (Joint Committee)" .
+<https://id.parliament.uk/LRdTsMU8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LRdTsMU8> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LRdTsMU8> <https://id.parliament.uk/schema/groupName> "Delivery of Education in Rural Areas Sub-Committee" .
+<https://id.parliament.uk/JCSW8wW4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/JCSW8wW4> <https://id.parliament.uk/schema/groupStartDate> "2005-02-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/JCSW8wW4> <https://id.parliament.uk/schema/groupName> "Draft Children (Contact) and Adoption Bill (Joint Committee)" .
+<https://id.parliament.uk/60X3KLlt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/60X3KLlt> <https://id.parliament.uk/schema/groupStartDate> "2014-01-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/60X3KLlt> <https://id.parliament.uk/schema/groupName> "Draft Modern Slavery Bill" .
+<https://id.parliament.uk/zOSQJEVf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zOSQJEVf> <https://id.parliament.uk/schema/groupStartDate> "2014-10-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zOSQJEVf> <https://id.parliament.uk/schema/groupName> "Draft Protection of Charities Bill (Joint Committee)" .
+<https://id.parliament.uk/8ERS54Na> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/8ERS54Na> <https://id.parliament.uk/schema/groupStartDate> "2015-09-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8ERS54Na> <https://id.parliament.uk/schema/groupName> "Defence Sub-Committee" .
+<https://id.parliament.uk/lNPsJCKk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/lNPsJCKk> <https://id.parliament.uk/schema/groupStartDate> "2004-04-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/lNPsJCKk> <https://id.parliament.uk/schema/groupName> "Draft Charities Bill (Joint Committee)" .
+<https://id.parliament.uk/xLDCGkEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/xLDCGkEU> <https://id.parliament.uk/schema/groupStartDate> "2010-04-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xLDCGkEU> <https://id.parliament.uk/schema/groupName> "Delegated Powers and Regulatory Reform Committee" .
+<https://id.parliament.uk/7Z1gQ2aJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7Z1gQ2aJ> <https://id.parliament.uk/schema/groupStartDate> "2003-03-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/7Z1gQ2aJ> <https://id.parliament.uk/schema/groupName> "Draft Corruption Bill (Joint Committee)" .
+<https://id.parliament.uk/yzDMOFAr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/yzDMOFAr> <https://id.parliament.uk/schema/groupStartDate> "1999-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/yzDMOFAr> <https://id.parliament.uk/schema/groupName> "Draft Freedom of Information Bill" .
+<https://id.parliament.uk/GGowclBB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GGowclBB> <https://id.parliament.uk/schema/groupStartDate> "2012-11-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/GGowclBB> <https://id.parliament.uk/schema/groupName> "Draft Care and Support Bill" .
+<https://id.parliament.uk/ulc70QQo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ulc70QQo> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ulc70QQo> <https://id.parliament.uk/schema/groupName> "Disposal of Refrigerators" .
+<https://id.parliament.uk/shbbmxix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/shbbmxix> <https://id.parliament.uk/schema/groupStartDate> "2003-07-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/shbbmxix> <https://id.parliament.uk/schema/groupName> "Draft Mental Incapacity Bill (Joint Committee)" .
+<https://id.parliament.uk/hUcptTxq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/hUcptTxq> <https://id.parliament.uk/schema/groupStartDate> "2011-07-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hUcptTxq> <https://id.parliament.uk/schema/groupName> "Draft Financial Services Bill (Joint Committee)" .
+<https://id.parliament.uk/cWF103jf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/cWF103jf> <https://id.parliament.uk/schema/groupStartDate> "2008-05-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cWF103jf> <https://id.parliament.uk/schema/groupName> "Draft Marine Bill (Joint Committee)" .
+<https://id.parliament.uk/AHyrWtUw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/AHyrWtUw> <https://id.parliament.uk/schema/groupStartDate> "2009-05-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AHyrWtUw> <https://id.parliament.uk/schema/groupName> "Draft Bribery Bill (Joint Committee)" .
+<https://id.parliament.uk/bW7T2hvg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bW7T2hvg> <https://id.parliament.uk/schema/groupStartDate> "2011-06-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bW7T2hvg> <https://id.parliament.uk/schema/groupName> "Draft House of Lords Reform Bill (Joint Committee)" .
+<https://id.parliament.uk/4h1nLRUm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/4h1nLRUm> <https://id.parliament.uk/schema/groupStartDate> "2007-01-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4h1nLRUm> <https://id.parliament.uk/schema/groupName> "Draft Climate Change Bill (Joint Committee)" .
+<https://id.parliament.uk/SYd7RdQp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SYd7RdQp> <https://id.parliament.uk/schema/groupStartDate> "2017-09-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SYd7RdQp> <https://id.parliament.uk/schema/groupName> "Digital, Culture, Media and Sport" .
+<https://id.parliament.uk/6PIUo3mZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/6PIUo3mZ> <https://id.parliament.uk/schema/groupStartDate> "2013-07-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/6PIUo3mZ> <https://id.parliament.uk/schema/groupName> "Draft Deregulation Bill (Joint Committee)" .
+<https://id.parliament.uk/OAdpmtMv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/OAdpmtMv> <https://id.parliament.uk/schema/groupStartDate> "1994-11-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/OAdpmtMv> <https://id.parliament.uk/schema/groupName> "Deregulation" .
+<https://id.parliament.uk/1G2t5UVo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/1G2t5UVo> <https://id.parliament.uk/schema/groupStartDate> "2011-03-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1G2t5UVo> <https://id.parliament.uk/schema/groupName> "Draft Defamation Bill (Joint Committee)" .
+<https://id.parliament.uk/2Tp8UwhK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2Tp8UwhK> <https://id.parliament.uk/schema/groupStartDate> "2006-05-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/2Tp8UwhK> <https://id.parliament.uk/schema/groupName> "Draft Legal Services Bill (Joint Committee)" .
+<https://id.parliament.uk/TkAveb0E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TkAveb0E> <https://id.parliament.uk/schema/groupStartDate> "2015-11-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TkAveb0E> <https://id.parliament.uk/schema/groupName> "Draft Investigatory Powers Bill (Joint Committee)" .
+<https://id.parliament.uk/vmkgB57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vmkgB57b> <https://id.parliament.uk/schema/groupStartDate> "2012-06-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vmkgB57b> <https://id.parliament.uk/schema/groupName> "Draft Communications Data Bill (Joint Committee)" .
+<https://id.parliament.uk/RTBq2Weg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/RTBq2Weg> <https://id.parliament.uk/schema/groupStartDate> "2014-06-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/RTBq2Weg> <https://id.parliament.uk/schema/groupName> "Digital Skills" .
+<https://id.parliament.uk/eo4FcJFK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eo4FcJFK> <https://id.parliament.uk/schema/groupStartDate> "2002-04-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/eo4FcJFK> <https://id.parliament.uk/schema/groupName> "Draft Communications Bill (Joint Committee)" .
+<https://id.parliament.uk/EwCqzQA5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EwCqzQA5> <https://id.parliament.uk/schema/groupStartDate> "2012-07-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/EwCqzQA5> <https://id.parliament.uk/schema/groupName> "Draft Enhanced Terrorism Prevention and Investigation Measures Bill (Joint Committee)" .
+<https://id.parliament.uk/oaWaMRnb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/oaWaMRnb> <https://id.parliament.uk/schema/groupStartDate> "1979-05-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oaWaMRnb> <https://id.parliament.uk/schema/groupName> "Defence Committee" .
+<https://id.parliament.uk/o0fEWkQv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/o0fEWkQv> <https://id.parliament.uk/schema/groupStartDate> "2004-01-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/o0fEWkQv> <https://id.parliament.uk/schema/groupName> "Draft Disability Discrimination Bill (Joint Committee)" .
+<https://id.parliament.uk/MCZjo5RL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MCZjo5RL> <https://id.parliament.uk/schema/groupStartDate> "2003-07-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MCZjo5RL> <https://id.parliament.uk/schema/groupName> "Draft Gambling Bill (Joint Committee)" .
+<https://id.parliament.uk/KOpngjmu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KOpngjmu> <https://id.parliament.uk/schema/groupStartDate> "2011-03-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KOpngjmu> <https://id.parliament.uk/schema/groupName> "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)" .
+<https://id.parliament.uk/sNtYvjZw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/sNtYvjZw> <https://id.parliament.uk/schema/groupStartDate> "1994-11-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sNtYvjZw> <https://id.parliament.uk/schema/groupName> "Declaration and Registration of Interests" .
+<https://id.parliament.uk/cqycgTwB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/cqycgTwB> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cqycgTwB> <https://id.parliament.uk/schema/groupName> "Dominions Office" .
+<https://id.parliament.uk/4JzvBHjw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/4JzvBHjw> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4JzvBHjw> <https://id.parliament.uk/schema/groupName> "Department of Economic Affairs" .
+<https://id.parliament.uk/SmBP8rSW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SmBP8rSW> <https://id.parliament.uk/schema/groupStartDate> "2008-10-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SmBP8rSW> <https://id.parliament.uk/schema/groupName> "Department of Energy and Climate Change" .
+<https://id.parliament.uk/KvYPLaER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KvYPLaER> <https://id.parliament.uk/schema/groupStartDate> "2005-05-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KvYPLaER> <https://id.parliament.uk/schema/groupName> "Department for Productivity, Energy and Industry" .
+<https://id.parliament.uk/2ETGTOUP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2ETGTOUP> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/2ETGTOUP> <https://id.parliament.uk/schema/groupName> "Department of Prices and Consumer Protection" .
+<https://id.parliament.uk/3dy1ZK6A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/3dy1ZK6A> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3dy1ZK6A> <https://id.parliament.uk/schema/groupName> "Department of National Heritage" .
+<https://id.parliament.uk/urAEwA74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/urAEwA74> <https://id.parliament.uk/schema/groupStartDate> "2006-05-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/urAEwA74> <https://id.parliament.uk/schema/groupName> "Department for Communities and Local Government" .
+<https://id.parliament.uk/HvswqeX0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HvswqeX0> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HvswqeX0> <https://id.parliament.uk/schema/groupName> "Department of the Environment" .
+<https://id.parliament.uk/d6Ls55hF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/d6Ls55hF> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/d6Ls55hF> <https://id.parliament.uk/schema/groupName> "Department of National Heritage/Department for Culture, Media and Sport" .
+<https://id.parliament.uk/liFsCGtF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/liFsCGtF> <https://id.parliament.uk/schema/groupStartDate> "2016-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/liFsCGtF> <https://id.parliament.uk/schema/groupName> "Department for Exiting the European Union " .
+<https://id.parliament.uk/4JO0wsTU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/4JO0wsTU> <https://id.parliament.uk/schema/groupStartDate> "2007-06-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4JO0wsTU> <https://id.parliament.uk/schema/groupName> "Department for Business, Enterprise and Regulatory Reform" .
+<https://id.parliament.uk/h0nsmlvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/h0nsmlvo> <https://id.parliament.uk/schema/groupStartDate> "2016-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/h0nsmlvo> <https://id.parliament.uk/schema/groupName> "Department for International Trade" .
+<https://id.parliament.uk/PcA4mRL7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PcA4mRL7> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PcA4mRL7> <https://id.parliament.uk/schema/groupName> "Department for Constitutional Affairs" .
+<https://id.parliament.uk/ajOHz5kL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ajOHz5kL> <https://id.parliament.uk/schema/groupStartDate> "1997-08-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ajOHz5kL> <https://id.parliament.uk/schema/groupName> "Department for Culture, Media and Sport" .
+<https://id.parliament.uk/ITxNZjes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ITxNZjes> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ITxNZjes> <https://id.parliament.uk/schema/groupName> "Department of Employment and Productivity" .
+<https://id.parliament.uk/hGExlZ7j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/hGExlZ7j> <https://id.parliament.uk/schema/groupStartDate> "1964-04-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hGExlZ7j> <https://id.parliament.uk/schema/groupName> "Department of Education and Science" .
+<https://id.parliament.uk/pjGLPer1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/pjGLPer1> <https://id.parliament.uk/schema/groupStartDate> "2016-07-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pjGLPer1> <https://id.parliament.uk/schema/groupName> "Department for Business, Energy and Industrial Strategy" .
+<https://id.parliament.uk/PSi9vpNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PSi9vpNY> <https://id.parliament.uk/schema/groupStartDate> "2010-05-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PSi9vpNY> <https://id.parliament.uk/schema/groupName> "Department for Education" .
+<https://id.parliament.uk/GJqE5lZm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GJqE5lZm> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/GJqE5lZm> <https://id.parliament.uk/schema/groupName> "Department of Industry" .
+<https://id.parliament.uk/vPh13IuX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vPh13IuX> <https://id.parliament.uk/schema/groupStartDate> "2009-06-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vPh13IuX> <https://id.parliament.uk/schema/groupName> "Department for Business, Innovation and Skills" .
+<https://id.parliament.uk/9yWJoIKQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/9yWJoIKQ> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/9yWJoIKQ> <https://id.parliament.uk/schema/groupName> "Department of Health" .
+<https://id.parliament.uk/YHxE7yqe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/YHxE7yqe> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/YHxE7yqe> <https://id.parliament.uk/schema/groupName> "Department for Transport, Local Government and the Regions" .
+<https://id.parliament.uk/oAURo2pP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/oAURo2pP> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oAURo2pP> <https://id.parliament.uk/schema/groupName> "Department of the Environment, Transport and the Regions" .
+<https://id.parliament.uk/0CA4pY4D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/0CA4pY4D> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0CA4pY4D> <https://id.parliament.uk/schema/groupName> "Duchy of Lancaster Office" .
+<https://id.parliament.uk/Ah1yGhJl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Ah1yGhJl> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Ah1yGhJl> <https://id.parliament.uk/schema/groupName> "Department for Education and Skills" .
+<https://id.parliament.uk/5sAVCGch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5sAVCGch> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5sAVCGch> <https://id.parliament.uk/schema/groupName> "Department for Education and Employment" .
+<https://id.parliament.uk/uutrdkpC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/uutrdkpC> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/uutrdkpC> <https://id.parliament.uk/schema/groupName> "Department of Energy" .
+<https://id.parliament.uk/v86Fq9vq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/v86Fq9vq> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/v86Fq9vq> <https://id.parliament.uk/schema/groupName> "Department of Social Security" .
+<https://id.parliament.uk/IHvlBTRf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/IHvlBTRf> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IHvlBTRf> <https://id.parliament.uk/schema/groupName> "Department for Environment, Food and Rural Affairs" .
+<https://id.parliament.uk/wRe2Mmo9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wRe2Mmo9> <https://id.parliament.uk/schema/groupStartDate> "2017-07-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wRe2Mmo9> <https://id.parliament.uk/schema/groupName> "Department for Digital, Culture, Media and Sport" .
+<https://id.parliament.uk/ftlfv4oU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ftlfv4oU> <https://id.parliament.uk/schema/groupStartDate> "1995-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ftlfv4oU> <https://id.parliament.uk/schema/groupName> "Department of Education" .
+<https://id.parliament.uk/rS9QYK1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/rS9QYK1y> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/rS9QYK1y> <https://id.parliament.uk/schema/groupName> "Department of Health and Social Security" .
+<https://id.parliament.uk/FPvIVqtX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FPvIVqtX> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/FPvIVqtX> <https://id.parliament.uk/schema/groupName> "Department for Work and Pensions" .
+<https://id.parliament.uk/k95wDkT3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupStartDate> "1983-08-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/k95wDkT3> <https://id.parliament.uk/schema/groupName> "Department of Trade and Industry" .
+<https://id.parliament.uk/IQOBFwWr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/IQOBFwWr> <https://id.parliament.uk/schema/groupStartDate> "1974-04-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IQOBFwWr> <https://id.parliament.uk/schema/groupName> "Department of Trade" .
+<https://id.parliament.uk/VPHDSfX8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VPHDSfX8> <https://id.parliament.uk/schema/groupStartDate> "2007-06-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VPHDSfX8> <https://id.parliament.uk/schema/groupName> "Department for Children, Schools and Families" .
+<https://id.parliament.uk/ob0ZyQQd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ob0ZyQQd> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ob0ZyQQd> <https://id.parliament.uk/schema/groupName> "Department of Employment" .
+<https://id.parliament.uk/SCu9ePpT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SCu9ePpT> <https://id.parliament.uk/schema/groupStartDate> "2002-05-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SCu9ePpT> <https://id.parliament.uk/schema/groupName> "Department for Transport" .
+<https://id.parliament.uk/r5Gtvri0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/r5Gtvri0> <https://id.parliament.uk/schema/groupStartDate> "2007-06-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/r5Gtvri0> <https://id.parliament.uk/schema/groupName> "Department for Innovation, Universities and Skills" .
+<https://id.parliament.uk/LbObLtti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/groupStartDate> "2018-01-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/groupName> "Department of Health and Social Care" .
+<https://id.parliament.uk/x0LxIBS7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/x0LxIBS7> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/x0LxIBS7> <https://id.parliament.uk/schema/groupName> "Department for International Development" .
+<https://id.parliament.uk/gaGgrMKh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/gaGgrMKh> <https://id.parliament.uk/schema/groupStartDate> "2006-05-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/gaGgrMKh> <https://id.parliament.uk/schema/groupName> "Deputy Prime Minister" .
+_:node18129548 <https://id.parliament.uk/schema/value> "P" .
+_:node18129549 <https://id.parliament.uk/schema/value> "E" .
+_:node18129550 <https://id.parliament.uk/schema/value> "C" .
+_:node18129551 <https://id.parliament.uk/schema/value> "N" .
+_:node18129552 <https://id.parliament.uk/schema/value> "F" .
+_:node18129553 <https://id.parliament.uk/schema/value> "T" .
+_:node18129554 <https://id.parliament.uk/schema/value> "H" .
+_:node18129555 <https://id.parliament.uk/schema/value> "A" .
+_:node18129556 <https://id.parliament.uk/schema/value> "S" .
+_:node18129557 <https://id.parliament.uk/schema/value> "I" .
+_:node18129558 <https://id.parliament.uk/schema/value> "L" .
+_:node18129559 <https://id.parliament.uk/schema/value> "B" .
+_:node18129560 <https://id.parliament.uk/schema/value> "D" .
+_:node18129561 <https://id.parliament.uk/schema/value> "J" .
+_:node18129562 <https://id.parliament.uk/schema/value> "W" .
+_:node18129563 <https://id.parliament.uk/schema/value> "R" .
+_:node18129564 <https://id.parliament.uk/schema/value> "M" .
+_:node18129565 <https://id.parliament.uk/schema/value> "O" .
+_:node18129566 <https://id.parliament.uk/schema/value> "U" .
