@@ -1,0 +1,608 @@
+<https://id.parliament.uk/tz34m7Vt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/tz34m7Vt> <https://id.parliament.uk/schema/groupName> "Culture, Media and Sport Committee" .
+<https://id.parliament.uk/wZVxomZk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wZVxomZk> <https://id.parliament.uk/schema/groupName> "Procedure Committee (Lords)" .
+<https://id.parliament.uk/BuhjfUz0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BuhjfUz0> <https://id.parliament.uk/schema/groupName> "Relations between Central and Local Government, Committee on" .
+<https://id.parliament.uk/ig2XUOqP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ig2XUOqP> <https://id.parliament.uk/schema/groupName> "Members' Expenses Committee" .
+<https://id.parliament.uk/31mjIwM5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/31mjIwM5> <https://id.parliament.uk/schema/groupName> "BBC Charter Review Committee" .
+<https://id.parliament.uk/iGeIyqdU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/iGeIyqdU> <https://id.parliament.uk/schema/groupName> "Education Committee" .
+<https://id.parliament.uk/onOuCmwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/onOuCmwm> <https://id.parliament.uk/schema/groupName> "Committee on Standards" .
+<https://id.parliament.uk/G6L8CLPq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/G6L8CLPq> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee A - Economic and Financial Affairs, and International Trade" .
+<https://id.parliament.uk/jULkdAwx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jULkdAwx> <https://id.parliament.uk/schema/groupName> "Northern Ireland Affairs Committee" .
+<https://id.parliament.uk/3sIGgDBf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/3sIGgDBf> <https://id.parliament.uk/schema/groupName> "Select Committee on Broadcasting" .
+<https://id.parliament.uk/T3Q0vo8w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/T3Q0vo8w> <https://id.parliament.uk/schema/groupName> "European Legislation Sub-Committee II" .
+<https://id.parliament.uk/xiMNmUSh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/xiMNmUSh> <https://id.parliament.uk/schema/groupName> "Constitution Committee" .
+<https://id.parliament.uk/fjDBEF5m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/fjDBEF5m> <https://id.parliament.uk/schema/groupName> "Transport Sub-committee" .
+<https://id.parliament.uk/ANA3YJJx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ANA3YJJx> <https://id.parliament.uk/schema/groupName> "Economic Affairs Committee" .
+<https://id.parliament.uk/FfTen0LI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FfTen0LI> <https://id.parliament.uk/schema/groupName> "Innovation, Universities, Science and Skills Committee" .
+<https://id.parliament.uk/NYBGGR3u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/NYBGGR3u> <https://id.parliament.uk/schema/groupName> "Draft Constitutional Renewal Bill (Joint Committee)" .
+<https://id.parliament.uk/fYbWHWhk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/fYbWHWhk> <https://id.parliament.uk/schema/groupName> "Foreign Affairs Committee" .
+<https://id.parliament.uk/cLjFRjRt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/groupName> "Treasury Committee" .
+<https://id.parliament.uk/R6WKK3ND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/R6WKK3ND> <https://id.parliament.uk/schema/groupName> "Adoption Legislation Committee" .
+<https://id.parliament.uk/tpnIn2BN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/tpnIn2BN> <https://id.parliament.uk/schema/groupName> "House of Lords Commission" .
+<https://id.parliament.uk/eHK3fAn2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eHK3fAn2> <https://id.parliament.uk/schema/groupName> "Accommodation Steering Group" .
+<https://id.parliament.uk/U7EjDeFU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/U7EjDeFU> <https://id.parliament.uk/schema/groupName> "Committee for Privileges and Conduct (Lords)" .
+<https://id.parliament.uk/y90TRE1Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/y90TRE1Q> <https://id.parliament.uk/schema/groupName> "Library and Computers Sub Committee" .
+<https://id.parliament.uk/ILGTEgcO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ILGTEgcO> <https://id.parliament.uk/schema/groupName> "Finance Committee (Commons)" .
+<https://id.parliament.uk/1U0KWreh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/1U0KWreh> <https://id.parliament.uk/schema/groupName> "Committee on the Assisted Dying for the terminally ill Bill" .
+<https://id.parliament.uk/jq2qq0PT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jq2qq0PT> <https://id.parliament.uk/schema/groupName> "Maternity Services Sub-Committee" .
+<https://id.parliament.uk/3bjh6zAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/3bjh6zAS> <https://id.parliament.uk/schema/groupName> "Draft Civil Contingencies Bill (Joint Committee)" .
+<https://id.parliament.uk/x7eu4YYX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/x7eu4YYX> <https://id.parliament.uk/schema/groupName> "Administration Committee" .
+<https://id.parliament.uk/dN4Dh5qf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/dN4Dh5qf> <https://id.parliament.uk/schema/groupName> "Statutory Instruments (Select Committee)" .
+<https://id.parliament.uk/GBUkZZFZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GBUkZZFZ> <https://id.parliament.uk/schema/groupName> "Draft Human Tissue and Embryos Bill (Joint Committee)" .
+<https://id.parliament.uk/vOnlgeFJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vOnlgeFJ> <https://id.parliament.uk/schema/groupName> "Modernisation of the House of Commons" .
+<https://id.parliament.uk/GZwoZ6sm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GZwoZ6sm> <https://id.parliament.uk/schema/groupName> "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact" .
+<https://id.parliament.uk/LyvUJ69p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LyvUJ69p> <https://id.parliament.uk/schema/groupName> "Science & Technology: Technological Innovation Sub-Committee" .
+<https://id.parliament.uk/KVz1fPJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KVz1fPJ4> <https://id.parliament.uk/schema/groupName> "Sittings of the House (Commons)" .
+<https://id.parliament.uk/bbuY9Nrx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bbuY9Nrx> <https://id.parliament.uk/schema/groupName> "Committee On Animals In Scientific Procedures" .
+<https://id.parliament.uk/RErHh5vz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/RErHh5vz> <https://id.parliament.uk/schema/groupName> "Draft Mental Health Bill (Joint Committee)" .
+<https://id.parliament.uk/u4MLsx5z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/u4MLsx5z> <https://id.parliament.uk/schema/groupName> "South East Regional Select Committee" .
+<https://id.parliament.uk/Kx5VxgUX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Kx5VxgUX> <https://id.parliament.uk/schema/groupName> "Works of Art Committee (Lords)" .
+<https://id.parliament.uk/GHxcdXWd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GHxcdXWd> <https://id.parliament.uk/schema/groupName> "Small and Medium Sized Enterprises Committee" .
+<https://id.parliament.uk/1FhSM1jR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/1FhSM1jR> <https://id.parliament.uk/schema/groupName> "Committee on London Local Authorities Bill" .
+<https://id.parliament.uk/VjeqH4MS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VjeqH4MS> <https://id.parliament.uk/schema/groupName> "European Scrutiny Committee" .
+<https://id.parliament.uk/OXwyoZdB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/OXwyoZdB> <https://id.parliament.uk/schema/groupName> "Administration and Works Committee (Lords)" .
+<https://id.parliament.uk/LRdTsMU8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LRdTsMU8> <https://id.parliament.uk/schema/groupName> "Delivery of Education in Rural Areas Sub-Committee" .
+<https://id.parliament.uk/JCSW8wW4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/JCSW8wW4> <https://id.parliament.uk/schema/groupName> "Draft Children (Contact) and Adoption Bill (Joint Committee)" .
+<https://id.parliament.uk/EEoYsYbv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EEoYsYbv> <https://id.parliament.uk/schema/groupName> "European Legislation Sub-Committee I" .
+<https://id.parliament.uk/vS4ICCTW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vS4ICCTW> <https://id.parliament.uk/schema/groupName> "Palace of Westminster (Joint Committee)" .
+<https://id.parliament.uk/TPDK1RsN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TPDK1RsN> <https://id.parliament.uk/schema/groupName> "International Trade Committee" .
+<https://id.parliament.uk/kbraMu1P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/kbraMu1P> <https://id.parliament.uk/schema/groupName> "Olympic and Paralympic Legacy Committee" .
+<https://id.parliament.uk/eE3SqWSP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eE3SqWSP> <https://id.parliament.uk/schema/groupName> "Select Committee on Science and Technology Sub-Committee 2" .
+<https://id.parliament.uk/85eqmKya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/85eqmKya> <https://id.parliament.uk/schema/groupName> "Trade Union Political Funds and Political Party Funding Committee" .
+<https://id.parliament.uk/ThndcIYX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ThndcIYX> <https://id.parliament.uk/schema/groupName> "Private Bills Select Committee (L)" .
+<https://id.parliament.uk/kS1qNRTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/kS1qNRTA> <https://id.parliament.uk/schema/groupName> "Public Administration and Constitutional Affairs Committee" .
+<https://id.parliament.uk/8sI5979J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/8sI5979J> <https://id.parliament.uk/schema/groupName> "Lord Speaker's committee on the size of the House" .
+<https://id.parliament.uk/273sXXSQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/273sXXSQ> <https://id.parliament.uk/schema/groupName> "Adminstration Sub Committee" .
+<https://id.parliament.uk/ztV6XL6J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ztV6XL6J> <https://id.parliament.uk/schema/groupName> "EU Sub Committee D - Agriculture, Fisheries, Environment and Energy" .
+<https://id.parliament.uk/zOSQJEVf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zOSQJEVf> <https://id.parliament.uk/schema/groupName> "Draft Protection of Charities Bill (Joint Committee)" .
+<https://id.parliament.uk/b6qplKGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/b6qplKGH> <https://id.parliament.uk/schema/groupName> "Nationalised Industries: Sub-Committee D" .
+<https://id.parliament.uk/V5q8Cckw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/V5q8Cckw> <https://id.parliament.uk/schema/groupName> "East Midlands Regional Select Committee" .
+<https://id.parliament.uk/VrZpFqea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VrZpFqea> <https://id.parliament.uk/schema/groupName> "Trusts (Capital and Income) Bill [HL]  Special Public Bill Committee" .
+<https://id.parliament.uk/Q04p6jUr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Q04p6jUr> <https://id.parliament.uk/schema/groupName> "EU Sub Committee C - External Affairs" .
+<https://id.parliament.uk/W9QPtJzD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/W9QPtJzD> <https://id.parliament.uk/schema/groupName> "Energy and Climate Change Committee" .
+<https://id.parliament.uk/riFJAR1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/riFJAR1y> <https://id.parliament.uk/schema/groupName> "Hybrid Instruments Committee (Lords)" .
+<https://id.parliament.uk/aQuG7oOo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/aQuG7oOo> <https://id.parliament.uk/schema/groupName> "Learning the Sustainability Lesson Sub-Committee" .
+<https://id.parliament.uk/wiDotwa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wiDotwa3> <https://id.parliament.uk/schema/groupName> "Science and Technology Committee (Lords)" .
+<https://id.parliament.uk/nWjs77FT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/nWjs77FT> <https://id.parliament.uk/schema/groupName> "Committee on Issue of Privilege (Police Searches on Parliamentary Estate)" .
+<https://id.parliament.uk/VTGyP83e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VTGyP83e> <https://id.parliament.uk/schema/groupName> "Social Mobility Committee" .
+<https://id.parliament.uk/KRbbFVCS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KRbbFVCS> <https://id.parliament.uk/schema/groupName> "Backbench Business Committee" .
+<https://id.parliament.uk/iJRMobzT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/iJRMobzT> <https://id.parliament.uk/schema/groupName> "House of Lords Reform (Joint Committee)" .
+<https://id.parliament.uk/c9jx7lT4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/c9jx7lT4> <https://id.parliament.uk/schema/groupName> "Committee on the Speakership of the House" .
+<https://id.parliament.uk/itTK2K5C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/itTK2K5C> <https://id.parliament.uk/schema/groupName> "Nationalised Industries: Sub-Committee E" .
+<https://id.parliament.uk/1GIElhTG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/1GIElhTG> <https://id.parliament.uk/schema/groupName> "Public Service and Demographic Change Committee" .
+<https://id.parliament.uk/LsbP3ker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LsbP3ker> <https://id.parliament.uk/schema/groupName> "High Speed Rail (London - West Midlands) Bill (Commons)" .
+<https://id.parliament.uk/XJvgFRlW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XJvgFRlW> <https://id.parliament.uk/schema/groupName> "Committee On Religious Offences" .
+<https://id.parliament.uk/73Fl48wp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/73Fl48wp> <https://id.parliament.uk/schema/groupName> "Speaker's Committee for the Independent Parliamentary Standards Authority" .
+<https://id.parliament.uk/jLIc7oPt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jLIc7oPt> <https://id.parliament.uk/schema/groupName> "EU Energy and Environment Sub-Committee" .
+<https://id.parliament.uk/5Mlzzi7F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5Mlzzi7F> <https://id.parliament.uk/schema/groupName> "Liaison Committee (Lords)" .
+<https://id.parliament.uk/kqKISXfL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/kqKISXfL> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee F - Home Affairs" .
+<https://id.parliament.uk/IjGmcAj5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/IjGmcAj5> <https://id.parliament.uk/schema/groupName> "Services Committee" .
+<https://id.parliament.uk/8ERS54Na> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/8ERS54Na> <https://id.parliament.uk/schema/groupName> "Defence Sub-Committee" .
+<https://id.parliament.uk/T6Yiw5Gb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/T6Yiw5Gb> <https://id.parliament.uk/schema/groupName> "House of Commons (Services): Accomodation & Administration Sub-Committee" .
+<https://id.parliament.uk/lNPsJCKk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/lNPsJCKk> <https://id.parliament.uk/schema/groupName> "Draft Charities Bill (Joint Committee)" .
+<https://id.parliament.uk/zN7GEjJF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zN7GEjJF> <https://id.parliament.uk/schema/groupName> "Inquiries Act 2005 Committee" .
+<https://id.parliament.uk/SZrZn6gs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SZrZn6gs> <https://id.parliament.uk/schema/groupName> "Science and Technology Committee (Commons)" .
+<https://id.parliament.uk/5ErDuzXd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5ErDuzXd> <https://id.parliament.uk/schema/groupName> "Environment, Food and Rural Affairs Committee" .
+<https://id.parliament.uk/xLDCGkEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/xLDCGkEU> <https://id.parliament.uk/schema/groupName> "Delegated Powers and Regulatory Reform Committee" .
+<https://id.parliament.uk/Jy5syosI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Jy5syosI> <https://id.parliament.uk/schema/groupName> "Leave of Absence and Lords' Expenses Committee" .
+<https://id.parliament.uk/F3szxjUE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/F3szxjUE> <https://id.parliament.uk/schema/groupName> "Constitutional Reform Committee" .
+<https://id.parliament.uk/DRX1dKRe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DRX1dKRe> <https://id.parliament.uk/schema/groupName> "House of Commons Governance Committee" .
+<https://id.parliament.uk/SZApwfC6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SZApwfC6> <https://id.parliament.uk/schema/groupName> "Leicester, Liverpool and Maidstone Councils Bill Committee" .
+<https://id.parliament.uk/PUQvEZi8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PUQvEZi8> <https://id.parliament.uk/schema/groupName> "EU Home Affairs Sub-Committee" .
+<https://id.parliament.uk/rxmUUt2Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/rxmUUt2Y> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee F" .
+<https://id.parliament.uk/BueyYdWd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BueyYdWd> <https://id.parliament.uk/schema/groupName> "Justice Committee" .
+<https://id.parliament.uk/KUG5GwaV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KUG5GwaV> <https://id.parliament.uk/schema/groupName> "Intellectual Property (Unjustified Threats) Bill [HL] Special Public Bill Committee" .
+<https://id.parliament.uk/bbo0fmjC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bbo0fmjC> <https://id.parliament.uk/schema/groupName> "Badgers and Bovine Tuberculosis Sub-Committee" .
+<https://id.parliament.uk/FucHjbMu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FucHjbMu> <https://id.parliament.uk/schema/groupName> "International Relations Committee" .
+<https://id.parliament.uk/43dKdg2G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/43dKdg2G> <https://id.parliament.uk/schema/groupName> "Intergovernmental Organisations Committee" .
+<https://id.parliament.uk/7Z1gQ2aJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7Z1gQ2aJ> <https://id.parliament.uk/schema/groupName> "Draft Corruption Bill (Joint Committee)" .
+<https://id.parliament.uk/jrUSwaNE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jrUSwaNE> <https://id.parliament.uk/schema/groupName> "Home Affairs Committee" .
+<https://id.parliament.uk/HoEUEC55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HoEUEC55> <https://id.parliament.uk/schema/groupName> "Environment Sub-committee" .
+<https://id.parliament.uk/SnKxyzm3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SnKxyzm3> <https://id.parliament.uk/schema/groupName> "Liaison Committee (Commons)" .
+<https://id.parliament.uk/KDv6yP2N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KDv6yP2N> <https://id.parliament.uk/schema/groupName> "Select Committee on the Ceremony of Introduction" .
+<https://id.parliament.uk/Qp0xvHUJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Qp0xvHUJ> <https://id.parliament.uk/schema/groupName> "European Union Committee" .
+<https://id.parliament.uk/CWyaasbk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/CWyaasbk> <https://id.parliament.uk/schema/groupName> "Bournemouth & Manchester Councils Bills Committee" .
+<https://id.parliament.uk/gHAJfCeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/gHAJfCeE> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee D" .
+<https://id.parliament.uk/k4bheaLM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/k4bheaLM> <https://id.parliament.uk/schema/groupName> "European Communities Committee on European Air Fares" .
+<https://id.parliament.uk/mHE3vCVC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/mHE3vCVC> <https://id.parliament.uk/schema/groupName> "Natural Environment and Rural Communities Act 2006 Committee" .
+<https://id.parliament.uk/sRBUWwFf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/sRBUWwFf> <https://id.parliament.uk/schema/groupName> "EU Justice Sub-Committee" .
+<https://id.parliament.uk/lsAzYADQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/lsAzYADQ> <https://id.parliament.uk/schema/groupName> "Equality Act 2010 and Disability Committee" .
+<https://id.parliament.uk/hqEt5GVs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/hqEt5GVs> <https://id.parliament.uk/schema/groupName> "Committee on Mersey Tunnels Bill" .
+<https://id.parliament.uk/ZOLV9Lnl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ZOLV9Lnl> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee C - Foreign Affairs, Defence and Development Policy" .
+<https://id.parliament.uk/eXJZnDB2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eXJZnDB2> <https://id.parliament.uk/schema/groupName> "House of Commons (Services): Computer Sub-Committee" .
+<https://id.parliament.uk/QhwECOTD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/QhwECOTD> <https://id.parliament.uk/schema/groupName> "Financial Services and Markets (Joint Committee)" .
+<https://id.parliament.uk/UkgCpL5v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/UkgCpL5v> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee E - Justice and Institutions" .
+<https://id.parliament.uk/ZyRIvFmC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ZyRIvFmC> <https://id.parliament.uk/schema/groupName> "Intelligence and Security Committee of Parliament" .
+<https://id.parliament.uk/RmIz1thp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/RmIz1thp> <https://id.parliament.uk/schema/groupName> "Practice and Procedure Committee" .
+<https://id.parliament.uk/VKsvXiyr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VKsvXiyr> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee B - Internal Market" .
+<https://id.parliament.uk/zZsfSn4U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zZsfSn4U> <https://id.parliament.uk/schema/groupName> "House of Commons (Services)" .
+<https://id.parliament.uk/O77nHeF0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/O77nHeF0> <https://id.parliament.uk/schema/groupName> "Urban Affairs Sub-committee" .
+<https://id.parliament.uk/DZGkH69o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DZGkH69o> <https://id.parliament.uk/schema/groupName> "Finance and Services Committee" .
+<https://id.parliament.uk/5IgASPKH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5IgASPKH> <https://id.parliament.uk/schema/groupName> "Procedure Committee" .
+<https://id.parliament.uk/mXpoVGuJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/mXpoVGuJ> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee B" .
+<https://id.parliament.uk/FFtuT7wL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FFtuT7wL> <https://id.parliament.uk/schema/groupName> "Barnett Formula Committee" .
+<https://id.parliament.uk/Ft8ChL0R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Ft8ChL0R> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee E" .
+<https://id.parliament.uk/a3qX1VF4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/a3qX1VF4> <https://id.parliament.uk/schema/groupName> "Finance and Staff Sub Committee" .
+<https://id.parliament.uk/shbbmxix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/shbbmxix> <https://id.parliament.uk/schema/groupName> "Draft Mental Incapacity Bill (Joint Committee)" .
+<https://id.parliament.uk/MA7VBrwA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MA7VBrwA> <https://id.parliament.uk/schema/groupName> "Tax Law Rewrite Bills (Joint Committee)" .
+<https://id.parliament.uk/hUcptTxq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/hUcptTxq> <https://id.parliament.uk/schema/groupName> "Draft Financial Services Bill (Joint Committee)" .
+<https://id.parliament.uk/ZTuWCimf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ZTuWCimf> <https://id.parliament.uk/schema/groupName> "Environment, Food and Rural Affairs Sub-Committee" .
+<https://id.parliament.uk/XLifv1Ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XLifv1Ff> <https://id.parliament.uk/schema/groupName> "Education, Skills and the Economy Sub-Committee" .
+<https://id.parliament.uk/wXqxbB2N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wXqxbB2N> <https://id.parliament.uk/schema/groupName> "Treasury & Civil Service Sub-Committee" .
+<https://id.parliament.uk/ReE8wVWz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ReE8wVWz> <https://id.parliament.uk/schema/groupName> "Ecclesiastical Committee (Joint Committee)" .
+<https://id.parliament.uk/cWF103jf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/cWF103jf> <https://id.parliament.uk/schema/groupName> "Draft Marine Bill (Joint Committee)" .
+<https://id.parliament.uk/wwtkGbP4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wwtkGbP4> <https://id.parliament.uk/schema/groupName> "Public Administration Committee" .
+<https://id.parliament.uk/AHyrWtUw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/AHyrWtUw> <https://id.parliament.uk/schema/groupName> "Draft Bribery Bill (Joint Committee)" .
+<https://id.parliament.uk/XK1JDE1t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XK1JDE1t> <https://id.parliament.uk/schema/groupName> "Public Accounts Commission" .
+<https://id.parliament.uk/HKmf0Ca7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HKmf0Ca7> <https://id.parliament.uk/schema/groupName> "Foreign Affairs: Entry Clearance Sub-Committee" .
+<https://id.parliament.uk/wzO3nBgS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wzO3nBgS> <https://id.parliament.uk/schema/groupName> "Home Affairs: Sub-Committee on Race Relations & Immigration" .
+<https://id.parliament.uk/VthF9ZwL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/VthF9ZwL> <https://id.parliament.uk/schema/groupName> "Sub-Committee on Leave of Absence" .
+<https://id.parliament.uk/6gYld9ky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/6gYld9ky> <https://id.parliament.uk/schema/groupName> "Committees on Arms Export Controls (formerly Quadripartite Committee)" .
+<https://id.parliament.uk/QE4JIWLk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/QE4JIWLk> <https://id.parliament.uk/schema/groupName> "West Midlands Regional Select Committee" .
+<https://id.parliament.uk/JIkrP2Ls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/JIkrP2Ls> <https://id.parliament.uk/schema/groupName> "Armed Forces  Bill Committee" .
+<https://id.parliament.uk/5NJVAuSn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5NJVAuSn> <https://id.parliament.uk/schema/groupName> "Committee of Selection (Lords)" .
+<https://id.parliament.uk/eY8j6SWx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eY8j6SWx> <https://id.parliament.uk/schema/groupName> "Overseas Trade Committee" .
+<https://id.parliament.uk/ClgVSCDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ClgVSCDP> <https://id.parliament.uk/schema/groupName> "Liaison Sub-committee" .
+<https://id.parliament.uk/O9DYygS3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/O9DYygS3> <https://id.parliament.uk/schema/groupName> "Political and Constitutional Reform Committee" .
+<https://id.parliament.uk/NTScA2qc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/NTScA2qc> <https://id.parliament.uk/schema/groupName> "Petitions Committee" .
+<https://id.parliament.uk/F2znLvxo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/F2znLvxo> <https://id.parliament.uk/schema/groupName> "Information Committee (Lords)" .
+<https://id.parliament.uk/9VxPCSem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/9VxPCSem> <https://id.parliament.uk/schema/groupName> "Sexual Violence in Conflict Committee" .
+<https://id.parliament.uk/7Uq2MmBH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7Uq2MmBH> <https://id.parliament.uk/schema/groupName> "Education, Skills and the Economy Sub-Committee" .
+<https://id.parliament.uk/xlEqw7ED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/xlEqw7ED> <https://id.parliament.uk/schema/groupName> "Communications Committee" .
+<https://id.parliament.uk/DMO4OHnD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DMO4OHnD> <https://id.parliament.uk/schema/groupName> "Parliamentary Privilege (Joint Committee)" .
+<https://id.parliament.uk/3KVfKVJt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/3KVfKVJt> <https://id.parliament.uk/schema/groupName> "Communities and Local Government Committee" .
+<https://id.parliament.uk/2iZ2XkUc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2iZ2XkUc> <https://id.parliament.uk/schema/groupName> "Expenditure: Trade & Industry Sub-Committee" .
+<https://id.parliament.uk/MJFUUHPU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MJFUUHPU> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee D - Agriculture, Fisheries and Environment" .
+<https://id.parliament.uk/d3Fo5Lhb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/d3Fo5Lhb> <https://id.parliament.uk/schema/groupName> "Science and Technology: Sub-Committee I " .
+<https://id.parliament.uk/ds4wUjOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ds4wUjOS> <https://id.parliament.uk/schema/groupName> "Nationalised Industries: Sub-Committee C" .
+<https://id.parliament.uk/FgqBLTpL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FgqBLTpL> <https://id.parliament.uk/schema/groupName> "Transport Committee" .
+<https://id.parliament.uk/11vioqum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/11vioqum> <https://id.parliament.uk/schema/groupName> "Business and Enterprise Committee" .
+<https://id.parliament.uk/n8vY1zYc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/n8vY1zYc> <https://id.parliament.uk/schema/groupName> "Partnerships (Prosecution) (Scotland) Bill Special Public Bill Committee" .
+<https://id.parliament.uk/SFPzebqT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SFPzebqT> <https://id.parliament.uk/schema/groupName> "Foreign Affairs Sub-Committee" .
+<https://id.parliament.uk/LVnb4CQh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/LVnb4CQh> <https://id.parliament.uk/schema/groupName> "Merits of Statutory Instruments Committee" .
+<https://id.parliament.uk/ou53QYWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ou53QYWG> <https://id.parliament.uk/schema/groupName> "The Mid-Term Review of the CAP Sub-committee" .
+<https://id.parliament.uk/2rszevPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2rszevPF> <https://id.parliament.uk/schema/groupName> "EU Sub Committee A - Economic and Financial Affairs" .
+<https://id.parliament.uk/bW7T2hvg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bW7T2hvg> <https://id.parliament.uk/schema/groupName> "Draft House of Lords Reform Bill (Joint Committee)" .
+<https://id.parliament.uk/Z3Hv4BDn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Z3Hv4BDn> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee D - Environment and Agriculture  " .
+<https://id.parliament.uk/AFAxHo5O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/AFAxHo5O> <https://id.parliament.uk/schema/groupName> "Medical Ethics Select Committee" .
+<https://id.parliament.uk/gOA14XL1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/gOA14XL1> <https://id.parliament.uk/schema/groupName> "Secondary Legislation Scrutiny Committee" .
+<https://id.parliament.uk/SKcyZHEb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SKcyZHEb> <https://id.parliament.uk/schema/groupName> "Women and Equalities Committee" .
+<https://id.parliament.uk/jsXAOUDV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jsXAOUDV> <https://id.parliament.uk/schema/groupName> "Commons Reference Group on Representation and Inclusion" .
+<https://id.parliament.uk/KTALGXnk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KTALGXnk> <https://id.parliament.uk/schema/groupName> "Exiting the European Union Sub-Committee" .
+<https://id.parliament.uk/BYkf307m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BYkf307m> <https://id.parliament.uk/schema/groupName> "EU Sub Committee E - Justice, Institutions and Consumer Protection" .
+<https://id.parliament.uk/OM2vNKM7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/OM2vNKM7> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee C" .
+<https://id.parliament.uk/TPSIApNg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TPSIApNg> <https://id.parliament.uk/schema/groupName> "Employment Sub-committee" .
+<https://id.parliament.uk/kAdaMJdS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/kAdaMJdS> <https://id.parliament.uk/schema/groupName> "Committee on Chinook ZD 576" .
+<https://id.parliament.uk/Sk69fMow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Sk69fMow> <https://id.parliament.uk/schema/groupName> "European Legislation Sub-Committee on Roads Safety Competence" .
+<https://id.parliament.uk/4h1nLRUm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/4h1nLRUm> <https://id.parliament.uk/schema/groupName> "Draft Climate Change Bill (Joint Committee)" .
+<https://id.parliament.uk/DKKhsr37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DKKhsr37> <https://id.parliament.uk/schema/groupName> "Private Bill Procedure (Joint Committee)" .
+<https://id.parliament.uk/8oTf6hQP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/8oTf6hQP> <https://id.parliament.uk/schema/groupName> "Office of the Deputy Prime Minister: Housing, Planning, Local Government and the Regions Committee" .
+<https://id.parliament.uk/Wyn715u2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Wyn715u2> <https://id.parliament.uk/schema/groupName> "Scottish Affairs Committee" .
+<https://id.parliament.uk/OaeRr7PF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/OaeRr7PF> <https://id.parliament.uk/schema/groupName> "HIV and AIDS Committee in the United Kingdom" .
+<https://id.parliament.uk/WBmoMQ8S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/WBmoMQ8S> <https://id.parliament.uk/schema/groupName> "North East Regional Select Committee" .
+<https://id.parliament.uk/cxrBWmAE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/cxrBWmAE> <https://id.parliament.uk/schema/groupName> "Finance Bill Sub-Committee" .
+<https://id.parliament.uk/bzr17moa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bzr17moa> <https://id.parliament.uk/schema/groupName> "House of Commons: Catering Sub-Committee" .
+<https://id.parliament.uk/7bRntOg2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7bRntOg2> <https://id.parliament.uk/schema/groupName> "Personal Bills Committee" .
+<https://id.parliament.uk/I5f5XwHa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/I5f5XwHa> <https://id.parliament.uk/schema/groupName> "Parliamentary Commission on Banking Standards (Joint Committee)" .
+<https://id.parliament.uk/0XAGDhKm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/0XAGDhKm> <https://id.parliament.uk/schema/groupName> "Committee on Exiting the European Union" .
+<https://id.parliament.uk/BZnmO1nE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BZnmO1nE> <https://id.parliament.uk/schema/groupName> "Committee of Selection" .
+<https://id.parliament.uk/nmXXqVGz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/nmXXqVGz> <https://id.parliament.uk/schema/groupName> "EU Sub Committee F - Home Affairs, Health and Education" .
+<https://id.parliament.uk/hf1I0KSl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/hf1I0KSl> <https://id.parliament.uk/schema/groupName> "Joint Committee on Tax Law Rewrite Bills" .
+<https://id.parliament.uk/Rxjo8IH5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Rxjo8IH5> <https://id.parliament.uk/schema/groupName> "Perpetuities and Accumulations Bill Committee" .
+<https://id.parliament.uk/fqoMFbbF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/fqoMFbbF> <https://id.parliament.uk/schema/groupName> "Consolidation etc. Bills (Joint Committee)" .
+<https://id.parliament.uk/ueovlwdU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ueovlwdU> <https://id.parliament.uk/schema/groupName> "European Legislation Sifting Sub-Committee" .
+<https://id.parliament.uk/6PIUo3mZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/6PIUo3mZ> <https://id.parliament.uk/schema/groupName> "Draft Deregulation Bill (Joint Committee)" .
+<https://id.parliament.uk/lR8dhXfl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/lR8dhXfl> <https://id.parliament.uk/schema/groupName> "House of Commons (Services): Library Sub-Committee" .
+<https://id.parliament.uk/r1EoTPoD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/r1EoTPoD> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee B - Internal Market, Energy and Transport" .
+<https://id.parliament.uk/jGHZgrut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/jGHZgrut> <https://id.parliament.uk/schema/groupName> "EU Internal Market Sub-Committee" .
+<https://id.parliament.uk/imTgJHXx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/imTgJHXx> <https://id.parliament.uk/schema/groupName> "Nationalised Industries: Sub-Committee A" .
+<https://id.parliament.uk/na4dG73Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/na4dG73Z> <https://id.parliament.uk/schema/groupName> "West Northamptonshire Development Bill Committee" .
+<https://id.parliament.uk/ME3xWOBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ME3xWOBD> <https://id.parliament.uk/schema/groupName> "Foreign Affairs Overseas Development Sub-Committee" .
+<https://id.parliament.uk/PjvAC3mK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PjvAC3mK> <https://id.parliament.uk/schema/groupName> "High Speed Rail (London - West Midlands) Bill Select Committee (Lords)" .
+<https://id.parliament.uk/Wh1kIgqm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Wh1kIgqm> <https://id.parliament.uk/schema/groupName> "Mental Capacity Act 2005 Committee" .
+<https://id.parliament.uk/KeIrjh46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KeIrjh46> <https://id.parliament.uk/schema/groupName> "Standing Orders (Private Bills) Committee (Lords)" .
+<https://id.parliament.uk/2NC9jNeH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2NC9jNeH> <https://id.parliament.uk/schema/groupName> "National Policy Statements Sub-Committee" .
+<https://id.parliament.uk/EbwlhEhI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EbwlhEhI> <https://id.parliament.uk/schema/groupName> "Speaker's Committee on the Electoral Commission" .
+<https://id.parliament.uk/P7Ne09WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/groupName> "Human Rights (Joint Committee)" .
+<https://id.parliament.uk/1G2t5UVo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/1G2t5UVo> <https://id.parliament.uk/schema/groupName> "Draft Defamation Bill (Joint Committee)" .
+<https://id.parliament.uk/wJAObLgx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wJAObLgx> <https://id.parliament.uk/schema/groupName> "Speaker's Advisory Committee on Works of Art" .
+<https://id.parliament.uk/XFKQF9yF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XFKQF9yF> <https://id.parliament.uk/schema/groupName> "London Regional Select Committee" .
+<https://id.parliament.uk/fejdS5No> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/fejdS5No> <https://id.parliament.uk/schema/groupName> "Business, Innovation and Skills Committee" .
+<https://id.parliament.uk/2Tp8UwhK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2Tp8UwhK> <https://id.parliament.uk/schema/groupName> "Draft Legal Services Bill (Joint Committee)" .
+<https://id.parliament.uk/9n1vTHKU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/9n1vTHKU> <https://id.parliament.uk/schema/groupName> "Citizenship and Civic Engagement Committee" .
+<https://id.parliament.uk/vhqkpXZT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vhqkpXZT> <https://id.parliament.uk/schema/groupName> "Soft Power Committee" .
+<https://id.parliament.uk/p6v039GH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/p6v039GH> <https://id.parliament.uk/schema/groupName> "Education Sub-committee" .
+<https://id.parliament.uk/QMRPyNmE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/QMRPyNmE> <https://id.parliament.uk/schema/groupName> "Committee on Standards: Standards Review Sub-Committee" .
+<https://id.parliament.uk/L2bKZqah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/L2bKZqah> <https://id.parliament.uk/schema/groupName> "Yorkshire and the Humber Regional Select Committee" .
+<https://id.parliament.uk/Ik57ft6U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Ik57ft6U> <https://id.parliament.uk/schema/groupName> "Public Service, Committee on" .
+<https://id.parliament.uk/SprmnAlN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/SprmnAlN> <https://id.parliament.uk/schema/groupName> "Financial Exclusion Committee" .
+<https://id.parliament.uk/TkAveb0E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TkAveb0E> <https://id.parliament.uk/schema/groupName> "Draft Investigatory Powers Bill (Joint Committee)" .
+<https://id.parliament.uk/0auXSWan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/0auXSWan> <https://id.parliament.uk/schema/groupName> "Licensing Act 2003 Committee" .
+<https://id.parliament.uk/DyAhR3QU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DyAhR3QU> <https://id.parliament.uk/schema/groupName> "Committee on Regulators" .
+<https://id.parliament.uk/I7bRbGzj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/I7bRbGzj> <https://id.parliament.uk/schema/groupName> "National Policy Statements Sub-Committee" .
+<https://id.parliament.uk/vmkgB57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/vmkgB57b> <https://id.parliament.uk/schema/groupName> "Draft Communications Data Bill (Joint Committee)" .
+<https://id.parliament.uk/MobTNKF1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MobTNKF1> <https://id.parliament.uk/schema/groupName> "Transport Sub-committee" .
+<https://id.parliament.uk/PiDwZgkz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PiDwZgkz> <https://id.parliament.uk/schema/groupName> "House of Lords Offices Committee" .
+<https://id.parliament.uk/2aP5lDF0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2aP5lDF0> <https://id.parliament.uk/schema/groupName> "Work and Pensions Committee" .
+<https://id.parliament.uk/sWVTowyI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/sWVTowyI> <https://id.parliament.uk/schema/groupName> "Sub-Committee on Lords' Conduct" .
+<https://id.parliament.uk/eo4FcJFK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/eo4FcJFK> <https://id.parliament.uk/schema/groupName> "Draft Communications Bill (Joint Committee)" .
+<https://id.parliament.uk/TA6I1Fin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TA6I1Fin> <https://id.parliament.uk/schema/groupName> "Finance Bill 2006-07 Committee" .
+<https://id.parliament.uk/EwCqzQA5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EwCqzQA5> <https://id.parliament.uk/schema/groupName> "Draft Enhanced Terrorism Prevention and Investigation Measures Bill (Joint Committee)" .
+<https://id.parliament.uk/QbVZ6ENL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/QbVZ6ENL> <https://id.parliament.uk/schema/groupName> "Statutory Instruments (Joint Committee)" .
+<https://id.parliament.uk/CX8KSUcr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/CX8KSUcr> <https://id.parliament.uk/schema/groupName> "Privacy and Injunctions (Joint Committee)" .
+<https://id.parliament.uk/j6J63Yqu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/j6J63Yqu> <https://id.parliament.uk/schema/groupName> "Conventions (Joint Committee)" .
+<https://id.parliament.uk/M7PtFcC6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/M7PtFcC6> <https://id.parliament.uk/schema/groupName> "Ecclesiastical Committee" .
+<https://id.parliament.uk/EenKDvT1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EenKDvT1> <https://id.parliament.uk/schema/groupName> "Parliamentary Commissioner for Administration" .
+<https://id.parliament.uk/tWzrJATE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/tWzrJATE> <https://id.parliament.uk/schema/groupName> "Environmental Audit Committee" .
+<https://id.parliament.uk/do0qI5Wq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/do0qI5Wq> <https://id.parliament.uk/schema/groupName> "Science & Technology: General Purposes Sub-Committee" .
+<https://id.parliament.uk/T0woVauG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/T0woVauG> <https://id.parliament.uk/schema/groupName> "Home Affairs Sub-Committee" .
+<https://id.parliament.uk/oaWaMRnb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/oaWaMRnb> <https://id.parliament.uk/schema/groupName> "Defence Committee" .
+<https://id.parliament.uk/JROSBTul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/JROSBTul> <https://id.parliament.uk/schema/groupName> "Commons Science and Technology" .
+<https://id.parliament.uk/br8kSotn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/br8kSotn> <https://id.parliament.uk/schema/groupName> "Library and Computers Sub-Committee" .
+<https://id.parliament.uk/qXbyJ0ER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/qXbyJ0ER> <https://id.parliament.uk/schema/groupName> "Refreshment Committee (Lords)" .
+<https://id.parliament.uk/dSZupNQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/dSZupNQR> <https://id.parliament.uk/schema/groupName> "Health Committee" .
+<https://id.parliament.uk/ml5W3Beh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ml5W3Beh> <https://id.parliament.uk/schema/groupName> "House of Commons Commission" .
+<https://id.parliament.uk/6Lxi3bNK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/6Lxi3bNK> <https://id.parliament.uk/schema/groupName> "Nationalised Industries: Sub-Committee B" .
+<https://id.parliament.uk/HksJaO3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HksJaO3e> <https://id.parliament.uk/schema/groupName> "Welsh Affairs Committee" .
+<https://id.parliament.uk/FkVzBipk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/FkVzBipk> <https://id.parliament.uk/schema/groupName> "Public Accounts Committee" .
+<https://id.parliament.uk/DBFruMTZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/DBFruMTZ> <https://id.parliament.uk/schema/groupName> "Artificial Intelligence Committee" .
+<https://id.parliament.uk/l4IH0z90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/l4IH0z90> <https://id.parliament.uk/schema/groupName> "Armed Forces Bill Committee" .
+<https://id.parliament.uk/gD4IWBPA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/gD4IWBPA> <https://id.parliament.uk/schema/groupName> "Third Parties (Rights Against Insurers) Committee" .
+<https://id.parliament.uk/WoW7Wecz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/WoW7Wecz> <https://id.parliament.uk/schema/groupName> "Committee on the City of Westminster" .
+<https://id.parliament.uk/64upzhTs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/64upzhTs> <https://id.parliament.uk/schema/groupName> "Business, Energy and Industrial Strategy Committee" .
+<https://id.parliament.uk/o0fEWkQv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/o0fEWkQv> <https://id.parliament.uk/schema/groupName> "Draft Disability Discrimination Bill (Joint Committee)" .
+<https://id.parliament.uk/7hDrupxV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7hDrupxV> <https://id.parliament.uk/schema/groupName> "House Committee (Lords)" .
+<https://id.parliament.uk/2BKklwo9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/2BKklwo9> <https://id.parliament.uk/schema/groupName> "National Policy for the Built Environment Committee" .
+<https://id.parliament.uk/16hw4ssW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/16hw4ssW> <https://id.parliament.uk/schema/groupName> "House of Commons (Services): New Building Sub-Committee" .
+<https://id.parliament.uk/XTC5vyzw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XTC5vyzw> <https://id.parliament.uk/schema/groupName> "Consolidation Bills (Joint Committee)" .
+<https://id.parliament.uk/TnpbWYqi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/TnpbWYqi> <https://id.parliament.uk/schema/groupName> "Audit Committee (Lords)" .
+<https://id.parliament.uk/bCrUcWKW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/bCrUcWKW> <https://id.parliament.uk/schema/groupName> "European Communities Committee on Passports" .
+<https://id.parliament.uk/ptCjbFaW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ptCjbFaW> <https://id.parliament.uk/schema/groupName> "North West Regional Select Committee" .
+<https://id.parliament.uk/Rpq8ggjS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Rpq8ggjS> <https://id.parliament.uk/schema/groupName> "Monetary Policy Committee of the Bank of England" .
+<https://id.parliament.uk/e99xeytH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/e99xeytH> <https://id.parliament.uk/schema/groupName> "Expenditure: Environment Sub-Committee" .
+<https://id.parliament.uk/O6xB1OD5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/O6xB1OD5> <https://id.parliament.uk/schema/groupName> "Science & Technology: Genetic Engineering Sub-Committee" .
+<https://id.parliament.uk/yhYNknik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/yhYNknik> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee G" .
+<https://id.parliament.uk/MCZjo5RL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/MCZjo5RL> <https://id.parliament.uk/schema/groupName> "Draft Gambling Bill (Joint Committee)" .
+<https://id.parliament.uk/IG4vCE3t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/IG4vCE3t> <https://id.parliament.uk/schema/groupName> "South West Regional Select Committee" .
+<https://id.parliament.uk/D4ldIHfK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/D4ldIHfK> <https://id.parliament.uk/schema/groupName> "Long-Term Sustainability of the NHS Committee" .
+<https://id.parliament.uk/BbofGqwF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BbofGqwF> <https://id.parliament.uk/schema/groupName> "Committee on Reform of the House of Commons" .
+<https://id.parliament.uk/u1WDOF9U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/u1WDOF9U> <https://id.parliament.uk/schema/groupName> "Political Polling and Digital Media Committee" .
+<https://id.parliament.uk/HrO1jVgi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/HrO1jVgi> <https://id.parliament.uk/schema/groupName> "Speaker's Advisory Committee on Works of Art" .
+<https://id.parliament.uk/WcsA4age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/WcsA4age> <https://id.parliament.uk/schema/groupName> "Northern By-Pass (Stoke on Trent) (Joint Committee)" .
+<https://id.parliament.uk/o5apPSOq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/o5apPSOq> <https://id.parliament.uk/schema/groupName> "EU Financial Affairs Sub-Committee" .
+<https://id.parliament.uk/QDk0c1dB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/QDk0c1dB> <https://id.parliament.uk/schema/groupName> "Refreshment Sub Committee" .
+<https://id.parliament.uk/gM9pyaUg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/gM9pyaUg> <https://id.parliament.uk/schema/groupName> "Select Committee on Charities" .
+<https://id.parliament.uk/KOpngjmu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/KOpngjmu> <https://id.parliament.uk/schema/groupName> "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)" .
+<https://id.parliament.uk/Dmv0pcUG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Dmv0pcUG> <https://id.parliament.uk/schema/groupName> "Science and Technology: Sub-Committee I (Higher education in STEM subjects)" .
+<https://id.parliament.uk/r48rrQUG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/r48rrQUG> <https://id.parliament.uk/schema/groupName> "Insurance Bill [HL] Special Public Bill Committee" .
+<https://id.parliament.uk/IsCRoCUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/IsCRoCUL> <https://id.parliament.uk/schema/groupName> "EU External Affairs Sub-Committee" .
+<https://id.parliament.uk/ShdLf35P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/ShdLf35P> <https://id.parliament.uk/schema/groupName> "International Development Committee" .
+<https://id.parliament.uk/zvWQiiwv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zvWQiiwv> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee G - Social Policies and Consumer Protection" .
+<https://id.parliament.uk/zFjnysSR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/zFjnysSR> <https://id.parliament.uk/schema/groupName> "Expenditure: General Sub-Committee" .
+<https://id.parliament.uk/BqSGVphA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/BqSGVphA> <https://id.parliament.uk/schema/groupName> "EU Sub Committee B - Internal Market, Infrastructure and Employment" .
+<https://id.parliament.uk/Uq5DbjFp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/Uq5DbjFp> <https://id.parliament.uk/schema/groupName> "Committee on Privileges" .
+<https://id.parliament.uk/CsiyiB2G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/CsiyiB2G> <https://id.parliament.uk/schema/groupName> "EU Sub-Committee A" .
+<https://id.parliament.uk/xyyhlXD1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/xyyhlXD1> <https://id.parliament.uk/schema/groupName> "Urban Affairs Sub-Committee" .
+<https://id.parliament.uk/d0FIXkxG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/d0FIXkxG> <https://id.parliament.uk/schema/groupName> "East of England Regional Select Committee" .
+<https://id.parliament.uk/I5UJogDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/I5UJogDR> <https://id.parliament.uk/schema/groupName> "Treasury Sub-committee" .
+<https://id.parliament.uk/qzUd5fvd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/qzUd5fvd> <https://id.parliament.uk/schema/groupName> "Joint Committee on Security" .
+<https://id.parliament.uk/7D3ynJt9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7D3ynJt9> <https://id.parliament.uk/schema/groupName> "National Security Strategy (Joint Committee)" .
+<https://id.parliament.uk/sxEHSxng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/sxEHSxng> <https://id.parliament.uk/schema/groupName> "Expenditure: Arts & Home Office Sub-Committee" .
+<https://id.parliament.uk/PXrtNMoE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/PXrtNMoE> <https://id.parliament.uk/schema/groupName> "The Reform of the Common Fisheries Policy Sub-committee" .
+<https://id.parliament.uk/T9zOBPqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/T9zOBPqn> <https://id.parliament.uk/schema/groupName> "Finance Committee (Lords)" .
+<https://id.parliament.uk/62zm4Q6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/62zm4Q6d> <https://id.parliament.uk/schema/groupName> "Selection Committee" .
+<https://id.parliament.uk/A5J2HJme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/A5J2HJme> <https://id.parliament.uk/schema/groupName> "Treasury Sub-Committee" .
+<https://id.parliament.uk/8cJTWqHw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/8cJTWqHw> <https://id.parliament.uk/schema/groupName> "High Speed Rail (West Midlands - Crewe) Bill Select Committee (Commons) " .
+<https://id.parliament.uk/yoPyDWdW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/yoPyDWdW> <https://id.parliament.uk/schema/groupName> "National Policy Statements Sub-Committee 2017-19" .
+<https://id.parliament.uk/urAEwA74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/urAEwA74> <https://id.parliament.uk/schema/groupName> "Department for Communities and Local Government" .
+<https://id.parliament.uk/aaRSbHzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/aaRSbHzi> <https://id.parliament.uk/schema/groupName> "Ministry of Posts and Telecommunications" .
+<https://id.parliament.uk/S5XaJLUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/S5XaJLUK> <https://id.parliament.uk/schema/groupName> "Office of the Leader of the House of Commons" .
+<https://id.parliament.uk/f00i3QLW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/f00i3QLW> <https://id.parliament.uk/schema/groupName> "Commonwealth Office" .
+<https://id.parliament.uk/nguR4XJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/nguR4XJ4> <https://id.parliament.uk/schema/groupName> "Ministry of Housing, Communities and Local Government" .
+<https://id.parliament.uk/5Bui1F67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/5Bui1F67> <https://id.parliament.uk/schema/groupName> "Foreign and Commonwealth Office" .
+<https://id.parliament.uk/r0GMEo2i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/r0GMEo2i> <https://id.parliament.uk/schema/groupName> "Commonwealth Relations Office" .
+<https://id.parliament.uk/30KF7Qjp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/30KF7Qjp> <https://id.parliament.uk/schema/groupName> "Whips Office (Commons)" .
+<https://id.parliament.uk/EkH67fuK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/EkH67fuK> <https://id.parliament.uk/schema/groupName> "The Lord Chairman of Committees" .

@@ -1,0 +1,3 @@
+<https://id.parliament.uk/5Bui1F67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/5Bui1F67> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5Bui1F67> <https://id.parliament.uk/schema/groupName> "Foreign and Commonwealth Office" .

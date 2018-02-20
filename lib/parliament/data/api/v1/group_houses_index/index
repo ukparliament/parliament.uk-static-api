@@ -1,0 +1,6 @@
+<https://id.parliament.uk/wZVxomZk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/wZVxomZk> <https://id.parliament.uk/schema/groupName> "Procedure Committee (Lords)" .
+<https://id.parliament.uk/wZVxomZk> <https://id.parliament.uk/schema/formalBodyHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
+_:node18129568 <https://id.parliament.uk/schema/value> "H" .

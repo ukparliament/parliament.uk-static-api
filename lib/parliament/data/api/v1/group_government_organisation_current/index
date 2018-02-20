@@ -1,0 +1,88 @@
+<https://id.parliament.uk/EWN9q2Q9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/EWN9q2Q9> <https://id.parliament.uk/schema/groupStartDate> "2012-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/EWN9q2Q9> <https://id.parliament.uk/schema/groupName> "Health and Safety Executive" .
+<https://id.parliament.uk/kOZSMfdB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/kOZSMfdB> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/kOZSMfdB> <https://id.parliament.uk/schema/groupName> "Scotland Office" .
+<https://id.parliament.uk/liFsCGtF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/liFsCGtF> <https://id.parliament.uk/schema/groupStartDate> "2016-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/liFsCGtF> <https://id.parliament.uk/schema/groupName> "Department for Exiting the European Union " .
+<https://id.parliament.uk/h0nsmlvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/h0nsmlvo> <https://id.parliament.uk/schema/groupStartDate> "2016-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/h0nsmlvo> <https://id.parliament.uk/schema/groupName> "Department for International Trade" .
+<https://id.parliament.uk/S5XaJLUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/S5XaJLUK> <https://id.parliament.uk/schema/groupStartDate> "2008-01-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/S5XaJLUK> <https://id.parliament.uk/schema/groupName> "Office of the Leader of the House of Commons" .
+<https://id.parliament.uk/nguR4XJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/nguR4XJ4> <https://id.parliament.uk/schema/groupStartDate> "2018-01-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nguR4XJ4> <https://id.parliament.uk/schema/groupName> "Ministry of Housing, Communities and Local Government" .
+<https://id.parliament.uk/uvXHydCu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/uvXHydCu> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/uvXHydCu> <https://id.parliament.uk/schema/groupName> "Privy Council Office" .
+<https://id.parliament.uk/pjGLPer1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/pjGLPer1> <https://id.parliament.uk/schema/groupStartDate> "2016-07-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pjGLPer1> <https://id.parliament.uk/schema/groupName> "Department for Business, Energy and Industrial Strategy" .
+<https://id.parliament.uk/PSi9vpNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/PSi9vpNY> <https://id.parliament.uk/schema/groupStartDate> "2010-05-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PSi9vpNY> <https://id.parliament.uk/schema/groupName> "Department for Education" .
+<https://id.parliament.uk/OvL49J2K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/OvL49J2K> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/OvL49J2K> <https://id.parliament.uk/schema/groupName> "Home Office" .
+<https://id.parliament.uk/M4WzN7NF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/M4WzN7NF> <https://id.parliament.uk/schema/groupStartDate> "2007-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/M4WzN7NF> <https://id.parliament.uk/schema/groupName> "Ministry of Justice" .
+<https://id.parliament.uk/ziLwaBLc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/ziLwaBLc> <https://id.parliament.uk/schema/groupStartDate> "1916-12-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ziLwaBLc> <https://id.parliament.uk/schema/groupName> "Cabinet Office" .
+<https://id.parliament.uk/vPh13IuX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/vPh13IuX> <https://id.parliament.uk/schema/groupStartDate> "2009-06-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vPh13IuX> <https://id.parliament.uk/schema/groupName> "Department for Business, Innovation and Skills" .
+<https://id.parliament.uk/Qog6f4SK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/Qog6f4SK> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Qog6f4SK> <https://id.parliament.uk/schema/groupName> "Northern Ireland Office" .
+<https://id.parliament.uk/8wr79wHQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/8wr79wHQ> <https://id.parliament.uk/schema/groupStartDate> "1946-12-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8wr79wHQ> <https://id.parliament.uk/schema/groupName> "Ministry of Defence" .
+<https://id.parliament.uk/AQmwdjuB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/AQmwdjuB> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AQmwdjuB> <https://id.parliament.uk/schema/groupName> "HM Treasury" .
+<https://id.parliament.uk/clIXI8Nd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/clIXI8Nd> <https://id.parliament.uk/schema/groupStartDate> "2008-12-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/clIXI8Nd> <https://id.parliament.uk/schema/groupName> "Attorney General's Office" .
+<https://id.parliament.uk/8tDVhMzy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/8tDVhMzy> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8tDVhMzy> <https://id.parliament.uk/schema/groupName> "Office of the Leader of the House of Lords" .
+<https://id.parliament.uk/IHvlBTRf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/IHvlBTRf> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IHvlBTRf> <https://id.parliament.uk/schema/groupName> "Department for Environment, Food and Rural Affairs" .
+<https://id.parliament.uk/5Bui1F67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/5Bui1F67> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5Bui1F67> <https://id.parliament.uk/schema/groupName> "Foreign and Commonwealth Office" .
+<https://id.parliament.uk/wRe2Mmo9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/wRe2Mmo9> <https://id.parliament.uk/schema/groupStartDate> "2017-07-03+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wRe2Mmo9> <https://id.parliament.uk/schema/groupName> "Department for Digital, Culture, Media and Sport" .
+<https://id.parliament.uk/FPvIVqtX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/FPvIVqtX> <https://id.parliament.uk/schema/groupStartDate> "2001-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/FPvIVqtX> <https://id.parliament.uk/schema/groupName> "Department for Work and Pensions" .
+<https://id.parliament.uk/SCu9ePpT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/SCu9ePpT> <https://id.parliament.uk/schema/groupStartDate> "2002-05-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SCu9ePpT> <https://id.parliament.uk/schema/groupName> "Department for Transport" .
+<https://id.parliament.uk/LbObLtti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/groupStartDate> "2018-01-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/groupName> "Department of Health and Social Care" .
+<https://id.parliament.uk/x0LxIBS7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/x0LxIBS7> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/x0LxIBS7> <https://id.parliament.uk/schema/groupName> "Department for International Development" .
+<https://id.parliament.uk/KDOU0hV3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/KDOU0hV3> <https://id.parliament.uk/schema/groupStartDate> "2008-11-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KDOU0hV3> <https://id.parliament.uk/schema/groupName> "Office of the Advocate General for Scotland" .
+_:node19537095 <https://id.parliament.uk/schema/value> "H" .
+_:node19537096 <https://id.parliament.uk/schema/value> "S" .
+_:node19537097 <https://id.parliament.uk/schema/value> "D" .
+_:node19537098 <https://id.parliament.uk/schema/value> "O" .
+_:node19537099 <https://id.parliament.uk/schema/value> "M" .
+_:node19537100 <https://id.parliament.uk/schema/value> "P" .
+_:node19537101 <https://id.parliament.uk/schema/value> "C" .
+_:node19537102 <https://id.parliament.uk/schema/value> "N" .
+_:node19537103 <https://id.parliament.uk/schema/value> "A" .
+_:node19537104 <https://id.parliament.uk/schema/value> "F" .
