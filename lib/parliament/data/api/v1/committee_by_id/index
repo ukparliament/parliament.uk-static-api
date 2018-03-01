@@ -1,2 +1,34 @@
-<https://id.parliament.uk/0auXSWan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
-<https://id.parliament.uk/0auXSWan> <https://id.parliament.uk/schema/formalBodyName> "Licensing Act 2003 Committee" .
+<https://id.parliament.uk/P7Ne09WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/groupName> "Human Rights (Joint Committee)" .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyRemit> "We examine human rights issues in the UK and check government bills are compatible with human rights." .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyName> "Human Rights (Joint Committee)" .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyHasFormalBodyType> <https://id.parliament.uk/McZ1Sjuj> .
+<https://id.parliament.uk/McZ1Sjuj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyType> .
+<https://id.parliament.uk/McZ1Sjuj> <https://id.parliament.uk/schema/formalbodyTypeName> "Parliamentary - Select" .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseHasContactPoint> <https://id.parliament.uk/168eTafq> .
+<https://id.parliament.uk/Jhxlo2zC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/Jhxlo2zC> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/IPCnKfRA> .
+<https://id.parliament.uk/Jhxlo2zC> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/QdTSVPgu> .
+<https://id.parliament.uk/Jhxlo2zC> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/ZY0Mx1bp> .
+<https://id.parliament.uk/Jhxlo2zC> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ms Harriet Harman" .
+<https://id.parliament.uk/QdTSVPgu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/QdTSVPgu> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/nOf8e3OT> .
+<https://id.parliament.uk/nOf8e3OT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/nOf8e3OT> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/ktX94Yrb> .
+<https://id.parliament.uk/ktX94Yrb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/ktX94Yrb> <https://id.parliament.uk/schema/constituencyGroupName> "Camberwell and Peckham" .
+<https://id.parliament.uk/IPCnKfRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/IPCnKfRA> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/LEYIBvV9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/partyName> "Labour" .
+<https://id.parliament.uk/ZY0Mx1bp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/168eTafq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactPoint> .
+<https://id.parliament.uk/168eTafq> <https://id.parliament.uk/schema/contactPointHasPostalAddress> <https://id.parliament.uk/nDs0SLUm> .
+<https://id.parliament.uk/nDs0SLUm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PostalAddress> .
+<https://id.parliament.uk/nDs0SLUm> <https://id.parliament.uk/schema/addressLine1> "House of Commons" .
+<https://id.parliament.uk/nDs0SLUm> <https://id.parliament.uk/schema/addressLine2> "London" .
+<https://id.parliament.uk/nDs0SLUm> <https://id.parliament.uk/schema/postCode> "SW1A 0AA" .
+<https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/count> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
