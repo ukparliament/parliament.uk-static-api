@@ -1,4 +1,4 @@
-<https://id.parliament.uk/P7Ne09WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/P7Ne09WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
 <https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/groupName> "Human Rights (Joint Committee)" .
 <https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyRemit> "We examine human rights issues in the UK and check government bills are compatible with human rights." .
 <https://id.parliament.uk/P7Ne09WK> <https://id.parliament.uk/schema/formalBodyHasLeadHouse> <https://id.parliament.uk/1AFu55Hs> .
