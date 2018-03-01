@@ -1,2 +1,31 @@
-<https://id.parliament.uk/autos10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/content/Collection> .
-<https://id.parliament.uk/autos10> <http://example.com/content/name> "collection1" .
+<https://id.parliament.uk/collec11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionName> "Questions" .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionDescription> "You can ask a Minister an oral question in person or a written question. Questions are submitted via the Table Office." .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasArticle> <https://id.parliament.uk/article1> .
+<https://id.parliament.uk/article1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/article1> <http://example.com/content/schema/title> "Deadlines for questions" .
+<https://id.parliament.uk/article1> <http://example.com/content/schema/summary> "Find out when you an submit a question  " .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasSubcollection> <https://id.parliament.uk/collec22> .
+<https://id.parliament.uk/collec22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec22> <http://example.com/content/schema/collectionName>  "Oral questions" .
+<https://id.parliament.uk/collec22> <http://example.com/content/schema/collectionDescription> "You can ask a Minister a question in person in the Chamber" .
+<https://id.parliament.uk/collec11> <https://id.parliament.uk/schema/collectionHasArticle> <https://id.parliament.uk/article2> .
+<https://id.parliament.uk/article2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
+<https://id.parliament.uk/article2> <http://example.com/content/schema/title> "Rules for questions" .
+<https://id.parliament.uk/article2> <http://example.com/content/schema/summary> "Things to remember when submitting questions. " .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasSubcollection> <https://id.parliament.uk/collec33> .
+<https://id.parliament.uk/collec33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec33> <http://example.com/content/schema/collectionName> "Written questions" .
+<https://id.parliament.uk/collec33> <http://example.com/content/schema/collectionDescription> "You can ask a Department a question in writing and will receive an answer by email" .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasSubcollection> <https://id.parliament.uk/collec66> .
+<https://id.parliament.uk/collec66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec66> <http://example.com/content/schema/collectionName> "PMQs" .
+<https://id.parliament.uk/collec66> <http://example.com/content/schema/collectionDescription> "You can ask the Prime Minister a question in person in the Chamber" .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasParent> <https://id.parliament.uk/collec44> .
+<https://id.parliament.uk/collec44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec44> <http://example.com/content/schema/collectionName> "Guide to Procedure" .
+<https://id.parliament.uk/collec44> <http://example.com/content/schema/collectionDescription> "The mother of all Collections" .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasParent> <https://id.parliament.uk/collec55> .
+<https://id.parliament.uk/collec55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec55> <http://example.com/content/schema/collectionName> "Dummy Parent Collection" .
+<https://id.parliament.uk/collec55> <http://example.com/content/schema/collectionDescription> "The father of all Collections?" .
