@@ -38,6 +38,12 @@
 <https://id.parliament.uk/VHM0rBq1> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/cLjFRjRt> .
 <https://id.parliament.uk/cLjFRjRt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
 <https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyName> "Treasury Committee" .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyHasFormalBodyChair> <https://id.parliament.uk/L2BEe0rR> .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyHasFormalBodyType> <https://id.parliament.uk/McZ1Sjuj> .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyHasLeadHouse> <https://id.parliament.uk/1AFu55Hs> . 
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyRemit> "We examine the administration, expenditure and policy of HM Treasury, HM Revenue & Customs and their associated bodies" .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyStartDate> "1995-11-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyEndDate> "2018-03-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/CsQVi7Hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
 <https://id.parliament.uk/CsQVi7Hx> <https://id.parliament.uk/schema/incumbencyStartDate> "2015-09-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/CsQVi7Hx> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -91,6 +97,7 @@
 <https://id.parliament.uk/UXpLpmfS> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2001-05-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/UXpLpmfS> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/fYbWHWhk> .
 <https://id.parliament.uk/fYbWHWhk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/fYbWHWhk> <https://id.parliament.uk/schema/formalBodyRemit> "We examine the administration, expenditure and policy of HM Treasury, HM Revenue & Customs and their associated bodies" .
 <https://id.parliament.uk/fYbWHWhk> <https://id.parliament.uk/schema/formalBodyName> "Foreign Affairs Committee" .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/GmWQzr0b> .
 <https://id.parliament.uk/GmWQzr0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
