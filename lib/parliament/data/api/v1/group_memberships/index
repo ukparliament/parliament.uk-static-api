@@ -1,0 +1,320 @@
+<https://id.parliament.uk/GZwoZ6sm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/GZwoZ6sm> <https://id.parliament.uk/schema/formalBodyRemit> "We examine the Independent Commission for Aid Impact\u2019s work." .
+<https://id.parliament.uk/GZwoZ6sm> <https://id.parliament.uk/schema/formalBodyHasFormalBodyChair> <https://id.parliament.uk/uPCJ0cyC> .
+<https://id.parliament.uk/GZwoZ6sm> <https://id.parliament.uk/schema/formalBodyName> "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact" .
+<https://id.parliament.uk/GZwoZ6sm> <https://id.parliament.uk/schema/formalBodyHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/uPCJ0cyC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Position> .
+<https://id.parliament.uk/uPCJ0cyC> <https://id.parliament.uk/schema/positionHasIncumbency> <https://id.parliament.uk/30k102r0> .
+<https://id.parliament.uk/30k102r0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Incumbency> .
+<https://id.parliament.uk/30k102r0> <https://id.parliament.uk/schema/incumbencyHasPerson> <https://id.parliament.uk/AO4stLMk> .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
+<https://id.parliament.uk/AO4stLMk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/AO4stLMk> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/czl6phVq> .
+<https://id.parliament.uk/AO4stLMk> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/gp1lUF4q> .
+<https://id.parliament.uk/AO4stLMk> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/rOFP6feZ> .
+<https://id.parliament.uk/AO4stLMk> <https://id.parliament.uk/schema/personGivenName> "Fiona" .
+<https://id.parliament.uk/AO4stLMk> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Bruce, Fiona" .
+<https://id.parliament.uk/AO4stLMk> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Fiona Bruce" .
+<https://id.parliament.uk/gp1lUF4q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/gp1lUF4q> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/4TT5iemL> .
+<https://id.parliament.uk/4TT5iemL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/4TT5iemL> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/N0aQQKlC> .
+<https://id.parliament.uk/N0aQQKlC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/N0aQQKlC> <https://id.parliament.uk/schema/constituencyGroupName> "Congleton" .
+<https://id.parliament.uk/czl6phVq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/czl6phVq> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/DIifZMjq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/DIifZMjq> <https://id.parliament.uk/schema/partyName> "Conservative" .
+<https://id.parliament.uk/rOFP6feZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/uPCJ0cyC> <https://id.parliament.uk/schema/positionHasIncumbency> <https://id.parliament.uk/fZhM7yxz> .
+<https://id.parliament.uk/fZhM7yxz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Incumbency> .
+<https://id.parliament.uk/fZhM7yxz> <https://id.parliament.uk/schema/incumbencyHasPerson> <https://id.parliament.uk/92ztuPKz> .
+<https://id.parliament.uk/92ztuPKz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/92ztuPKz> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/bASaqhyG> .
+<https://id.parliament.uk/92ztuPKz> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/Hlf141BI> .
+<https://id.parliament.uk/92ztuPKz> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/mVbSHqTD> .
+<https://id.parliament.uk/92ztuPKz> <https://id.parliament.uk/schema/personGivenName> "Richard" .
+<https://id.parliament.uk/92ztuPKz> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Burden, Richard" .
+<https://id.parliament.uk/92ztuPKz> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Richard Burden" .
+<https://id.parliament.uk/Hlf141BI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/Hlf141BI> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/8pOWLkDD> .
+<https://id.parliament.uk/8pOWLkDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/8pOWLkDD> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/FAiZPSYn> .
+<https://id.parliament.uk/FAiZPSYn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/FAiZPSYn> <https://id.parliament.uk/schema/constituencyGroupName> "Birmingham, Northfield" .
+<https://id.parliament.uk/bASaqhyG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/bASaqhyG> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/LEYIBvV9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/LEYIBvV9> <https://id.parliament.uk/schema/partyName> "Labour" .
+<https://id.parliament.uk/mVbSHqTD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/uPCJ0cyC> <https://id.parliament.uk/schema/positionHasIncumbency> <https://id.parliament.uk/2sOvJ3GW> .
+<https://id.parliament.uk/2sOvJ3GW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Incumbency> .
+<https://id.parliament.uk/2sOvJ3GW> <https://id.parliament.uk/schema/incumbencyHasPerson> <https://id.parliament.uk/1DzMUkBy> .
+<https://id.parliament.uk/1DzMUkBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/1DzMUkBy> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/Ya7SnFjo> .
+<https://id.parliament.uk/1DzMUkBy> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/MNhAljKO> .
+<https://id.parliament.uk/1DzMUkBy> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/2b5lvzmv> .
+<https://id.parliament.uk/1DzMUkBy> <https://id.parliament.uk/schema/personGivenName> "Fabian" .
+<https://id.parliament.uk/1DzMUkBy> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Hamilton, Fabian" .
+<https://id.parliament.uk/1DzMUkBy> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Fabian Hamilton" .
+<https://id.parliament.uk/MNhAljKO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/MNhAljKO> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/8dnnjjvi> .
+<https://id.parliament.uk/8dnnjjvi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/8dnnjjvi> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/EH8hmrNu> .
+<https://id.parliament.uk/EH8hmrNu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/EH8hmrNu> <https://id.parliament.uk/schema/constituencyGroupName> "Leeds North East" .
+<https://id.parliament.uk/Ya7SnFjo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/Ya7SnFjo> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/2b5lvzmv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/uPCJ0cyC> <https://id.parliament.uk/schema/positionHasIncumbency> <https://id.parliament.uk/3Ak0cDRm> .
+<https://id.parliament.uk/3Ak0cDRm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Incumbency> .
+<https://id.parliament.uk/3Ak0cDRm> <https://id.parliament.uk/schema/incumbencyHasPerson> <https://id.parliament.uk/rBcPDbnY> .
+<https://id.parliament.uk/rBcPDbnY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/rBcPDbnY> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/FB5ExiCa> .
+<https://id.parliament.uk/rBcPDbnY> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/9PYc5Sny> .
+<https://id.parliament.uk/rBcPDbnY> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/GJnMmOyf> .
+<https://id.parliament.uk/rBcPDbnY> <https://id.parliament.uk/schema/personGivenName> "Paul" .
+<https://id.parliament.uk/rBcPDbnY> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Scully, Paul" .
+<https://id.parliament.uk/rBcPDbnY> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Paul Scully" .
+<https://id.parliament.uk/9PYc5Sny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/9PYc5Sny> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/P5pbfb9o> .
+<https://id.parliament.uk/P5pbfb9o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/P5pbfb9o> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/PlEOt8ln> .
+<https://id.parliament.uk/PlEOt8ln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/PlEOt8ln> <https://id.parliament.uk/schema/constituencyGroupName> "Sutton and Cheam" .
+<https://id.parliament.uk/FB5ExiCa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/FB5ExiCa> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/GJnMmOyf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/uPCJ0cyC> <https://id.parliament.uk/schema/positionHasIncumbency> <https://id.parliament.uk/CMxF0BkV> .
+<https://id.parliament.uk/CMxF0BkV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Incumbency> .
+<https://id.parliament.uk/CMxF0BkV> <https://id.parliament.uk/schema/incumbencyHasPerson> <https://id.parliament.uk/rBcPDbnY> .
+<https://id.parliament.uk/mj0qJsAV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/mj0qJsAV> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/dny5UJtv> .
+<https://id.parliament.uk/mj0qJsAV> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/9ZRbLvdC> .
+<https://id.parliament.uk/mj0qJsAV> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/wMAjeoGM> .
+<https://id.parliament.uk/mj0qJsAV> <https://id.parliament.uk/schema/personGivenName> "Lisa" .
+<https://id.parliament.uk/mj0qJsAV> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Cameron, Dr Lisa" .
+<https://id.parliament.uk/mj0qJsAV> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Dr Lisa Cameron" .
+<https://id.parliament.uk/9ZRbLvdC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/9ZRbLvdC> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/MMVOHBtZ> .
+<https://id.parliament.uk/MMVOHBtZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/MMVOHBtZ> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/T4LxvFFv> .
+<https://id.parliament.uk/T4LxvFFv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/T4LxvFFv> <https://id.parliament.uk/schema/constituencyGroupName> "East Kilbride, Strathaven and Lesmahagow" .
+<https://id.parliament.uk/dny5UJtv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/dny5UJtv> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/wnvdA00Y> .
+<https://id.parliament.uk/wnvdA00Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wnvdA00Y> <https://id.parliament.uk/schema/partyName> "Scottish National Party" .
+<https://id.parliament.uk/wMAjeoGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/HqLJfw6S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/HqLJfw6S> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/NPeRJWQd> .
+<https://id.parliament.uk/HqLJfw6S> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/VEQgXbRI> .
+<https://id.parliament.uk/HqLJfw6S> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/1PWkdD3f> .
+<https://id.parliament.uk/HqLJfw6S> <https://id.parliament.uk/schema/personGivenName> "Stephen" .
+<https://id.parliament.uk/HqLJfw6S> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Doughty, Stephen" .
+<https://id.parliament.uk/HqLJfw6S> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Stephen Doughty" .
+<https://id.parliament.uk/VEQgXbRI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/VEQgXbRI> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/7JsfcOYg> .
+<https://id.parliament.uk/7JsfcOYg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/7JsfcOYg> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/nrptMXrZ> .
+<https://id.parliament.uk/nrptMXrZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/nrptMXrZ> <https://id.parliament.uk/schema/constituencyGroupName> "Cardiff South and Penarth" .
+<https://id.parliament.uk/NPeRJWQd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/NPeRJWQd> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/1PWkdD3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/uDZzgmxr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/uDZzgmxr> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/eqYnLof3> .
+<https://id.parliament.uk/uDZzgmxr> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/n5WVgddy> .
+<https://id.parliament.uk/uDZzgmxr> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/ln4S1h3j> .
+<https://id.parliament.uk/uDZzgmxr> <https://id.parliament.uk/schema/personGivenName> "James" .
+<https://id.parliament.uk/uDZzgmxr> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Duddridge, James" .
+<https://id.parliament.uk/uDZzgmxr> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "James Duddridge" .
+<https://id.parliament.uk/n5WVgddy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/n5WVgddy> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/NQ1AT0mB> .
+<https://id.parliament.uk/NQ1AT0mB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/NQ1AT0mB> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/8cJT1ABS> .
+<https://id.parliament.uk/8cJT1ABS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/8cJT1ABS> <https://id.parliament.uk/schema/constituencyGroupName> "Rochford and Southend East" .
+<https://id.parliament.uk/eqYnLof3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/eqYnLof3> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/ln4S1h3j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/kjLt9LSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/kjLt9LSI> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/OcSLXSLg> .
+<https://id.parliament.uk/kjLt9LSI> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/fZfAql2j> .
+<https://id.parliament.uk/kjLt9LSI> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/a6J7hadW> .
+<https://id.parliament.uk/kjLt9LSI> <https://id.parliament.uk/schema/personGivenName> "Nigel" .
+<https://id.parliament.uk/kjLt9LSI> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Evans, Mr Nigel" .
+<https://id.parliament.uk/kjLt9LSI> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Nigel Evans" .
+<https://id.parliament.uk/fZfAql2j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/fZfAql2j> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/6pEWARYz> .
+<https://id.parliament.uk/6pEWARYz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/6pEWARYz> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/iBdKYtA4> .
+<https://id.parliament.uk/iBdKYtA4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/iBdKYtA4> <https://id.parliament.uk/schema/constituencyGroupName> "Ribble Valley" .
+<https://id.parliament.uk/OcSLXSLg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/OcSLXSLg> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/a6J7hadW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/VEWeBMhO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/VEWeBMhO> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/TmXXwkyc> .
+<https://id.parliament.uk/VEWeBMhO> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/pNpJNKSj> .
+<https://id.parliament.uk/VEWeBMhO> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/qOb0SorR> .
+<https://id.parliament.uk/VEWeBMhO> <https://id.parliament.uk/schema/personGivenName> "Helen" .
+<https://id.parliament.uk/VEWeBMhO> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Grant, Mrs Helen" .
+<https://id.parliament.uk/VEWeBMhO> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Helen Grant" .
+<https://id.parliament.uk/pNpJNKSj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/pNpJNKSj> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/ZnRdp6FB> .
+<https://id.parliament.uk/ZnRdp6FB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/ZnRdp6FB> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/0oEKIHxc> .
+<https://id.parliament.uk/0oEKIHxc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/0oEKIHxc> <https://id.parliament.uk/schema/constituencyGroupName> "Maidstone and The Weald" .
+<https://id.parliament.uk/TmXXwkyc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/TmXXwkyc> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/qOb0SorR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/EE2aLF60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/EE2aLF60> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/NMAqSZqj> .
+<https://id.parliament.uk/EE2aLF60> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/C4QrZeto> .
+<https://id.parliament.uk/EE2aLF60> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/eMeMDM5k> .
+<https://id.parliament.uk/EE2aLF60> <https://id.parliament.uk/schema/personGivenName> "Pauline" .
+<https://id.parliament.uk/EE2aLF60> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Latham, Mrs Pauline" .
+<https://id.parliament.uk/EE2aLF60> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mrs Pauline Latham" .
+<https://id.parliament.uk/C4QrZeto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/C4QrZeto> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/0knI9Hxy> .
+<https://id.parliament.uk/0knI9Hxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/0knI9Hxy> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/9o7soFfg> .
+<https://id.parliament.uk/9o7soFfg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/9o7soFfg> <https://id.parliament.uk/schema/constituencyGroupName> "Mid Derbyshire" .
+<https://id.parliament.uk/NMAqSZqj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/NMAqSZqj> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/eMeMDM5k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/SXKJZ7ga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/SXKJZ7ga> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/0XWDqhs1> .
+<https://id.parliament.uk/SXKJZ7ga> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/QR5RknvY> .
+<https://id.parliament.uk/SXKJZ7ga> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/Hdr2Yd0J> .
+<https://id.parliament.uk/SXKJZ7ga> <https://id.parliament.uk/schema/personGivenName> "Christopher" .
+<https://id.parliament.uk/SXKJZ7ga> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Law, Chris" .
+<https://id.parliament.uk/SXKJZ7ga> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Chris Law" .
+<https://id.parliament.uk/QR5RknvY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/QR5RknvY> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/5ec4cHim> .
+<https://id.parliament.uk/5ec4cHim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/5ec4cHim> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/bSSGOWVS> .
+<https://id.parliament.uk/bSSGOWVS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/bSSGOWVS> <https://id.parliament.uk/schema/constituencyGroupName> "Dundee West" .
+<https://id.parliament.uk/0XWDqhs1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/0XWDqhs1> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/wnvdA00Y> .
+<https://id.parliament.uk/Hdr2Yd0J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/K2CWtB9m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/K2CWtB9m> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/od1Q8qm2> .
+<https://id.parliament.uk/K2CWtB9m> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/LC8SJEtt> .
+<https://id.parliament.uk/K2CWtB9m> <https://id.parliament.uk/schema/personGivenName> "Jeremy" .
+<https://id.parliament.uk/K2CWtB9m> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Lefroy, Jeremy" .
+<https://id.parliament.uk/K2CWtB9m> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Jeremy Lefroy" .
+<https://id.parliament.uk/LC8SJEtt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/LC8SJEtt> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/gCSHrSvJ> .
+<https://id.parliament.uk/gCSHrSvJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/gCSHrSvJ> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/uWSudWGS> .
+<https://id.parliament.uk/uWSudWGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/uWSudWGS> <https://id.parliament.uk/schema/constituencyGroupName> "Stafford" .
+<https://id.parliament.uk/od1Q8qm2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/od1Q8qm2> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/YC7Iv4FO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/YC7Iv4FO> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/pe6chttH> .
+<https://id.parliament.uk/YC7Iv4FO> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/bDPz4qJu> .
+<https://id.parliament.uk/YC7Iv4FO> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/wyrVnmBY> .
+<https://id.parliament.uk/YC7Iv4FO> <https://id.parliament.uk/schema/personGivenName> "Ivan" .
+<https://id.parliament.uk/YC7Iv4FO> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Lewis, Mr Ivan" .
+<https://id.parliament.uk/YC7Iv4FO> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Ivan Lewis" .
+<https://id.parliament.uk/bDPz4qJu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/bDPz4qJu> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/OqzToCV2> .
+<https://id.parliament.uk/OqzToCV2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/OqzToCV2> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/zcGleUWG> .
+<https://id.parliament.uk/zcGleUWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/zcGleUWG> <https://id.parliament.uk/schema/constituencyGroupName> "Bury South" .
+<https://id.parliament.uk/pe6chttH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/pe6chttH> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/wyrVnmBY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/YC7Iv4FO> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/zNJjh7d5> .
+<https://id.parliament.uk/zNJjh7d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/zNJjh7d5> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/UeAtkxYY> .
+<https://id.parliament.uk/UeAtkxYY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/UeAtkxYY> <https://id.parliament.uk/schema/partyName> "Independent" .
+<https://id.parliament.uk/krGtkX0n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/krGtkX0n> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/VOUzvwGM> .
+<https://id.parliament.uk/krGtkX0n> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/ISw7GclI> .
+<https://id.parliament.uk/krGtkX0n> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/CLSzPz5d> .
+<https://id.parliament.uk/krGtkX0n> <https://id.parliament.uk/schema/personGivenName> "Albert" .
+<https://id.parliament.uk/krGtkX0n> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Owen, Albert" .
+<https://id.parliament.uk/krGtkX0n> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Albert Owen" .
+<https://id.parliament.uk/ISw7GclI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/ISw7GclI> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/BM5FQnQe> .
+<https://id.parliament.uk/BM5FQnQe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/BM5FQnQe> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/cVHXWntM> .
+<https://id.parliament.uk/cVHXWntM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/cVHXWntM> <https://id.parliament.uk/schema/constituencyGroupName> "Ynys M\u00F4n" .
+<https://id.parliament.uk/VOUzvwGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/VOUzvwGM> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/CLSzPz5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/Ki1lJnyr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/Ki1lJnyr> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/JvNevwff> .
+<https://id.parliament.uk/Ki1lJnyr> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/RL1MB8It> .
+<https://id.parliament.uk/Ki1lJnyr> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/xXTvcHDg> .
+<https://id.parliament.uk/Ki1lJnyr> <https://id.parliament.uk/schema/personGivenName> "Lloyd" .
+<https://id.parliament.uk/Ki1lJnyr> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Russell-Moyle, Lloyd" .
+<https://id.parliament.uk/Ki1lJnyr> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Lloyd Russell-Moyle" .
+<https://id.parliament.uk/RL1MB8It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/RL1MB8It> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/1QjdlmOu> .
+<https://id.parliament.uk/1QjdlmOu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/1QjdlmOu> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/N0LJO8wS> .
+<https://id.parliament.uk/N0LJO8wS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/N0LJO8wS> <https://id.parliament.uk/schema/constituencyGroupName> "Brighton, Kemptown" .
+<https://id.parliament.uk/JvNevwff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/JvNevwff> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/xXTvcHDg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/W3LCQIsD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/W3LCQIsD> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/ACJr2ysA> .
+<https://id.parliament.uk/W3LCQIsD> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/jybhbN5b> .
+<https://id.parliament.uk/W3LCQIsD> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/wPwbbxig> .
+<https://id.parliament.uk/W3LCQIsD> <https://id.parliament.uk/schema/personGivenName> "Virendra" .
+<https://id.parliament.uk/W3LCQIsD> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Sharma, Mr Virendra" .
+<https://id.parliament.uk/W3LCQIsD> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Mr Virendra Sharma" .
+<https://id.parliament.uk/jybhbN5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/jybhbN5b> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/b5XTqPe2> .
+<https://id.parliament.uk/b5XTqPe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/b5XTqPe2> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/K4jsXf6u> .
+<https://id.parliament.uk/K4jsXf6u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/K4jsXf6u> <https://id.parliament.uk/schema/constituencyGroupName> "Ealing, Southall" .
+<https://id.parliament.uk/ACJr2ysA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/ACJr2ysA> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/wPwbbxig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/XZysQ4oQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/XZysQ4oQ> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/fAkK2Owy> .
+<https://id.parliament.uk/XZysQ4oQ> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/wN9AiWrg> .
+<https://id.parliament.uk/XZysQ4oQ> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/mgbo1ivp> .
+<https://id.parliament.uk/XZysQ4oQ> <https://id.parliament.uk/schema/personGivenName> "Henry" .
+<https://id.parliament.uk/XZysQ4oQ> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Smith, Henry" .
+<https://id.parliament.uk/XZysQ4oQ> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Henry Smith" .
+<https://id.parliament.uk/wN9AiWrg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/wN9AiWrg> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/vaqqNEoy> .
+<https://id.parliament.uk/vaqqNEoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/vaqqNEoy> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/hBssLG77> .
+<https://id.parliament.uk/hBssLG77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/hBssLG77> <https://id.parliament.uk/schema/constituencyGroupName> "Crawley" .
+<https://id.parliament.uk/fAkK2Owy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/fAkK2Owy> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/DIifZMjq> .
+<https://id.parliament.uk/mgbo1ivp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/owb2brV2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/owb2brV2> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/Wirzilkc> .
+<https://id.parliament.uk/owb2brV2> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/S2CeQJRc> .
+<https://id.parliament.uk/owb2brV2> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/ZsVDn5nd> .
+<https://id.parliament.uk/owb2brV2> <https://id.parliament.uk/schema/personGivenName> "Stephen" .
+<https://id.parliament.uk/owb2brV2> <http://example.com/A5EE13ABE03C4D3A8F1A274F57097B6C> "Twigg, Stephen" .
+<https://id.parliament.uk/owb2brV2> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Stephen Twigg" .
+<https://id.parliament.uk/S2CeQJRc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentIncumbency> .
+<https://id.parliament.uk/S2CeQJRc> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/bkGNePcX> .
+<https://id.parliament.uk/bkGNePcX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/bkGNePcX> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/AATRnuR5> .
+<https://id.parliament.uk/AATRnuR5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/AATRnuR5> <https://id.parliament.uk/schema/constituencyGroupName> "Liverpool, West Derby" .
+<https://id.parliament.uk/Wirzilkc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/Wirzilkc> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/LEYIBvV9> .
+<https://id.parliament.uk/ZsVDn5nd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
