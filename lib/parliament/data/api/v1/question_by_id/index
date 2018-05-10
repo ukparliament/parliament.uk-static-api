@@ -1,43 +1,43 @@
-<https://id.parliament.uk/Rxb0mVnl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/questionText> "To ask the Secretary of State for Health, what plans he has to change the amount of public funding allocated to the non-NHS providers for children's health services; and if he will make a statement." .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/questionHasAskingPerson> <https://id.parliament.uk/hfFS7SEH> .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/pv8j5xUM> .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/eqmUin> "116005" .
-<https://id.parliament.uk/Rxb0mVnl> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/VMubNMoF> .
-<https://id.parliament.uk/VMubNMoF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
-<https://id.parliament.uk/VMubNMoF> <https://id.parliament.uk/schema/answerText> "<p>I refer the hon. Member to the answer I gave on 18 October 2017 to Question <a href=\"http://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/?page=1&max=20&questiontype=AllQuestions&house=commons%2clords&uin=107392\" target=\"_blank\">107392</a>.</p><p> </p><p>Clinical commissioning groups have a statutory responsibility to commission services which meet the needs of their local population. Any decision about use of the private sector is for local commissioners. We are clear that patients should be able to access the best possible treatments based on quality of care rather than the type of provider.</p>" .
-<https://id.parliament.uk/VMubNMoF> <https://id.parliament.uk/schema/answerGivenDate> "2017-12-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/VMubNMoF> <https://id.parliament.uk/schema/answerHasAnsweringPerson> <https://id.parliament.uk/j3tFA6NO> .
-<https://id.parliament.uk/j3tFA6NO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
-<https://id.parliament.uk/j3tFA6NO> <https://id.parliament.uk/schema/personGivenName> "Philip" .
-<https://id.parliament.uk/j3tFA6NO> <https://id.parliament.uk/schema/personOtherNames> "Martin" .
-<https://id.parliament.uk/j3tFA6NO> <https://id.parliament.uk/schema/personFamilyName> "Dunne" .
-<https://id.parliament.uk/j3tFA6NO> <https://id.parliament.uk/schema/governmentPersonHasGovernmentIncumbency> <https://id.parliament.uk/yMGP4Y9I> .
-<https://id.parliament.uk/j3tFA6NO> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/T1Qht1jY> .
-<https://id.parliament.uk/T1Qht1jY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
-<https://id.parliament.uk/yMGP4Y9I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovernmentIncumbency> .
-<https://id.parliament.uk/yMGP4Y9I> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/yMGP4Y9I> <https://id.parliament.uk/schema/incumbencyEndDate> "2018-01-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/yMGP4Y9I> <https://id.parliament.uk/schema/governmentIncumbencyHasGovernmentPosition> <https://id.parliament.uk/ZZfEtFnt> .
-<https://id.parliament.uk/ZZfEtFnt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovernmentPosition> .
-<https://id.parliament.uk/ZZfEtFnt> <https://id.parliament.uk/schema/positionName> "Minister of State (Department of Health)" .
-<https://id.parliament.uk/pv8j5xUM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
-<https://id.parliament.uk/pv8j5xUM> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/LbObLtti> .
-<https://id.parliament.uk/LbObLtti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
-<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/groupName> "Department of Health and Social Care" .
-<https://id.parliament.uk/LbObLtti> <https://id.parliament.uk/schema/governmentOrganisationGovRegisterId> "D12" .
-<https://id.parliament.uk/hfFS7SEH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
-<https://id.parliament.uk/hfFS7SEH> <https://id.parliament.uk/schema/personGivenName> "David" .
-<https://id.parliament.uk/hfFS7SEH> <https://id.parliament.uk/schema/personFamilyName> "Drew" .
-<https://id.parliament.uk/hfFS7SEH> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/yi4iw6tN> .
-<https://id.parliament.uk/hfFS7SEH> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/U5ex1u42> .
-<https://id.parliament.uk/U5ex1u42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
-<https://id.parliament.uk/yi4iw6tN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
-<https://id.parliament.uk/yi4iw6tN> <https://id.parliament.uk/schema/parliamentaryIncumbencyStartDate> "2017-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/yi4iw6tN> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/bAWQzsmb> .
-<https://id.parliament.uk/bAWQzsmb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
-<https://id.parliament.uk/bAWQzsmb> <https://id.parliament.uk/schema/houseSeatHasHouse> <https://id.parliament.uk/1AFu55Hs> .
-<https://id.parliament.uk/bAWQzsmb> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/zB5ZO75a> .
-<https://id.parliament.uk/zB5ZO75a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
-<https://id.parliament.uk/zB5ZO75a> <https://id.parliament.uk/schema/constituencyGroupName> "Stroud" .
+<https://id.parliament.uk/S2AMklLB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/questionText> "<p>To ask the Secretary of State for Business, Energy and Industrial Strategy, what recent estimate he has made of Government funding for Ben Ainslie\u2019s sailing team; what assessment was made (a) before and (b) after that expenditure of its cost-effectiveness; what return was expected from that investment; and whether further funding will be allocated to the team.</p>" .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/questionAskedAt> "2018-03-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/questionHasAskingPerson> <https://id.parliament.uk/SnLVQeMi> .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/0FNFSxY4> .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/indexingAndSearchUri> "http://data.parliament.uk/writtenparliamentaryquestion/commons/2017-19/133950" .
+<https://id.parliament.uk/S2AMklLB> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/yCD0qSKi> .
+<https://id.parliament.uk/yCD0qSKi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/yCD0qSKi> <https://id.parliament.uk/schema/answerText> "<p>In 2014 Government agreed up to \u00A37.5 million funding to support Sir Ben Ainslie\u2019s America\u2019s Cup team and their proposal to be based on the Camber in Portsmouth. Details of this funding agreement have previously been released and are publicly available here:</p><p><a href=\"https://www.gov.uk/government/news/government-approves-75-million-for-sir-ben-ainslie-project-to-boost-portsmouth\" target=\"_blank\">https://www.gov.uk/government/news/government-approves-75-million-for-sir-ben-ainslie-project-to-boost-portsmouth</a></p><p>No further funding to the team is currently planned.</p>" .
+<https://id.parliament.uk/yCD0qSKi> <https://id.parliament.uk/schema/answerGivenDate> "2018-04-04+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/yCD0qSKi> <https://id.parliament.uk/schema/answerHasAnsweringPerson> <https://id.parliament.uk/45sPuDr6> .
+<https://id.parliament.uk/45sPuDr6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/45sPuDr6> <https://id.parliament.uk/schema/personGivenName> "Andrew" .
+<https://id.parliament.uk/45sPuDr6> <https://id.parliament.uk/schema/personOtherNames> "James" .
+<https://id.parliament.uk/45sPuDr6> <https://id.parliament.uk/schema/personFamilyName> "Griffiths" .
+<https://id.parliament.uk/45sPuDr6> <https://id.parliament.uk/schema/governmentPersonHasGovernmentIncumbency> <https://id.parliament.uk/zMeex18W> .
+<https://id.parliament.uk/45sPuDr6> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/1zgsEUsg> .
+<https://id.parliament.uk/1zgsEUsg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/zMeex18W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovernmentIncumbency> .
+<https://id.parliament.uk/zMeex18W> <https://id.parliament.uk/schema/incumbencyStartDate> "2018-01-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zMeex18W> <https://id.parliament.uk/schema/governmentIncumbencyHasGovernmentPosition> <https://id.parliament.uk/hlV0tBiJ> .
+<https://id.parliament.uk/hlV0tBiJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovernmentPosition> .
+<https://id.parliament.uk/hlV0tBiJ> <https://id.parliament.uk/schema/positionName> "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)" .
+<https://id.parliament.uk/0FNFSxY4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/0FNFSxY4> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/RlIqlixq> .
+<https://id.parliament.uk/RlIqlixq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/RlIqlixq> <https://id.parliament.uk/schema/governmentOrganisationGovRegisterId> "D15" .
+<https://id.parliament.uk/SnLVQeMi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/SnLVQeMi> <https://id.parliament.uk/schema/personGivenName> "Thomas" .
+<https://id.parliament.uk/SnLVQeMi> <https://id.parliament.uk/schema/personOtherNames> "Anthony" .
+<https://id.parliament.uk/SnLVQeMi> <https://id.parliament.uk/schema/personFamilyName> "Brake" .
+<https://id.parliament.uk/SnLVQeMi> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/QAPxNy3m> .
+<https://id.parliament.uk/SnLVQeMi> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/bhDYT87s> .
+<https://id.parliament.uk/bhDYT87s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/QAPxNy3m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/QAPxNy3m> <https://id.parliament.uk/schema/parliamentaryIncumbencyStartDate> "2017-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/QAPxNy3m> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/7cgajPPi> .
+<https://id.parliament.uk/7cgajPPi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/7cgajPPi> <https://id.parliament.uk/schema/houseSeatHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/7cgajPPi> <https://id.parliament.uk/schema/houseSeatHasConstituencyGroup> <https://id.parliament.uk/f2o6CA6z> .
+<https://id.parliament.uk/f2o6CA6z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
+<https://id.parliament.uk/f2o6CA6z> <https://id.parliament.uk/schema/constituencyGroupName> "Carshalton and Wallington" .
+<https://id.parliament.uk/RlIqlixq> <https://id.parliament.uk/schema/governmentOrganisationGovRegisterId> "D1198" .
