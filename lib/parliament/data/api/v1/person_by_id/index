@@ -4,6 +4,11 @@
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personFamilyName> "Abbott" .
 <https://id.parliament.uk/43RHonMf> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ms Diane Abbott" .
 <https://id.parliament.uk/43RHonMf> <http://example.com/D79B0BAC513C4A9A87C9D5AFF1FC632F> "Rt Hon Diane Abbott MP" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasGenderIdentity> <https://id.parliament.uk/663afc3b> .
+<https://id.parliament.uk/663afc3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GenderIdentity> .
+<https://id.parliament.uk/663afc3b> <https://id.parliament.uk/schema/genderIdentityHasGender> <https://id.parliament.uk/9ae2e234> .
+<https://id.parliament.uk/9ae2e234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Gender> .
+<https://id.parliament.uk/9ae2e234> <https://id.parliament.uk/schema/genderName> "Female" .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/S3bGSTqn> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/UcFeoI5t> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/5b1mxVJ7> .
