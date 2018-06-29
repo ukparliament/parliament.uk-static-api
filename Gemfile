@@ -18,6 +18,6 @@ group :test do
   gem 'rubocop', '>= 0.49.0'
   gem 'rspec'
   gem 'rack-test'
-  gem 'pry'
-  gem 'guard-rspec', require: false
+  gem 'pry', '>= 0.10.4'
+  gem 'guard-rspec', '>= 4.7.3', require: false
 end
