@@ -1,0 +1,132 @@
+<https://id.parliament.uk/zPVePsoU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personGivenName> "Richard" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personFamilyName> "Newby" .
+<https://id.parliament.uk/zPVePsoU> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Lord Newby" .
+<https://id.parliament.uk/zPVePsoU> <http://example.com/D79B0BAC513C4A9A87C9D5AFF1FC632F> "The Rt Hon. the Lord Newby OBE" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/PqGSvTMG> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/oH19DtO8> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/1jjSdiFy> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/NlAePulP> .
+<https://id.parliament.uk/PqGSvTMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/1jjSdiFy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/1jjSdiFy> <https://id.parliament.uk/schema/parliamentaryIncumbencyStartDate> "1997-09-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1jjSdiFy> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/oPm4ZYX0> .
+<https://id.parliament.uk/oPm4ZYX0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/oPm4ZYX0> <https://id.parliament.uk/schema/houseSeatHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/wKMInYxd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/partyName> "Liberal Democrat" .
+<https://id.parliament.uk/oH19DtO8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/oH19DtO8> <https://id.parliament.uk/schema/partyMembershipStartDate> "1997-09-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oH19DtO8> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/wKMInYxd> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
+<https://id.parliament.uk/NlAePulP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/NlAePulP> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2002-01-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/NlAePulP> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/NlAePulP> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/ReE8wVWz> .
+<https://id.parliament.uk/ReE8wVWz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/ReE8wVWz> <https://id.parliament.uk/schema/formalBodyName> "Ecclesiastical Committee (Joint Committee)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/nhtyHeJ2> .
+<https://id.parliament.uk/nhtyHeJ2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/nhtyHeJ2> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nhtyHeJ2> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/U7EjDeFU> .
+<https://id.parliament.uk/U7EjDeFU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/U7EjDeFU> <https://id.parliament.uk/schema/formalBodyName> "Committee for Privileges and Conduct (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/9xqNKB7V> .
+<https://id.parliament.uk/9xqNKB7V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/9xqNKB7V> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/9xqNKB7V> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/9xqNKB7V> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/qzUd5fvd> .
+<https://id.parliament.uk/qzUd5fvd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/qzUd5fvd> <https://id.parliament.uk/schema/formalBodyName> "Joint Committee on Security" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/cyXoQrIp> .
+<https://id.parliament.uk/cyXoQrIp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/cyXoQrIp> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2016-10-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cyXoQrIp> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/5Mlzzi7F> .
+<https://id.parliament.uk/5Mlzzi7F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/5Mlzzi7F> <https://id.parliament.uk/schema/formalBodyName> "Liaison Committee (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/dm0lnWnW> .
+<https://id.parliament.uk/dm0lnWnW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/dm0lnWnW> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2015-06-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/dm0lnWnW> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/1SujEdqu> .
+<https://id.parliament.uk/1SujEdqu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/1SujEdqu> <https://id.parliament.uk/schema/formalBodyName> "Consultative Panel on Parliamentary Security" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/jyFIUa4n> .
+<https://id.parliament.uk/jyFIUa4n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/jyFIUa4n> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/jyFIUa4n> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/VthF9ZwL> .
+<https://id.parliament.uk/VthF9ZwL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/VthF9ZwL> <https://id.parliament.uk/schema/formalBodyName> "Sub-Committee on Leave of Absence" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/G52UkfJV> .
+<https://id.parliament.uk/G52UkfJV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/G52UkfJV> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2011-07-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/G52UkfJV> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2011-12-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/G52UkfJV> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/hUcptTxq> .
+<https://id.parliament.uk/hUcptTxq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/hUcptTxq> <https://id.parliament.uk/schema/formalBodyName> "Draft Financial Services Bill (Joint Committee)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/EqgMI22U> .
+<https://id.parliament.uk/EqgMI22U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/EqgMI22U> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "1998-12-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/EqgMI22U> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2001-05-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/EqgMI22U> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/Rpq8ggjS> .
+<https://id.parliament.uk/Rpq8ggjS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/Rpq8ggjS> <https://id.parliament.uk/schema/formalBodyName> "Monetary Policy Committee of the Bank of England" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/uj159tQA> .
+<https://id.parliament.uk/uj159tQA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/uj159tQA> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2016-10-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/uj159tQA> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/tpnIn2BN> .
+<https://id.parliament.uk/tpnIn2BN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/tpnIn2BN> <https://id.parliament.uk/schema/formalBodyName> "House of Lords Commission" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/zIxRQjUI> .
+<https://id.parliament.uk/zIxRQjUI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/zIxRQjUI> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zIxRQjUI> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2016-08-31+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zIxRQjUI> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/OXwyoZdB> .
+<https://id.parliament.uk/OXwyoZdB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/OXwyoZdB> <https://id.parliament.uk/schema/formalBodyName> "Administration and Works Committee (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/KJ6STXXm> .
+<https://id.parliament.uk/KJ6STXXm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/KJ6STXXm> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KJ6STXXm> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/eHK3fAn2> .
+<https://id.parliament.uk/eHK3fAn2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/eHK3fAn2> <https://id.parliament.uk/schema/formalBodyName> "Accommodation Steering Group" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/0rlHemMf> .
+<https://id.parliament.uk/0rlHemMf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/0rlHemMf> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2001-06-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0rlHemMf> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2003-11-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0rlHemMf> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/ANA3YJJx> .
+<https://id.parliament.uk/ANA3YJJx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/ANA3YJJx> <https://id.parliament.uk/schema/formalBodyName> "Economic Affairs Committee" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/MIA3l9IO> .
+<https://id.parliament.uk/MIA3l9IO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/MIA3l9IO> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2016-09-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MIA3l9IO> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2016-10-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MIA3l9IO> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/T9zOBPqn> .
+<https://id.parliament.uk/T9zOBPqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/T9zOBPqn> <https://id.parliament.uk/schema/formalBodyName> "Finance Committee (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/zs3kPm5A> .
+<https://id.parliament.uk/zs3kPm5A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/zs3kPm5A> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-06-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zs3kPm5A> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2015-03-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zs3kPm5A> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/qXbyJ0ER> .
+<https://id.parliament.uk/qXbyJ0ER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/qXbyJ0ER> <https://id.parliament.uk/schema/formalBodyName> "Refreshment Committee (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/oQwQ9W4x> .
+<https://id.parliament.uk/oQwQ9W4x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/oQwQ9W4x> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2014-11-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oQwQ9W4x> <https://id.parliament.uk/schema/formalBodyMembershipEndDate> "2014-12-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oQwQ9W4x> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/r48rrQUG> .
+<https://id.parliament.uk/r48rrQUG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/r48rrQUG> <https://id.parliament.uk/schema/formalBodyName> "Insurance Bill [HL] Special Public Bill Committee" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/WWzKnZ2a> .
+<https://id.parliament.uk/WWzKnZ2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/WWzKnZ2a> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/WWzKnZ2a> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/5NJVAuSn> .
+<https://id.parliament.uk/5NJVAuSn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/5NJVAuSn> <https://id.parliament.uk/schema/formalBodyName> "Committee of Selection (Lords)" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/TrjuYA9z> .
+<https://id.parliament.uk/TrjuYA9z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
+<https://id.parliament.uk/TrjuYA9z> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "2012-05-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TrjuYA9z> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/wZVxomZk> .
+<https://id.parliament.uk/wZVxomZk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
+<https://id.parliament.uk/wZVxomZk> <https://id.parliament.uk/schema/formalBodyName> "Procedure Committee (Lords)" .

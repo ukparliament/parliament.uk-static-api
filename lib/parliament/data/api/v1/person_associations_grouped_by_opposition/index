@@ -1,0 +1,28 @@
+<https://id.parliament.uk/zPVePsoU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personGivenName> "Richard" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/personFamilyName> "Newby" .
+<https://id.parliament.uk/zPVePsoU> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Lord Newby" .
+<https://id.parliament.uk/zPVePsoU> <http://example.com/D79B0BAC513C4A9A87C9D5AFF1FC632F> "The Rt Hon. the Lord Newby OBE" .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/PqGSvTMG> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/oH19DtO8> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/1jjSdiFy> .
+<https://id.parliament.uk/zPVePsoU> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/mGSY4wnx> .
+<https://id.parliament.uk/PqGSvTMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/1jjSdiFy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SeatIncumbency> .
+<https://id.parliament.uk/1jjSdiFy> <https://id.parliament.uk/schema/parliamentaryIncumbencyStartDate> "1997-09-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1jjSdiFy> <https://id.parliament.uk/schema/seatIncumbencyHasHouseSeat> <https://id.parliament.uk/oPm4ZYX0> .
+<https://id.parliament.uk/oPm4ZYX0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/HouseSeat> .
+<https://id.parliament.uk/oPm4ZYX0> <https://id.parliament.uk/schema/houseSeatHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/wKMInYxd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Party> .
+<https://id.parliament.uk/wKMInYxd> <https://id.parliament.uk/schema/partyName> "Liberal Democrat" .
+<https://id.parliament.uk/oH19DtO8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PartyMembership> .
+<https://id.parliament.uk/oH19DtO8> <https://id.parliament.uk/schema/partyMembershipStartDate> "1997-09-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oH19DtO8> <https://id.parliament.uk/schema/partyMembershipHasParty> <https://id.parliament.uk/wKMInYxd> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
+<https://id.parliament.uk/mGSY4wnx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
+<https://id.parliament.uk/mGSY4wnx> <https://id.parliament.uk/schema/incumbencyStartDate> "2015-05-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/mGSY4wnx> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-09-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/mGSY4wnx> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/pORfsGJk> .
+<https://id.parliament.uk/pORfsGJk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
+<https://id.parliament.uk/pORfsGJk> <https://id.parliament.uk/schema/positionName> "Liberal Democrat Lords Chief Whip" .
