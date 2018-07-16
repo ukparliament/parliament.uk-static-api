@@ -1,0 +1,438 @@
+<https://id.parliament.uk/CG2kvvRt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/personGivenName> "Deborah" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/personOtherNames> "Angela Elspeth Marie" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/personFamilyName> "Abrahams" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/KP3Gx7Rd> .
+<https://id.parliament.uk/KP3Gx7Rd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/KP3Gx7Rd> <https://id.parliament.uk/schema/questionAskedAt> "2018-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KP3Gx7Rd> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/mTA9sonl> .
+<https://id.parliament.uk/KP3Gx7Rd> <https://id.parliament.uk/schema/questionHeading> "Kashmir: Human Rights" .
+<https://id.parliament.uk/KP3Gx7Rd> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/m0n934Ea> .
+<https://id.parliament.uk/m0n934Ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/mTA9sonl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/mTA9sonl> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/UIV7W27r> .
+<https://id.parliament.uk/UIV7W27r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/UIV7W27r> <https://id.parliament.uk/schema/groupName> "Foreign and Commonwealth Office" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/5DEaWCpB> .
+<https://id.parliament.uk/5DEaWCpB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/5DEaWCpB> <https://id.parliament.uk/schema/questionAskedAt> "2018-06-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5DEaWCpB> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/IT4tq9Ot> .
+<https://id.parliament.uk/5DEaWCpB> <https://id.parliament.uk/schema/questionHeading> "Kashmir: Human Rights" .
+<https://id.parliament.uk/5DEaWCpB> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/hJrgkSWh> .
+<https://id.parliament.uk/hJrgkSWh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/IT4tq9Ot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/IT4tq9Ot> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/UIV7W27r> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/b9Sz6Jrn> .
+<https://id.parliament.uk/b9Sz6Jrn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/b9Sz6Jrn> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/b9Sz6Jrn> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/pr67b5JE> .
+<https://id.parliament.uk/b9Sz6Jrn> <https://id.parliament.uk/schema/questionHeading> "Social Security Benefits: Hearing Impairment" .
+<https://id.parliament.uk/b9Sz6Jrn> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/D6ySq9cJ> .
+<https://id.parliament.uk/D6ySq9cJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/pr67b5JE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/pr67b5JE> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/XbTBTDMo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/XbTBTDMo> <https://id.parliament.uk/schema/groupName> "Department for Work and Pensions" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/iOTofWTw> .
+<https://id.parliament.uk/iOTofWTw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/iOTofWTw> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/iOTofWTw> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/QLnqcKco> .
+<https://id.parliament.uk/iOTofWTw> <https://id.parliament.uk/schema/questionHeading> "Immigrants: Caribbean" .
+<https://id.parliament.uk/iOTofWTw> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/cXOYCcOa> .
+<https://id.parliament.uk/cXOYCcOa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/QLnqcKco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/QLnqcKco> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/pKMaOAvl> .
+<https://id.parliament.uk/pKMaOAvl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/pKMaOAvl> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pKMaOAvl> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/venanaZx> .
+<https://id.parliament.uk/pKMaOAvl> <https://id.parliament.uk/schema/questionHeading> "Immigrants: Caribbean" .
+<https://id.parliament.uk/pKMaOAvl> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/5AGSb6GF> .
+<https://id.parliament.uk/5AGSb6GF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/venanaZx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/venanaZx> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/PDUdJxE7> .
+<https://id.parliament.uk/PDUdJxE7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/PDUdJxE7> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PDUdJxE7> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/NGYdrWT0> .
+<https://id.parliament.uk/PDUdJxE7> <https://id.parliament.uk/schema/questionHeading> "Immigrants: Caribbean" .
+<https://id.parliament.uk/PDUdJxE7> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/KunRI4iF> .
+<https://id.parliament.uk/KunRI4iF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/NGYdrWT0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/NGYdrWT0> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/yzZ4ZX1t> .
+<https://id.parliament.uk/yzZ4ZX1t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/yzZ4ZX1t> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/yzZ4ZX1t> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/KwVVtA6t> .
+<https://id.parliament.uk/yzZ4ZX1t> <https://id.parliament.uk/schema/questionHeading> "Immigrants: Commonwealth" .
+<https://id.parliament.uk/yzZ4ZX1t> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/XoGcxFeN> .
+<https://id.parliament.uk/XoGcxFeN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/KwVVtA6t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/KwVVtA6t> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/UX5th6Ck> .
+<https://id.parliament.uk/UX5th6Ck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/UX5th6Ck> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/UX5th6Ck> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/jQlmxTNr> .
+<https://id.parliament.uk/UX5th6Ck> <https://id.parliament.uk/schema/questionHeading> "Immigrants: Commonwealth" .
+<https://id.parliament.uk/UX5th6Ck> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/TDlTrY5F> .
+<https://id.parliament.uk/TDlTrY5F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/jQlmxTNr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/jQlmxTNr> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/LaStsVf7> .
+<https://id.parliament.uk/LaStsVf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/LaStsVf7> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LaStsVf7> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/4MLwWdPM> .
+<https://id.parliament.uk/LaStsVf7> <https://id.parliament.uk/schema/questionHeading> "Employment Support Allowance: Disqualification" .
+<https://id.parliament.uk/LaStsVf7> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/DfsmonH5> .
+<https://id.parliament.uk/DfsmonH5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/4MLwWdPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/4MLwWdPM> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/at8jWi6h> .
+<https://id.parliament.uk/at8jWi6h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/at8jWi6h> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/at8jWi6h> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/wuNRrrVH> .
+<https://id.parliament.uk/at8jWi6h> <https://id.parliament.uk/schema/questionHeading> "Universal Credit" .
+<https://id.parliament.uk/at8jWi6h> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/rOEWHjKs> .
+<https://id.parliament.uk/rOEWHjKs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/wuNRrrVH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/wuNRrrVH> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/IoZ5qjpj> .
+<https://id.parliament.uk/IoZ5qjpj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/IoZ5qjpj> <https://id.parliament.uk/schema/questionAskedAt> "2018-04-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IoZ5qjpj> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/b0setgc1> .
+<https://id.parliament.uk/IoZ5qjpj> <https://id.parliament.uk/schema/questionHeading> "Universal Credit" .
+<https://id.parliament.uk/IoZ5qjpj> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/vOvvlMie> .
+<https://id.parliament.uk/vOvvlMie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/b0setgc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/b0setgc1> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/QaCT69C0> .
+<https://id.parliament.uk/QaCT69C0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/QaCT69C0> <https://id.parliament.uk/schema/questionAskedAt> "2018-03-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/QaCT69C0> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/rFyhfVOf> .
+<https://id.parliament.uk/QaCT69C0> <https://id.parliament.uk/schema/questionHeading> "Universal Credit" .
+<https://id.parliament.uk/QaCT69C0> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/x9z4zy2V> .
+<https://id.parliament.uk/x9z4zy2V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/rFyhfVOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/rFyhfVOf> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/wJGp9rqp> .
+<https://id.parliament.uk/wJGp9rqp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/wJGp9rqp> <https://id.parliament.uk/schema/questionAskedAt> "2018-03-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wJGp9rqp> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/CmVou6rP> .
+<https://id.parliament.uk/wJGp9rqp> <https://id.parliament.uk/schema/questionHeading> "Universal Credit: Disqualification" .
+<https://id.parliament.uk/wJGp9rqp> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/IfjSdoLt> .
+<https://id.parliament.uk/IfjSdoLt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/CmVou6rP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/CmVou6rP> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/xKmvjAJC> .
+<https://id.parliament.uk/xKmvjAJC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/xKmvjAJC> <https://id.parliament.uk/schema/questionAskedAt> "2018-03-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xKmvjAJC> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/aKQpqvcA> .
+<https://id.parliament.uk/xKmvjAJC> <https://id.parliament.uk/schema/questionHeading> "Employment Support Allowance: Disqualification" .
+<https://id.parliament.uk/xKmvjAJC> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/3IR3zXKd> .
+<https://id.parliament.uk/3IR3zXKd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/aKQpqvcA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/aKQpqvcA> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/05adm3rH> .
+<https://id.parliament.uk/05adm3rH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/05adm3rH> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/05adm3rH> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/4dImXFDN> .
+<https://id.parliament.uk/05adm3rH> <https://id.parliament.uk/schema/questionHeading> "Universal Credit: Disqualification" .
+<https://id.parliament.uk/05adm3rH> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/vFZHyEOi> .
+<https://id.parliament.uk/vFZHyEOi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/4dImXFDN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/4dImXFDN> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/KLz8bBYW> .
+<https://id.parliament.uk/KLz8bBYW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/KLz8bBYW> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KLz8bBYW> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/QbrEjfuB> .
+<https://id.parliament.uk/KLz8bBYW> <https://id.parliament.uk/schema/questionHeading> "Universal Credit" .
+<https://id.parliament.uk/KLz8bBYW> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/eAjZEFCo> .
+<https://id.parliament.uk/eAjZEFCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/QbrEjfuB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/QbrEjfuB> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/z3IZ2VUn> .
+<https://id.parliament.uk/z3IZ2VUn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/z3IZ2VUn> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/z3IZ2VUn> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/jhlzlJQp> .
+<https://id.parliament.uk/z3IZ2VUn> <https://id.parliament.uk/schema/questionHeading> "Universal Credit: Mental Illness" .
+<https://id.parliament.uk/z3IZ2VUn> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/j150pqdJ> .
+<https://id.parliament.uk/j150pqdJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/jhlzlJQp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/jhlzlJQp> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/2RbE1HQc> .
+<https://id.parliament.uk/2RbE1HQc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/2RbE1HQc> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/2RbE1HQc> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/h2FMK9cL> .
+<https://id.parliament.uk/2RbE1HQc> <https://id.parliament.uk/schema/questionHeading> "Jobcentre Plus: Training" .
+<https://id.parliament.uk/2RbE1HQc> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/xQifnycb> .
+<https://id.parliament.uk/xQifnycb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/h2FMK9cL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/h2FMK9cL> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/4bFL2pmT> .
+<https://id.parliament.uk/4bFL2pmT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/4bFL2pmT> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4bFL2pmT> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/3G3Z9dD9> .
+<https://id.parliament.uk/4bFL2pmT> <https://id.parliament.uk/schema/questionHeading> "Social Security Benefits: Disqualification" .
+<https://id.parliament.uk/4bFL2pmT> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/0zbJ98Fx> .
+<https://id.parliament.uk/0zbJ98Fx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/3G3Z9dD9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/3G3Z9dD9> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/M53a89Sq> .
+<https://id.parliament.uk/M53a89Sq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/M53a89Sq> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/M53a89Sq> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/wSNDRyFA> .
+<https://id.parliament.uk/M53a89Sq> <https://id.parliament.uk/schema/questionHeading> "State Retirement Pensions: British Nationals Abroad" .
+<https://id.parliament.uk/M53a89Sq> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/tOniQphA> .
+<https://id.parliament.uk/tOniQphA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/wSNDRyFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/wSNDRyFA> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/mXz1viUw> .
+<https://id.parliament.uk/mXz1viUw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/mXz1viUw> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/mXz1viUw> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/ClmQGAkR> .
+<https://id.parliament.uk/mXz1viUw> <https://id.parliament.uk/schema/questionHeading> "State Retirement Pensions: British Nationals Abroad" .
+<https://id.parliament.uk/mXz1viUw> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/SJ8TwdJW> .
+<https://id.parliament.uk/SJ8TwdJW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ClmQGAkR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/ClmQGAkR> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/Xrm0oXat> .
+<https://id.parliament.uk/Xrm0oXat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/Xrm0oXat> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Xrm0oXat> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/ZDyyaDFm> .
+<https://id.parliament.uk/Xrm0oXat> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Staff" .
+<https://id.parliament.uk/Xrm0oXat> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/jSw9tUkA> .
+<https://id.parliament.uk/jSw9tUkA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ZDyyaDFm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/ZDyyaDFm> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/M8rXwdhs> .
+<https://id.parliament.uk/M8rXwdhs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/M8rXwdhs> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/M8rXwdhs> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/BXgrDSFO> .
+<https://id.parliament.uk/M8rXwdhs> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Working Hours" .
+<https://id.parliament.uk/M8rXwdhs> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/gthoKEN1> .
+<https://id.parliament.uk/gthoKEN1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/BXgrDSFO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/BXgrDSFO> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/8KV1QyoO> .
+<https://id.parliament.uk/8KV1QyoO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/8KV1QyoO> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8KV1QyoO> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/h6HlWoJO> .
+<https://id.parliament.uk/8KV1QyoO> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Staff" .
+<https://id.parliament.uk/8KV1QyoO> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/3kUHGULB> .
+<https://id.parliament.uk/3kUHGULB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/h6HlWoJO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/h6HlWoJO> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/1ZKXWLqQ> .
+<https://id.parliament.uk/1ZKXWLqQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/1ZKXWLqQ> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1ZKXWLqQ> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/yR583VTA> .
+<https://id.parliament.uk/1ZKXWLqQ> <https://id.parliament.uk/schema/questionHeading> "Work Capability Assessment" .
+<https://id.parliament.uk/1ZKXWLqQ> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/ufgBpUjo> .
+<https://id.parliament.uk/ufgBpUjo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/yR583VTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/yR583VTA> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/C3PZKhjF> .
+<https://id.parliament.uk/C3PZKhjF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/C3PZKhjF> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/C3PZKhjF> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/dEy4NV7q> .
+<https://id.parliament.uk/C3PZKhjF> <https://id.parliament.uk/schema/questionHeading> "Personal Independence Payment" .
+<https://id.parliament.uk/C3PZKhjF> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/64M50XlQ> .
+<https://id.parliament.uk/64M50XlQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/dEy4NV7q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/dEy4NV7q> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/vkyF6epX> .
+<https://id.parliament.uk/vkyF6epX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/vkyF6epX> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vkyF6epX> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/VYDvjE0F> .
+<https://id.parliament.uk/vkyF6epX> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Staff" .
+<https://id.parliament.uk/vkyF6epX> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/fRuK9C0e> .
+<https://id.parliament.uk/fRuK9C0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/VYDvjE0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/VYDvjE0F> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/KecjbIcT> .
+<https://id.parliament.uk/KecjbIcT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/KecjbIcT> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KecjbIcT> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/ii9ACmXv> .
+<https://id.parliament.uk/KecjbIcT> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Staff" .
+<https://id.parliament.uk/KecjbIcT> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/gpJ3FtSh> .
+<https://id.parliament.uk/gpJ3FtSh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ii9ACmXv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/ii9ACmXv> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/AMkdanEc> .
+<https://id.parliament.uk/AMkdanEc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/AMkdanEc> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AMkdanEc> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/Y9LHN7Q8> .
+<https://id.parliament.uk/AMkdanEc> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Staff" .
+<https://id.parliament.uk/AMkdanEc> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/F47oFHXp> .
+<https://id.parliament.uk/F47oFHXp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/Y9LHN7Q8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/Y9LHN7Q8> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/F2nwbFMs> .
+<https://id.parliament.uk/F2nwbFMs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/F2nwbFMs> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/F2nwbFMs> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/tkUdHBWH> .
+<https://id.parliament.uk/F2nwbFMs> <https://id.parliament.uk/schema/questionHeading> "Universal Credit" .
+<https://id.parliament.uk/F2nwbFMs> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/wtgAfsyW> .
+<https://id.parliament.uk/wtgAfsyW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/tkUdHBWH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/tkUdHBWH> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/HLLT3hI9> .
+<https://id.parliament.uk/HLLT3hI9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/HLLT3hI9> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HLLT3hI9> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/uHCTveuc> .
+<https://id.parliament.uk/HLLT3hI9> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Contracts" .
+<https://id.parliament.uk/HLLT3hI9> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/1us8IBDT> .
+<https://id.parliament.uk/1us8IBDT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/uHCTveuc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/uHCTveuc> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/Sx9E0BaI> .
+<https://id.parliament.uk/Sx9E0BaI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/Sx9E0BaI> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Sx9E0BaI> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/tM1Nc842> .
+<https://id.parliament.uk/Sx9E0BaI> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Contracts" .
+<https://id.parliament.uk/Sx9E0BaI> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/WYoMg8Xl> .
+<https://id.parliament.uk/WYoMg8Xl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/tM1Nc842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/tM1Nc842> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/BiUI9Ql9> .
+<https://id.parliament.uk/BiUI9Ql9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/BiUI9Ql9> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/BiUI9Ql9> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/NpnE2vJ8> .
+<https://id.parliament.uk/BiUI9Ql9> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Contracts" .
+<https://id.parliament.uk/BiUI9Ql9> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/qHNvzWLZ> .
+<https://id.parliament.uk/qHNvzWLZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/NpnE2vJ8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/NpnE2vJ8> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/rwGgkpJP> .
+<https://id.parliament.uk/rwGgkpJP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/rwGgkpJP> <https://id.parliament.uk/schema/questionAskedAt> "2018-02-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/rwGgkpJP> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/ieIH8HDD> .
+<https://id.parliament.uk/rwGgkpJP> <https://id.parliament.uk/schema/questionHeading> "Universal Credit: Self-employed" .
+<https://id.parliament.uk/rwGgkpJP> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/E9aeWOMh> .
+<https://id.parliament.uk/E9aeWOMh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ieIH8HDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/ieIH8HDD> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/QYlwG5oe> .
+<https://id.parliament.uk/QYlwG5oe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/QYlwG5oe> <https://id.parliament.uk/schema/questionAskedAt> "2018-01-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/QYlwG5oe> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/bZtJz3v1> .
+<https://id.parliament.uk/QYlwG5oe> <https://id.parliament.uk/schema/questionHeading> "Personal Independence Payment: Mental Health" .
+<https://id.parliament.uk/QYlwG5oe> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/4tvEvbnD> .
+<https://id.parliament.uk/4tvEvbnD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/bZtJz3v1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/bZtJz3v1> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/ZMxNVPC0> .
+<https://id.parliament.uk/ZMxNVPC0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/ZMxNVPC0> <https://id.parliament.uk/schema/questionAskedAt> "2018-01-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ZMxNVPC0> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/j0CZfbfZ> .
+<https://id.parliament.uk/ZMxNVPC0> <https://id.parliament.uk/schema/questionHeading> "Personal Independence Payment: Mental Health" .
+<https://id.parliament.uk/ZMxNVPC0> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/FOJz3x5Y> .
+<https://id.parliament.uk/FOJz3x5Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/j0CZfbfZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/j0CZfbfZ> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/3XyGjnzD> .
+<https://id.parliament.uk/3XyGjnzD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/3XyGjnzD> <https://id.parliament.uk/schema/questionAskedAt> "2018-01-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3XyGjnzD> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/nSxW152I> .
+<https://id.parliament.uk/3XyGjnzD> <https://id.parliament.uk/schema/questionHeading> "Personal Independence Payment: Mental Health" .
+<https://id.parliament.uk/3XyGjnzD> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/l3CxOEHS> .
+<https://id.parliament.uk/l3CxOEHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/nSxW152I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/nSxW152I> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/CoBWa3vn> .
+<https://id.parliament.uk/CoBWa3vn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/CoBWa3vn> <https://id.parliament.uk/schema/questionAskedAt> "2018-01-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/CoBWa3vn> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/I173ILx0> .
+<https://id.parliament.uk/CoBWa3vn> <https://id.parliament.uk/schema/questionHeading> "Personal Independence Payment: Mental Illness" .
+<https://id.parliament.uk/CoBWa3vn> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/Sl4wv2Xm> .
+<https://id.parliament.uk/Sl4wv2Xm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/I173ILx0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/I173ILx0> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/AEV6wQG1> .
+<https://id.parliament.uk/AEV6wQG1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/AEV6wQG1> <https://id.parliament.uk/schema/questionAskedAt> "2018-01-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AEV6wQG1> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/wvKq8gOu> .
+<https://id.parliament.uk/AEV6wQG1> <https://id.parliament.uk/schema/questionHeading> "Mesothelioma: Compensation" .
+<https://id.parliament.uk/AEV6wQG1> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/wzA52lbQ> .
+<https://id.parliament.uk/wzA52lbQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/wvKq8gOu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/wvKq8gOu> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/dTgUw6lw> .
+<https://id.parliament.uk/dTgUw6lw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/dTgUw6lw> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/dTgUw6lw> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/0iDplTR5> .
+<https://id.parliament.uk/dTgUw6lw> <https://id.parliament.uk/schema/questionHeading> "Employment: Cancer" .
+<https://id.parliament.uk/dTgUw6lw> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/1517T8CW> .
+<https://id.parliament.uk/1517T8CW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/0iDplTR5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/0iDplTR5> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/Sw4L1aJz> .
+<https://id.parliament.uk/Sw4L1aJz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/Sw4L1aJz> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Sw4L1aJz> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/oQ7PdqUr> .
+<https://id.parliament.uk/Sw4L1aJz> <https://id.parliament.uk/schema/questionHeading> "Employment: Mental Illness" .
+<https://id.parliament.uk/Sw4L1aJz> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/WAUKIVoj> .
+<https://id.parliament.uk/WAUKIVoj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/oQ7PdqUr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/oQ7PdqUr> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/chgzWhwb> .
+<https://id.parliament.uk/chgzWhwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/chgzWhwb> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/chgzWhwb> <https://id.parliament.uk/schema/questionHeading> "Dental Services: Older People" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/VxZn73ji> .
+<https://id.parliament.uk/VxZn73ji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/VxZn73ji> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VxZn73ji> <https://id.parliament.uk/schema/questionHeading> "Dental Services: Older People" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/tx5CXkrK> .
+<https://id.parliament.uk/tx5CXkrK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/tx5CXkrK> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/tx5CXkrK> <https://id.parliament.uk/schema/questionHeading> "Dental Health: Surveys" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/3CR8Ot2V> .
+<https://id.parliament.uk/3CR8Ot2V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/3CR8Ot2V> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3CR8Ot2V> <https://id.parliament.uk/schema/questionHeading> "Dementia: Training" .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/1KFFPYUt> .
+<https://id.parliament.uk/1KFFPYUt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/1KFFPYUt> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1KFFPYUt> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/d0qw44pZ> .
+<https://id.parliament.uk/1KFFPYUt> <https://id.parliament.uk/schema/questionHeading> "Employment" .
+<https://id.parliament.uk/1KFFPYUt> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/ChdA0BoY> .
+<https://id.parliament.uk/ChdA0BoY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/d0qw44pZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/d0qw44pZ> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/k4bUbY8A> .
+<https://id.parliament.uk/k4bUbY8A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/k4bUbY8A> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/k4bUbY8A> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/jVzAdTXw> .
+<https://id.parliament.uk/k4bUbY8A> <https://id.parliament.uk/schema/questionHeading> "Employment and Support Allowance" .
+<https://id.parliament.uk/k4bUbY8A> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/FVoPgUbO> .
+<https://id.parliament.uk/FVoPgUbO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/jVzAdTXw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/jVzAdTXw> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/BUWsdIVj> .
+<https://id.parliament.uk/BUWsdIVj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/BUWsdIVj> <https://id.parliament.uk/schema/questionAskedAt> "2017-11-17+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/BUWsdIVj> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/ndIPWuq5> .
+<https://id.parliament.uk/BUWsdIVj> <https://id.parliament.uk/schema/questionHeading> "Employment and Support Allowance" .
+<https://id.parliament.uk/BUWsdIVj> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/3YJwYE37> .
+<https://id.parliament.uk/3YJwYE37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ndIPWuq5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/ndIPWuq5> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/wkhIBIJj> .
+<https://id.parliament.uk/wkhIBIJj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/wkhIBIJj> <https://id.parliament.uk/schema/questionAskedAt> "2017-10-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wkhIBIJj> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/KvbqdHhw> .
+<https://id.parliament.uk/wkhIBIJj> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Telephone Services" .
+<https://id.parliament.uk/wkhIBIJj> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/bZT4ATXz> .
+<https://id.parliament.uk/bZT4ATXz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/KvbqdHhw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/KvbqdHhw> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
+<https://id.parliament.uk/CG2kvvRt> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/pFUWVbEn> .
+<https://id.parliament.uk/pFUWVbEn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/pFUWVbEn> <https://id.parliament.uk/schema/questionAskedAt> "2017-10-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/pFUWVbEn> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/znl2zW5w> .
+<https://id.parliament.uk/pFUWVbEn> <https://id.parliament.uk/schema/questionHeading> "Department for Work and Pensions: Telephone Services" .
+<https://id.parliament.uk/pFUWVbEn> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/f10bEysA> .
+<https://id.parliament.uk/f10bEysA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/znl2zW5w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/znl2zW5w> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/XbTBTDMo> .
