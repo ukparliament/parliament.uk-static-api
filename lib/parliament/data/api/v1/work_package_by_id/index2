@@ -1,0 +1,420 @@
+<https://id.parliament.uk/F7f4F0bp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/F7f4F0bp> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/WDlhym6A> .
+<https://id.parliament.uk/F7f4F0bp> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/WDlhym6A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingName> "Andrey Lugovoy and Dmitri Kovtun Freezing Order 2018" .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/60/made> .
+<https://id.parliament.uk/iWugpxMn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/iWugpxMn> <https://id.parliament.uk/schema/procedureName> "Made Affirmative" .
+<https://id.parliament.uk/ORYEPBmc> <https://example.com/enables> <https://id.parliament.uk/pX6JXPJ3> .
+<https://id.parliament.uk/ORYEPBmc> <https://example.com/canLeadTo> <https://id.parliament.uk/pX6JXPJ3> .
+<https://id.parliament.uk/pX6JXPJ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/pX6JXPJ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/pX6JXPJ3> <https://id.parliament.uk/schema/procedureStepName> "Instrument rejected" .
+<https://id.parliament.uk/pX6JXPJ3> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/enables> <https://id.parliament.uk/lDpFMzex> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/canLeadTo> <https://id.parliament.uk/lDpFMzex> .
+<https://id.parliament.uk/lDpFMzex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/lDpFMzex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/lDpFMzex> <https://id.parliament.uk/schema/procedureStepName> "Fatal amendment motion decision" .
+<https://id.parliament.uk/lDpFMzex> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/enables> <https://id.parliament.uk/sD2Tu3S7> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/canLeadTo> <https://id.parliament.uk/sD2Tu3S7> .
+<https://id.parliament.uk/sD2Tu3S7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/sD2Tu3S7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/sD2Tu3S7> <https://id.parliament.uk/schema/procedureStepName> "Non-fatal motion decision" .
+<https://id.parliament.uk/sD2Tu3S7> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/enables> <https://id.parliament.uk/Te5alY3F> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/canLeadTo> <https://id.parliament.uk/Te5alY3F> .
+<https://id.parliament.uk/Te5alY3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/Te5alY3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/Te5alY3F> <https://id.parliament.uk/schema/procedureStepName> "Regret motion withdrawn" .
+<https://id.parliament.uk/Te5alY3F> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/enables> <https://id.parliament.uk/Wn3APPzz> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/canLeadTo> <https://id.parliament.uk/Wn3APPzz> .
+<https://id.parliament.uk/Wn3APPzz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/Wn3APPzz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/Wn3APPzz> <https://id.parliament.uk/schema/procedureStepName> "Regret motion decision" .
+<https://id.parliament.uk/Wn3APPzz> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/nVheFQgh> <https://example.com/enables> <https://id.parliament.uk/FYeLHMEw> .
+<https://id.parliament.uk/nVheFQgh> <https://example.com/canLeadTo> <https://id.parliament.uk/FYeLHMEw> .
+<https://id.parliament.uk/FYeLHMEw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/FYeLHMEw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/FYeLHMEw> <https://id.parliament.uk/schema/procedureStepName> "Approved by both Houses" .
+<https://id.parliament.uk/FYeLHMEw> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
+<https://id.parliament.uk/FYeLHMEw> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/dnWpdwUf> <https://example.com/enables> <https://id.parliament.uk/FYeLHMEw> .
+<https://id.parliament.uk/dnWpdwUf> <https://example.com/canLeadTo> <https://id.parliament.uk/FYeLHMEw> .
+<https://id.parliament.uk/OM5fjnQ3> <https://example.com/enables> <https://id.parliament.uk/NbKKmFjs> .
+<https://id.parliament.uk/OM5fjnQ3> <https://example.com/canLeadTo> <https://id.parliament.uk/NbKKmFjs> .
+<https://id.parliament.uk/NbKKmFjs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/NbKKmFjs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/NbKKmFjs> <https://id.parliament.uk/schema/procedureStepName> "Coming out of force" .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/enables> <https://id.parliament.uk/5ZzUquaT> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/canLeadTo> <https://id.parliament.uk/5ZzUquaT> .
+<https://id.parliament.uk/5ZzUquaT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/5ZzUquaT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/5ZzUquaT> <https://id.parliament.uk/schema/procedureStepName> "JCSI scrutiny reserve suspended (SO73)" .
+<https://id.parliament.uk/5ZzUquaT> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/No1qmqJ4> <https://example.com/enables> <https://id.parliament.uk/Ksnj7JJ8> .
+<https://id.parliament.uk/No1qmqJ4> <https://example.com/canLeadTo> <https://id.parliament.uk/Ksnj7JJ8> .
+<https://id.parliament.uk/Ksnj7JJ8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/Ksnj7JJ8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/Ksnj7JJ8> <https://id.parliament.uk/schema/procedureStepName> "End of time limit for approval" .
+<https://id.parliament.uk/Ksnj7JJ8> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/Ksnj7JJ8> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/enables> <https://id.parliament.uk/DDN0Bdp5> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/canLeadTo> <https://id.parliament.uk/DDN0Bdp5> .
+<https://id.parliament.uk/DDN0Bdp5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/DDN0Bdp5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/DDN0Bdp5> <https://id.parliament.uk/schema/procedureStepName> "Certified as England Only under English Votes for English Law" .
+<https://id.parliament.uk/DDN0Bdp5> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/enables> <https://id.parliament.uk/kBOXHIxX> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/canLeadTo> <https://id.parliament.uk/kBOXHIxX> .
+<https://id.parliament.uk/kBOXHIxX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/kBOXHIxX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/kBOXHIxX> <https://id.parliament.uk/schema/procedureStepName> "Certified as England and Wales Only under English Votes for English Law" .
+<https://id.parliament.uk/kBOXHIxX> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/enables> <https://id.parliament.uk/qtDMKvC4> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/canLeadTo> <https://id.parliament.uk/qtDMKvC4> .
+<https://id.parliament.uk/qtDMKvC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/qtDMKvC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/qtDMKvC4> <https://id.parliament.uk/schema/procedureStepName> "Not certified under English Votes for English Law" .
+<https://id.parliament.uk/qtDMKvC4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/enables> <https://id.parliament.uk/sE6lpbyD> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/canLeadTo> <https://id.parliament.uk/sE6lpbyD> .
+<https://id.parliament.uk/sE6lpbyD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/sE6lpbyD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/sE6lpbyD> <https://id.parliament.uk/schema/procedureStepName> "Certified as England, Wales and Northern Ireland Only under English Votes for English Law" .
+<https://id.parliament.uk/sE6lpbyD> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/yDIJT51q> <https://example.com/enables> <https://id.parliament.uk/o3KM0Xvt> .
+<https://id.parliament.uk/yDIJT51q> <https://example.com/canLeadTo> <https://id.parliament.uk/o3KM0Xvt> .
+<https://id.parliament.uk/o3KM0Xvt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/o3KM0Xvt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/o3KM0Xvt> <https://id.parliament.uk/schema/procedureStepName> "Fatal amendment motion withdrawn" .
+<https://id.parliament.uk/o3KM0Xvt> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/enables> <https://id.parliament.uk/WdiOAL9I> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/canLeadTo> <https://id.parliament.uk/WdiOAL9I> .
+<https://id.parliament.uk/WdiOAL9I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/WdiOAL9I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/WdiOAL9I> <https://id.parliament.uk/schema/procedureStepName> "Scheduled for debate in the Commons Chamber" .
+<https://id.parliament.uk/WdiOAL9I> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/enables> <https://id.parliament.uk/qELp3R9D> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/canLeadTo> <https://id.parliament.uk/qELp3R9D> .
+<https://id.parliament.uk/qELp3R9D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/qELp3R9D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Possible> .
+<https://id.parliament.uk/qELp3R9D> <https://id.parliament.uk/schema/procedureStepName> "Regret motion" .
+<https://id.parliament.uk/qELp3R9D> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/67vIeIa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/67vIeIa9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/ORYEPBmc> .
+<https://id.parliament.uk/67vIeIa9> <https://id.parliament.uk/schema/businessItemDate> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/67vIeIa9> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://hansard.parliament.uk/Lords/2018-02-20/debates/1847F2DA-FF8D-4807-ABA1-6F2D483BA3EC/AndreyLugovoyAndDmitriKovtunFreezingOrder2018#contribution-22B1B78C-4BB5-4274-822C-D66DBA8084CE> .
+<https://id.parliament.uk/ORYEPBmc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/ORYEPBmc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/ORYEPBmc> <https://id.parliament.uk/schema/procedureStepName> "Approval motion decision" .
+<https://id.parliament.uk/ORYEPBmc> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/ORYEPBmc> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/67vIeIa9> .
+<https://id.parliament.uk/ORYEPBmc> <https://example.com/ledTo> <https://id.parliament.uk/nVheFQgh> .
+<https://id.parliament.uk/ORYEPBmc> <https://example.com/canLeadTo> <https://id.parliament.uk/nVheFQgh> .
+<https://id.parliament.uk/67vIeIa9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/vOCSRhjw> .
+<https://id.parliament.uk/vOCSRhjw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/vOCSRhjw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/vOCSRhjw> <https://id.parliament.uk/schema/procedureStepName> "Lords Chamber debate" .
+<https://id.parliament.uk/vOCSRhjw> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/vOCSRhjw> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/67vIeIa9> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/ledTo> <https://id.parliament.uk/ORYEPBmc> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/canLeadTo> <https://id.parliament.uk/ORYEPBmc> .
+<https://id.parliament.uk/67vIeIa9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/nVheFQgh> .
+<https://id.parliament.uk/nVheFQgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/nVheFQgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/nVheFQgh> <https://id.parliament.uk/schema/procedureStepName> "Instrument approved" .
+<https://id.parliament.uk/nVheFQgh> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/nVheFQgh> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/67vIeIa9> .
+<https://id.parliament.uk/xCCGPwty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/xCCGPwty> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/nveorPPO> .
+<https://id.parliament.uk/xCCGPwty> <https://id.parliament.uk/schema/businessItemDate> "2018-02-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xCCGPwty> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://hansard.parliament.uk/Commons/2018-02-20/debates/8DBD3048-1A1D-4843-9A9F-99AF7DE70C7C/DelegatedLegislation> .
+<https://id.parliament.uk/nveorPPO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/nveorPPO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/nveorPPO> <https://id.parliament.uk/schema/procedureStepName> "Approval motion decision" .
+<https://id.parliament.uk/nveorPPO> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/nveorPPO> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/xCCGPwty> .
+<https://id.parliament.uk/nveorPPO> <https://example.com/ledTo> <https://id.parliament.uk/dnWpdwUf> .
+<https://id.parliament.uk/nveorPPO> <https://example.com/canLeadTo> <https://id.parliament.uk/dnWpdwUf> .
+<https://id.parliament.uk/xCCGPwty> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/dnWpdwUf> .
+<https://id.parliament.uk/dnWpdwUf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/dnWpdwUf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/dnWpdwUf> <https://id.parliament.uk/schema/procedureStepName> "Instrument approved" .
+<https://id.parliament.uk/dnWpdwUf> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/dnWpdwUf> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/xCCGPwty> .
+<https://id.parliament.uk/l0fUruCg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/l0fUruCg> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/JcCYkCt7> .
+<https://id.parliament.uk/l0fUruCg> <https://id.parliament.uk/schema/businessItemDate> "2018-01-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/l0fUruCg> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/ld201719/ldselect/ldsecleg/71/7105.htm> .
+<https://id.parliament.uk/JcCYkCt7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/JcCYkCt7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/JcCYkCt7> <https://id.parliament.uk/schema/procedureStepName> "Consideration concluded by the Secondary Legislation Scrutiny Committee" .
+<https://id.parliament.uk/JcCYkCt7> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/JcCYkCt7> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/l0fUruCg> .
+<https://id.parliament.uk/JcCYkCt7> <https://example.com/ledTo> <https://id.parliament.uk/2Etk3rF5> .
+<https://id.parliament.uk/JcCYkCt7> <https://example.com/canLeadTo> <https://id.parliament.uk/2Etk3rF5> .
+<https://id.parliament.uk/l0fUruCg> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/MUdsWgMn> .
+<https://id.parliament.uk/MUdsWgMn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/MUdsWgMn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/MUdsWgMn> <https://id.parliament.uk/schema/procedureStepName> "Consideration by the Secondary Legislation Scrutiny Committee" .
+<https://id.parliament.uk/MUdsWgMn> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/MUdsWgMn> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/l0fUruCg> .
+<https://id.parliament.uk/MUdsWgMn> <https://example.com/ledTo> <https://id.parliament.uk/JcCYkCt7> .
+<https://id.parliament.uk/MUdsWgMn> <https://example.com/canLeadTo> <https://id.parliament.uk/JcCYkCt7> .
+<https://id.parliament.uk/l0fUruCg> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/2Etk3rF5> .
+<https://id.parliament.uk/2Etk3rF5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/2Etk3rF5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/2Etk3rF5> <https://id.parliament.uk/schema/procedureStepName> "Cleared by the Secondary Legislation Scrutiny Committee" .
+<https://id.parliament.uk/2Etk3rF5> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/2Etk3rF5> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/l0fUruCg> .
+<https://id.parliament.uk/2Etk3rF5> <https://example.com/ledTo> <https://id.parliament.uk/mHLm3KY7> .
+<https://id.parliament.uk/2Etk3rF5> <https://example.com/canLeadTo> <https://id.parliament.uk/mHLm3KY7> .
+<https://id.parliament.uk/KLzfGm71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/KLzfGm71> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/qGFQ35jt> .
+<https://id.parliament.uk/KLzfGm71> <https://id.parliament.uk/schema/businessItemDate> "2018-01-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KLzfGm71> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/ld201719/ldselect/ldsecleg/71/7104.htm> .
+<https://id.parliament.uk/qGFQ35jt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/qGFQ35jt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/qGFQ35jt> <https://id.parliament.uk/schema/procedureStepName> "Consideration concluded by the Select Committee on Statutory Instruments" .
+<https://id.parliament.uk/qGFQ35jt> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/qGFQ35jt> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/KLzfGm71> .
+<https://id.parliament.uk/qGFQ35jt> <https://example.com/ledTo> <https://id.parliament.uk/lwlTPsiJ> .
+<https://id.parliament.uk/qGFQ35jt> <https://example.com/canLeadTo> <https://id.parliament.uk/lwlTPsiJ> .
+<https://id.parliament.uk/KLzfGm71> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/zQrAQfxB> .
+<https://id.parliament.uk/zQrAQfxB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/zQrAQfxB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/zQrAQfxB> <https://id.parliament.uk/schema/procedureStepName> "Consideration by the Select Committee on Statutory Instruments" .
+<https://id.parliament.uk/zQrAQfxB> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/zQrAQfxB> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/KLzfGm71> .
+<https://id.parliament.uk/zQrAQfxB> <https://example.com/ledTo> <https://id.parliament.uk/qGFQ35jt> .
+<https://id.parliament.uk/zQrAQfxB> <https://example.com/canLeadTo> <https://id.parliament.uk/qGFQ35jt> .
+<https://id.parliament.uk/KLzfGm71> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/lwlTPsiJ> .
+<https://id.parliament.uk/lwlTPsiJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/lwlTPsiJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/lwlTPsiJ> <https://id.parliament.uk/schema/procedureStepName> "Reported on by the Select Committee on Statutory Instruments" .
+<https://id.parliament.uk/lwlTPsiJ> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/lwlTPsiJ> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/KLzfGm71> .
+<https://id.parliament.uk/vgLniHaM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/vgLniHaM> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/OM5fjnQ3> .
+<https://id.parliament.uk/vgLniHaM> <https://id.parliament.uk/schema/businessItemDate> "2018-01-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vgLniHaM> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://www.legislation.gov.uk/uksi/2018/60/made> .
+<https://id.parliament.uk/OM5fjnQ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/OM5fjnQ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/OM5fjnQ3> <https://id.parliament.uk/schema/procedureStepName> "Coming into force" .
+<https://id.parliament.uk/OM5fjnQ3> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/vgLniHaM> .
+<https://id.parliament.uk/nI9LkUv5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/nI9LkUv5> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/e9G2vHbc> .
+<https://id.parliament.uk/nI9LkUv5> <https://id.parliament.uk/schema/businessItemDate> "2018-01-31+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nI9LkUv5> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/jt201719/jtselect/jtstatin/72/7205.htm#_idTextAnchor029> .
+<https://id.parliament.uk/e9G2vHbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/e9G2vHbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/e9G2vHbc> <https://id.parliament.uk/schema/procedureStepName> "Consideration by the Joint Committee on Statutory Instruments" .
+<https://id.parliament.uk/e9G2vHbc> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/e9G2vHbc> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/nI9LkUv5> .
+<https://id.parliament.uk/e9G2vHbc> <https://example.com/ledTo> <https://id.parliament.uk/9ouoghbQ> .
+<https://id.parliament.uk/e9G2vHbc> <https://example.com/canLeadTo> <https://id.parliament.uk/9ouoghbQ> .
+<https://id.parliament.uk/e9G2vHbc> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/nI9LkUv5> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/9ouoghbQ> .
+<https://id.parliament.uk/9ouoghbQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/9ouoghbQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/9ouoghbQ> <https://id.parliament.uk/schema/procedureStepName> "Consideration concluded by the Joint Committee on Statutory Instruments" .
+<https://id.parliament.uk/9ouoghbQ> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/9ouoghbQ> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/nI9LkUv5> .
+<https://id.parliament.uk/9ouoghbQ> <https://example.com/ledTo> <https://id.parliament.uk/j7oLnCke> .
+<https://id.parliament.uk/9ouoghbQ> <https://example.com/canLeadTo> <https://id.parliament.uk/j7oLnCke> .
+<https://id.parliament.uk/9ouoghbQ> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/nI9LkUv5> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/j7oLnCke> .
+<https://id.parliament.uk/j7oLnCke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/j7oLnCke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/j7oLnCke> <https://id.parliament.uk/schema/procedureStepName> "Cleared by the Joint Committee on Statutory Instruments" .
+<https://id.parliament.uk/j7oLnCke> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/j7oLnCke> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/nI9LkUv5> .
+<https://id.parliament.uk/j7oLnCke> <https://example.com/ledTo> <https://id.parliament.uk/sS3x4ME4> .
+<https://id.parliament.uk/j7oLnCke> <https://example.com/canLeadTo> <https://id.parliament.uk/sS3x4ME4> .
+<https://id.parliament.uk/j7oLnCke> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/HQp7XIfj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/HQp7XIfj> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/FLHAXypO> .
+<https://id.parliament.uk/HQp7XIfj> <https://id.parliament.uk/schema/businessItemDate> "2018-02-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HQp7XIfj> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://hansard.parliament.uk/Commons/2018-02-08/debates/6a1e3970-c2ec-416b-a953-7d16df279124/AndreyLugovoyAndDmitriKovtunFreezingOrder2018> .
+<https://id.parliament.uk/FLHAXypO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/FLHAXypO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/FLHAXypO> <https://id.parliament.uk/schema/procedureStepName> "Delegated Legislation Committee debate" .
+<https://id.parliament.uk/FLHAXypO> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/FLHAXypO> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/HQp7XIfj> .
+<https://id.parliament.uk/FLHAXypO> <https://example.com/ledTo> <https://id.parliament.uk/nveorPPO> .
+<https://id.parliament.uk/FLHAXypO> <https://example.com/canLeadTo> <https://id.parliament.uk/nveorPPO> .
+<https://id.parliament.uk/X1r7Widq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemDate> "2018-01-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/cm201719/cmvote/180119v01.html> .
+<https://id.parliament.uk/cspzmb6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/cspzmb6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepName> "Laid before the House of Commons" .
+<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/X1r7Widq> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/ledTo> <https://id.parliament.uk/W4Sgl6Do> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/canLeadTo> <https://id.parliament.uk/W4Sgl6Do> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/ledTo> <https://id.parliament.uk/zQrAQfxB> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/canLeadTo> <https://id.parliament.uk/zQrAQfxB> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/ledTo> <https://id.parliament.uk/e9G2vHbc> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/canLeadTo> <https://id.parliament.uk/e9G2vHbc> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/ledTo> <https://id.parliament.uk/O5QdnmSL> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/canLeadTo> <https://id.parliament.uk/O5QdnmSL> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/puVMaN7t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/puVMaN7t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/puVMaN7t> <https://id.parliament.uk/schema/procedureStepName> "Laid before the House of Lords" .
+<https://id.parliament.uk/puVMaN7t> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/puVMaN7t> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/X1r7Widq> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/ledTo> <https://id.parliament.uk/e9G2vHbc> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/canLeadTo> <https://id.parliament.uk/e9G2vHbc> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/ledTo> <https://id.parliament.uk/MUdsWgMn> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/canLeadTo> <https://id.parliament.uk/MUdsWgMn> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/JqzvdWEL> .
+<https://id.parliament.uk/JqzvdWEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/JqzvdWEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/JqzvdWEL> <https://id.parliament.uk/schema/procedureStepName> "Made" .
+<https://id.parliament.uk/JqzvdWEL> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/X1r7Widq> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/ledTo> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/canLeadTo> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/ledTo> <https://id.parliament.uk/No1qmqJ4> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/canLeadTo> <https://id.parliament.uk/No1qmqJ4> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/ledTo> <https://id.parliament.uk/OM5fjnQ3> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/canLeadTo> <https://id.parliament.uk/OM5fjnQ3> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/ledTo> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/canLeadTo> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/No1qmqJ4> .
+<https://id.parliament.uk/No1qmqJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/No1qmqJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepName> "Start of time limit for approval" .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/X1r7Widq> .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/ofKqmAy3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/ofKqmAy3> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/O5QdnmSL> .
+<https://id.parliament.uk/O5QdnmSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/O5QdnmSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/O5QdnmSL> <https://id.parliament.uk/schema/procedureStepName> "Considered for English Votes for English Laws certification by the Speaker" .
+<https://id.parliament.uk/O5QdnmSL> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/O5QdnmSL> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/ofKqmAy3> .
+<https://id.parliament.uk/1O1jjxeY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/1O1jjxeY> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/sS3x4ME4> .
+<https://id.parliament.uk/1O1jjxeY> <https://id.parliament.uk/schema/businessItemDate> "2018-02-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1O1jjxeY> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://lordsbusiness.parliament.uk/Documents/Download?documentId=1293&filename=HLBIZ%2020180201.pdf> .
+<https://id.parliament.uk/sS3x4ME4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/sS3x4ME4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/sS3x4ME4> <https://id.parliament.uk/schema/procedureStepName> "JCSI scrutiny reserve lifted" .
+<https://id.parliament.uk/sS3x4ME4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/sS3x4ME4> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/1O1jjxeY> .
+<https://id.parliament.uk/sS3x4ME4> <https://example.com/ledTo> <https://id.parliament.uk/mHLm3KY7> .
+<https://id.parliament.uk/sS3x4ME4> <https://example.com/canLeadTo> <https://id.parliament.uk/mHLm3KY7> .
+<https://id.parliament.uk/HLYrk561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/HLYrk561> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/yDIJT51q> .
+<https://id.parliament.uk/yDIJT51q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/yDIJT51q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/yDIJT51q> <https://id.parliament.uk/schema/procedureStepName> "Fatal amendment motion" .
+<https://id.parliament.uk/yDIJT51q> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/yDIJT51q> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/HLYrk561> .
+<https://id.parliament.uk/yDIJT51q> <https://example.com/ledTo> <https://id.parliament.uk/bEzmXakv> .
+<https://id.parliament.uk/yDIJT51q> <https://example.com/canLeadTo> <https://id.parliament.uk/bEzmXakv> .
+<https://id.parliament.uk/sFW7opW4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/sFW7opW4> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/W4Sgl6Do> .
+<https://id.parliament.uk/sFW7opW4> <https://id.parliament.uk/schema/businessItemDate> "2018-01-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sFW7opW4> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/cm201719/cmagenda/fb180122.htm> .
+<https://id.parliament.uk/W4Sgl6Do> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/W4Sgl6Do> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/W4Sgl6Do> <https://id.parliament.uk/schema/procedureStepName> "Approval motion tabled" .
+<https://id.parliament.uk/W4Sgl6Do> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/W4Sgl6Do> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/sFW7opW4> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/ledTo> <https://id.parliament.uk/O5QdnmSL> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/canLeadTo> <https://id.parliament.uk/O5QdnmSL> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/ledTo> <https://id.parliament.uk/M28y2NsI> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/canLeadTo> <https://id.parliament.uk/M28y2NsI> .
+<https://id.parliament.uk/hBxNhq3Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/hBxNhq3Z> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/mHLm3KY7> .
+<https://id.parliament.uk/hBxNhq3Z> <https://id.parliament.uk/schema/businessItemDate> "2018-01-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hBxNhq3Z> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://lordsbusiness.parliament.uk/?businessPaperDate=2018-01-23&sectionId=54> .
+<https://id.parliament.uk/mHLm3KY7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/mHLm3KY7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/mHLm3KY7> <https://id.parliament.uk/schema/procedureStepName> "Approval motion tabled" .
+<https://id.parliament.uk/mHLm3KY7> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/mHLm3KY7> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/hBxNhq3Z> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/ledTo> <https://id.parliament.uk/bEzmXakv> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/canLeadTo> <https://id.parliament.uk/bEzmXakv> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/ledTo> <https://id.parliament.uk/yDIJT51q> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/canLeadTo> <https://id.parliament.uk/yDIJT51q> .
+<https://id.parliament.uk/Xv1aoyTy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/Xv1aoyTy> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/bEzmXakv> .
+<https://id.parliament.uk/Xv1aoyTy> <https://id.parliament.uk/schema/businessItemDate> "2018-02-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Xv1aoyTy> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://lordsbusiness.parliament.uk/Documents/Download?documentId=1303&filename=HLBusiness.pdf> .
+<https://id.parliament.uk/bEzmXakv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/bEzmXakv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/bEzmXakv> <https://id.parliament.uk/schema/procedureStepName> "Scheduled for debate in the Lords Chamber" .
+<https://id.parliament.uk/bEzmXakv> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/bEzmXakv> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/Xv1aoyTy> .
+<https://id.parliament.uk/bEzmXakv> <https://example.com/ledTo> <https://id.parliament.uk/vOCSRhjw> .
+<https://id.parliament.uk/bEzmXakv> <https://example.com/canLeadTo> <https://id.parliament.uk/vOCSRhjw> .
+<https://id.parliament.uk/ifX7RRCK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/ifX7RRCK> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/M28y2NsI> .
+<https://id.parliament.uk/ifX7RRCK> <https://id.parliament.uk/schema/businessItemDate> "2018-02-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ifX7RRCK> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/cm201719/cmagenda/OP180208v2.pdf> .
+<https://id.parliament.uk/M28y2NsI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/M28y2NsI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Actualized> .
+<https://id.parliament.uk/M28y2NsI> <https://id.parliament.uk/schema/procedureStepName> "Scheduled for debate in a Delegated Legislation Committee" .
+<https://id.parliament.uk/M28y2NsI> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/M28y2NsI> <https://id.parliament.uk/schema/procedureStepHasBusinessItem> <https://id.parliament.uk/ifX7RRCK> .
+<https://id.parliament.uk/M28y2NsI> <https://example.com/ledTo> <https://id.parliament.uk/FLHAXypO> .
+<https://id.parliament.uk/M28y2NsI> <https://example.com/canLeadTo> <https://id.parliament.uk/FLHAXypO> .
+<https://id.parliament.uk/JqzvdWEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://example.com/Root> .
+<https://id.parliament.uk/JqzvdWEL> <https://example.com/distance> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/cspzmb6w> <https://example.com/distance> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/W4Sgl6Do> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/WdiOAL9I> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/O5QdnmSL> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DDN0Bdp5> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/kBOXHIxX> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/qtDMKvC4> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/sE6lpbyD> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/M28y2NsI> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FLHAXypO> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/nveorPPO> <https://example.com/distance> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/dnWpdwUf> <https://example.com/distance> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/FYeLHMEw> <https://example.com/distance> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/zQrAQfxB> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/qGFQ35jt> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/lwlTPsiJ> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/e9G2vHbc> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/9ouoghbQ> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/j7oLnCke> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/sS3x4ME4> <https://example.com/distance> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/mHLm3KY7> <https://example.com/distance> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/qELp3R9D> <https://example.com/distance> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/bEzmXakv> <https://example.com/distance> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/vOCSRhjw> <https://example.com/distance> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/lDpFMzex> <https://example.com/distance> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/sD2Tu3S7> <https://example.com/distance> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/Te5alY3F> <https://example.com/distance> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/Wn3APPzz> <https://example.com/distance> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/ORYEPBmc> <https://example.com/distance> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/pX6JXPJ3> <https://example.com/distance> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/nVheFQgh> <https://example.com/distance> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/yDIJT51q> <https://example.com/distance> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/o3KM0Xvt> <https://example.com/distance> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/No1qmqJ4> <https://example.com/distance> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/Ksnj7JJ8> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/OM5fjnQ3> <https://example.com/distance> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/NbKKmFjs> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/puVMaN7t> <https://example.com/distance> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/5ZzUquaT> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/MUdsWgMn> <https://example.com/distance> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/JcCYkCt7> <https://example.com/distance> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/2Etk3rF5> <https://example.com/distance> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .

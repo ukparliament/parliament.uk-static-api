@@ -1,0 +1,74 @@
+<https://id.parliament.uk/5S6p4YsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureName> "Made Negative" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/CERw4sxU> .
+<https://id.parliament.uk/CERw4sxU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/CERw4sxU> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/8lYUKjib> .
+<https://id.parliament.uk/CERw4sxU> <https://example.com/oldestBusinessItemDate> "2017-09-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8lYUKjib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/workPackageableThingName> "Lobsters and Crawfish (Prohibition of Fishing and Landing) (Amendment) (England) Order 2017 " .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/PjQFqiyZ> .
+<https://id.parliament.uk/PjQFqiyZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/PjQFqiyZ> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/yxN0RDlj> .
+<https://id.parliament.uk/PjQFqiyZ> <https://example.com/oldestBusinessItemDate> "2018-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/yxN0RDlj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/yxN0RDlj> <https://id.parliament.uk/schema/workPackageableThingName> "Rating Lists (Valuation Date) (England) Order 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/lq49zoKs> .
+<https://id.parliament.uk/lq49zoKs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/lq49zoKs> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/LFLdzMuO> .
+<https://id.parliament.uk/lq49zoKs> <https://example.com/oldestBusinessItemDate> "2018-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LFLdzMuO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/LFLdzMuO> <https://id.parliament.uk/schema/workPackageableThingName> "The Enterprise Act 2002 (Turnover Test) (Amendment) Order 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/I4duwcuB> .
+<https://id.parliament.uk/I4duwcuB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/I4duwcuB> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/bS94erG6> .
+<https://id.parliament.uk/I4duwcuB> <https://example.com/oldestBusinessItemDate> "2018-05-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bS94erG6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/bS94erG6> <https://id.parliament.uk/schema/workPackageableThingName> "Criminal Legal Aid (Amendment) Regulations 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/KAaIQyCC> .
+<https://id.parliament.uk/KAaIQyCC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/KAaIQyCC> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/upP2FHa4> .
+<https://id.parliament.uk/KAaIQyCC> <https://example.com/oldestBusinessItemDate> "2018-05-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/upP2FHa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/upP2FHa4> <https://id.parliament.uk/schema/workPackageableThingName> "Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/HEvio9nu> .
+<https://id.parliament.uk/HEvio9nu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/HEvio9nu> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/FoUx7Oxo> .
+<https://id.parliament.uk/HEvio9nu> <https://example.com/oldestBusinessItemDate> "2017-05-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/FoUx7Oxo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/workPackageableThingName> "Common Agricultural Policy (Control and Enforcement, Cross-compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/26Y9ftes> .
+<https://id.parliament.uk/26Y9ftes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/26Y9ftes> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/Q2dC6z5O> .
+<https://id.parliament.uk/26Y9ftes> <https://example.com/oldestBusinessItemDate> "2018-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Q2dC6z5O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/Q2dC6z5O> <https://id.parliament.uk/schema/workPackageableThingName> "Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/Ix8dPawU> .
+<https://id.parliament.uk/Ix8dPawU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/Ix8dPawU> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/9PfnbabC> .
+<https://id.parliament.uk/Ix8dPawU> <https://example.com/oldestBusinessItemDate> "2018-05-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/9PfnbabC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/9PfnbabC> <https://id.parliament.uk/schema/workPackageableThingName> "Road Vehicles (Construction and Use) (Amendment) Regulations 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/0ifq7ERi> .
+<https://id.parliament.uk/0ifq7ERi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/0ifq7ERi> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/5U4yBcY4> .
+<https://id.parliament.uk/0ifq7ERi> <https://example.com/oldestBusinessItemDate> "2018-05-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5U4yBcY4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/5U4yBcY4> <https://id.parliament.uk/schema/workPackageableThingName> "Personal Independence Payment (Amendment) Regulations (Northern Ireland) 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/E5XlAFS8> .
+<https://id.parliament.uk/E5XlAFS8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/E5XlAFS8> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/HJ7BlYte> .
+<https://id.parliament.uk/E5XlAFS8> <https://example.com/oldestBusinessItemDate> "2018-05-02+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HJ7BlYte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/HJ7BlYte> <https://id.parliament.uk/schema/workPackageableThingName> "Fire and Rescue Authorities (National Framework) (England) Order 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/kToX7wTu> .
+<https://id.parliament.uk/kToX7wTu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/kToX7wTu> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/0yfUO88U> .
+<https://id.parliament.uk/kToX7wTu> <https://example.com/oldestBusinessItemDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0yfUO88U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/0yfUO88U> <https://id.parliament.uk/schema/workPackageableThingName> "Higher Education and Research Act 2017 (Cooperation and Information Sharing) Regulations 2018" .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureHasWorkPackage> <https://id.parliament.uk/yixwrcqc> .
+<https://id.parliament.uk/yixwrcqc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/yixwrcqc> <https://id.parliament.uk/schema/workPackageHasWorkPackageableThing> <https://id.parliament.uk/bJgVNka4> .
+<https://id.parliament.uk/yixwrcqc> <https://example.com/oldestBusinessItemDate> "2018-02-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bJgVNka4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/workPackageableThingName> "Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018" .
