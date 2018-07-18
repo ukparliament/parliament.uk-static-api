@@ -1,0 +1,302 @@
+<https://id.parliament.uk/XouN12Ow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBody> .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/groupName> "Department for Transport" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/0eUBw8rV> .
+<https://id.parliament.uk/0eUBw8rV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/0eUBw8rV> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0eUBw8rV> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/jj36N9pg> .
+<https://id.parliament.uk/jj36N9pg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/jj36N9pg> <https://id.parliament.uk/schema/questionHeading> "Railways: North East" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/2Y6YHCJ4> .
+<https://id.parliament.uk/2Y6YHCJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/2Y6YHCJ4> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/2Y6YHCJ4> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/bufqeC3b> .
+<https://id.parliament.uk/bufqeC3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/bufqeC3b> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/4xfBohyA> .
+<https://id.parliament.uk/4xfBohyA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/4xfBohyA> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4xfBohyA> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/Tbe8Ijkz> .
+<https://id.parliament.uk/Tbe8Ijkz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/Tbe8Ijkz> <https://id.parliament.uk/schema/questionHeading> "Heathrow Airport" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/5Eoe7yaU> .
+<https://id.parliament.uk/5Eoe7yaU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/5Eoe7yaU> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5Eoe7yaU> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/NIimHhtV> .
+<https://id.parliament.uk/NIimHhtV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/NIimHhtV> <https://id.parliament.uk/schema/questionHeading> "Bridges: Irish Sea" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/7TdhKEjz> .
+<https://id.parliament.uk/7TdhKEjz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/7TdhKEjz> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/7TdhKEjz> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/AoTDAqIw> .
+<https://id.parliament.uk/AoTDAqIw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/AoTDAqIw> <https://id.parliament.uk/schema/questionHeading> "Great Western Railway: Standards" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/7oaPLd0N> .
+<https://id.parliament.uk/7oaPLd0N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/7oaPLd0N> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/7oaPLd0N> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/U8rFkybe> .
+<https://id.parliament.uk/U8rFkybe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/U8rFkybe> <https://id.parliament.uk/schema/questionHeading> "Intercity Express Programme" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/AIW9Xj8A> .
+<https://id.parliament.uk/AIW9Xj8A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/AIW9Xj8A> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AIW9Xj8A> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/gjKq0qdS> .
+<https://id.parliament.uk/gjKq0qdS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/gjKq0qdS> <https://id.parliament.uk/schema/questionHeading> "Heathrow Airport" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/Byc8qhwz> .
+<https://id.parliament.uk/Byc8qhwz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/Byc8qhwz> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Byc8qhwz> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/4YyD5pW3> .
+<https://id.parliament.uk/4YyD5pW3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/4YyD5pW3> <https://id.parliament.uk/schema/questionHeading> "Airports" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/D1nFsPeg> .
+<https://id.parliament.uk/D1nFsPeg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/D1nFsPeg> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/D1nFsPeg> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/lCrfy113> .
+<https://id.parliament.uk/lCrfy113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/lCrfy113> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/G39QxB6n> .
+<https://id.parliament.uk/G39QxB6n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/G39QxB6n> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/G39QxB6n> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/VDUq9qoc> .
+<https://id.parliament.uk/VDUq9qoc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/VDUq9qoc> <https://id.parliament.uk/schema/questionHeading> "Heathrow Airport" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/KoyQtNYJ> .
+<https://id.parliament.uk/KoyQtNYJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/KoyQtNYJ> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KoyQtNYJ> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/QgdEXhGt> .
+<https://id.parliament.uk/QgdEXhGt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/QgdEXhGt> <https://id.parliament.uk/schema/questionHeading> "Road Traffic Control: Seaham" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/LUiIsxgU> .
+<https://id.parliament.uk/LUiIsxgU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/LUiIsxgU> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/LUiIsxgU> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/JL36AwWq> .
+<https://id.parliament.uk/JL36AwWq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/JL36AwWq> <https://id.parliament.uk/schema/questionHeading> "Large Goods Vehicle Drivers" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/MWgDPeNg> .
+<https://id.parliament.uk/MWgDPeNg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/MWgDPeNg> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/MWgDPeNg> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/xiy4yO0p> .
+<https://id.parliament.uk/xiy4yO0p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/xiy4yO0p> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/N340tkJY> .
+<https://id.parliament.uk/N340tkJY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/N340tkJY> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/N340tkJY> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/PPz56aMK> .
+<https://id.parliament.uk/PPz56aMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/PPz56aMK> <https://id.parliament.uk/schema/questionHeading> "Railways: Public Holidays" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/NtoJqHej> .
+<https://id.parliament.uk/NtoJqHej> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/NtoJqHej> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/NtoJqHej> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/dbJWfYDO> .
+<https://id.parliament.uk/dbJWfYDO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/dbJWfYDO> <https://id.parliament.uk/schema/questionHeading> "Transport: Northern Ireland" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/OrFDu3sC> .
+<https://id.parliament.uk/OrFDu3sC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/OrFDu3sC> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/OrFDu3sC> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/JKyjfXqJ> .
+<https://id.parliament.uk/JKyjfXqJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/JKyjfXqJ> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/Sj4HTzeb> .
+<https://id.parliament.uk/Sj4HTzeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/Sj4HTzeb> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Sj4HTzeb> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/0U44wKPF> .
+<https://id.parliament.uk/0U44wKPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/0U44wKPF> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/TDCdSPrT> .
+<https://id.parliament.uk/TDCdSPrT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/TDCdSPrT> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TDCdSPrT> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/OL6lImmJ> .
+<https://id.parliament.uk/OL6lImmJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/OL6lImmJ> <https://id.parliament.uk/schema/questionHeading> "Rolling Stock" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/ThuZhDK9> .
+<https://id.parliament.uk/ThuZhDK9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ThuZhDK9> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ThuZhDK9> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/ojDlURJi> .
+<https://id.parliament.uk/ojDlURJi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/ojDlURJi> <https://id.parliament.uk/schema/questionHeading> "Transport: Research" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/TiQz11yW> .
+<https://id.parliament.uk/TiQz11yW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/TiQz11yW> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TiQz11yW> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/tSjXsVIa> .
+<https://id.parliament.uk/tSjXsVIa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/tSjXsVIa> <https://id.parliament.uk/schema/questionHeading> "Railways: Cost Effectiveness" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/UlanyB4T> .
+<https://id.parliament.uk/UlanyB4T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/UlanyB4T> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/UlanyB4T> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/GLCNkLNq> .
+<https://id.parliament.uk/GLCNkLNq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/GLCNkLNq> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/VDD9gYZM> .
+<https://id.parliament.uk/VDD9gYZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/VDD9gYZM> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VDD9gYZM> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/YtKRLlv6> .
+<https://id.parliament.uk/YtKRLlv6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/YtKRLlv6> <https://id.parliament.uk/schema/questionHeading> "Cross Country Trains: North of England" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/Vfzj05Bo> .
+<https://id.parliament.uk/Vfzj05Bo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/Vfzj05Bo> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Vfzj05Bo> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/CN9bjHqV> .
+<https://id.parliament.uk/CN9bjHqV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/CN9bjHqV> <https://id.parliament.uk/schema/questionHeading> "Railways: Franchises" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/WNNLCxT5> .
+<https://id.parliament.uk/WNNLCxT5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/WNNLCxT5> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/WNNLCxT5> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/VUfC6JDe> .
+<https://id.parliament.uk/VUfC6JDe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/VUfC6JDe> <https://id.parliament.uk/schema/questionHeading> "Large Goods Vehicles: Weight Limits" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/ayHx9Vi3> .
+<https://id.parliament.uk/ayHx9Vi3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/ayHx9Vi3> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ayHx9Vi3> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/K2KVhMcL> .
+<https://id.parliament.uk/K2KVhMcL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/K2KVhMcL> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/bGFHVgVd> .
+<https://id.parliament.uk/bGFHVgVd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/bGFHVgVd> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bGFHVgVd> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/aHAkgRvo> .
+<https://id.parliament.uk/aHAkgRvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/aHAkgRvo> <https://id.parliament.uk/schema/questionHeading> "Transport: Research" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/hKhrImWF> .
+<https://id.parliament.uk/hKhrImWF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/hKhrImWF> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hKhrImWF> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/FyCHjeWQ> .
+<https://id.parliament.uk/FyCHjeWQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/FyCHjeWQ> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/l6zczNSA> .
+<https://id.parliament.uk/l6zczNSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/l6zczNSA> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/l6zczNSA> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/5PviS0xZ> .
+<https://id.parliament.uk/5PviS0xZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/5PviS0xZ> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/mUbbdTLM> .
+<https://id.parliament.uk/mUbbdTLM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/mUbbdTLM> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/mUbbdTLM> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/npENuPXB> .
+<https://id.parliament.uk/npENuPXB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/npENuPXB> <https://id.parliament.uk/schema/questionHeading> "Large Goods Vehicles: Weight Limits" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/nJ6ZH5mg> .
+<https://id.parliament.uk/nJ6ZH5mg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/nJ6ZH5mg> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/nJ6ZH5mg> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/nW0JC6Mx> .
+<https://id.parliament.uk/nW0JC6Mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/nW0JC6Mx> <https://id.parliament.uk/schema/questionHeading> "Rolling Stock: North East" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/rk2CV9DK> .
+<https://id.parliament.uk/rk2CV9DK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/rk2CV9DK> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/rk2CV9DK> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/EDYdq1v0> .
+<https://id.parliament.uk/EDYdq1v0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/EDYdq1v0> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/sDUeflds> .
+<https://id.parliament.uk/sDUeflds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/sDUeflds> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sDUeflds> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/M5lUG35h> .
+<https://id.parliament.uk/M5lUG35h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/M5lUG35h> <https://id.parliament.uk/schema/questionHeading> "Railways: Manufacturing Industries" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/vCO4OmCK> .
+<https://id.parliament.uk/vCO4OmCK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/vCO4OmCK> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vCO4OmCK> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/MykrWkvU> .
+<https://id.parliament.uk/MykrWkvU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/MykrWkvU> <https://id.parliament.uk/schema/questionHeading> "Heathrow Airport" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/vXfdBkmj> .
+<https://id.parliament.uk/vXfdBkmj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/vXfdBkmj> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/vXfdBkmj> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/lcOpNT3t> .
+<https://id.parliament.uk/lcOpNT3t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/lcOpNT3t> <https://id.parliament.uk/schema/questionHeading> "Railways: Tree Felling" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/y2Jhqq43> .
+<https://id.parliament.uk/y2Jhqq43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/y2Jhqq43> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-16+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/y2Jhqq43> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/HwNPzHiB> .
+<https://id.parliament.uk/HwNPzHiB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/HwNPzHiB> <https://id.parliament.uk/schema/questionHeading> "Road Traffic Control: Seaham" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/V6GDkEpN> .
+<https://id.parliament.uk/V6GDkEpN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/V6GDkEpN> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/V6GDkEpN> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/Qtu1NBkM> .
+<https://id.parliament.uk/Qtu1NBkM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/Qtu1NBkM> <https://id.parliament.uk/schema/questionHeading> "Govia Thameslink Railway and Northern: Timetables" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/cDa0uOl0> .
+<https://id.parliament.uk/cDa0uOl0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/cDa0uOl0> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cDa0uOl0> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/idH2Rpcj> .
+<https://id.parliament.uk/idH2Rpcj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/idH2Rpcj> <https://id.parliament.uk/schema/questionHeading> "Offshore Industry: Helicopters" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/tzsrwfEf> .
+<https://id.parliament.uk/tzsrwfEf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/tzsrwfEf> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/tzsrwfEf> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/gCuWPbAw> .
+<https://id.parliament.uk/gCuWPbAw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/gCuWPbAw> <https://id.parliament.uk/schema/questionHeading> "Helicopters: Norway" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/0lBtHWY0> .
+<https://id.parliament.uk/0lBtHWY0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/0lBtHWY0> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0lBtHWY0> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/bVrQYpiP> .
+<https://id.parliament.uk/bVrQYpiP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/bVrQYpiP> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line: Euston Station" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/4XnY6mLv> .
+<https://id.parliament.uk/4XnY6mLv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/4XnY6mLv> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/4XnY6mLv> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/25Y1VySO> .
+<https://id.parliament.uk/25Y1VySO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/25Y1VySO> <https://id.parliament.uk/schema/questionHeading> "Road Traffic: Bristol" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/6Cpv3VW3> .
+<https://id.parliament.uk/6Cpv3VW3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/6Cpv3VW3> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/6Cpv3VW3> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/naeTmHF0> .
+<https://id.parliament.uk/naeTmHF0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/naeTmHF0> <https://id.parliament.uk/schema/questionHeading> "Monarch Airlines: Insolvency" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/F2Ak4JbA> .
+<https://id.parliament.uk/F2Ak4JbA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/F2Ak4JbA> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/F2Ak4JbA> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/LhIowR79> .
+<https://id.parliament.uk/LhIowR79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/LhIowR79> <https://id.parliament.uk/schema/questionHeading> "Department for Transport: Serco" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/HU0ivpks> .
+<https://id.parliament.uk/HU0ivpks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/HU0ivpks> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HU0ivpks> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/rYOgABjQ> .
+<https://id.parliament.uk/rYOgABjQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/rYOgABjQ> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/HcntZ6vi> .
+<https://id.parliament.uk/HcntZ6vi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/HcntZ6vi> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HcntZ6vi> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/FMQiScfZ> .
+<https://id.parliament.uk/FMQiScfZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/FMQiScfZ> <https://id.parliament.uk/schema/questionHeading> "Tilbury Port: Lower Thames Crossing" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/IfWyk8ZQ> .
+<https://id.parliament.uk/IfWyk8ZQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/IfWyk8ZQ> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/IfWyk8ZQ> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/PBEGXL3y> .
+<https://id.parliament.uk/PBEGXL3y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/PBEGXL3y> <https://id.parliament.uk/schema/questionHeading> "London North Eastern Railway" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/KRzsNILd> .
+<https://id.parliament.uk/KRzsNILd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/KRzsNILd> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/KRzsNILd> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/muAatjUk> .
+<https://id.parliament.uk/muAatjUk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/muAatjUk> <https://id.parliament.uk/schema/questionHeading> "High Speed 2 Railway Line: Euston Station" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/OoVYTc34> .
+<https://id.parliament.uk/OoVYTc34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/OoVYTc34> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/OoVYTc34> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/WF5Ipzi0> .
+<https://id.parliament.uk/WF5Ipzi0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/WF5Ipzi0> <https://id.parliament.uk/schema/questionHeading> "Railways: Research" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/V7D7SMvE> .
+<https://id.parliament.uk/V7D7SMvE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/V7D7SMvE> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/V7D7SMvE> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/brg8ZtE7> .
+<https://id.parliament.uk/brg8ZtE7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/brg8ZtE7> <https://id.parliament.uk/schema/questionHeading> "Cycling: Pedestrian Areas" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/XjVTTYmO> .
+<https://id.parliament.uk/XjVTTYmO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/XjVTTYmO> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/XjVTTYmO> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/ScByv4aP> .
+<https://id.parliament.uk/ScByv4aP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/ScByv4aP> <https://id.parliament.uk/schema/questionHeading> "Great Western Railway: Standards" .
+<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/answeringBodyHasAnswer> <https://id.parliament.uk/alIkf8it> .
+<https://id.parliament.uk/alIkf8it> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/alIkf8it> <https://id.parliament.uk/schema/answerGivenDate> "2018-07-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/alIkf8it> <https://id.parliament.uk/schema/answerHasQuestion> <https://id.parliament.uk/9zjW1c2j> .
+<https://id.parliament.uk/9zjW1c2j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/9zjW1c2j> <https://id.parliament.uk/schema/questionHeading> "Railways" .
