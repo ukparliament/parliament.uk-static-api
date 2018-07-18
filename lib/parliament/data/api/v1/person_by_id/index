@@ -4,20 +4,21 @@
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personFamilyName> "Abbott" .
 <https://id.parliament.uk/43RHonMf> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Ms Diane Abbott" .
 <https://id.parliament.uk/43RHonMf> <http://example.com/D79B0BAC513C4A9A87C9D5AFF1FC632F> "Rt Hon Diane Abbott MP" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasGenderIdentity> <https://id.parliament.uk/663afc3b> .
-<https://id.parliament.uk/663afc3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GenderIdentity> .
-<https://id.parliament.uk/663afc3b> <https://id.parliament.uk/schema/genderIdentityHasGender> <https://id.parliament.uk/9ae2e234> .
-<https://id.parliament.uk/9ae2e234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Gender> .
-<https://id.parliament.uk/9ae2e234> <https://id.parliament.uk/schema/genderName> "Female" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/askingPersonHasQuestion> <https://id.parliament.uk/HWc4JI09> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/S3bGSTqn> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/partyMemberHasPartyMembership> <https://id.parliament.uk/UcFeoI5t> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/memberHasParliamentaryIncumbency> <https://id.parliament.uk/5b1mxVJ7> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/VHM0rBq1> .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personPimsId> "5441" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personMnisId> "3898" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/CsQVi7Hx> .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/wE8Hq016> .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personPimsId> "3572" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/memberMnisId> "172" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasGenderIdentity> <https://id.parliament.uk/SPRKaz3b> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasPersonalWebLink> <http://www.dianeabbott.org.uk/> .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasTwitterWebLink> <https://twitter.com/HackneyAbbott> .
+<https://id.parliament.uk/SPRKaz3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GenderIdentity> .
+<https://id.parliament.uk/SPRKaz3b> <https://id.parliament.uk/schema/genderIdentityHasGender> <https://id.parliament.uk/Hnymnoxw> .
+<https://id.parliament.uk/Hnymnoxw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Gender> .
+<https://id.parliament.uk/Hnymnoxw> <https://id.parliament.uk/schema/genderName> "Female" .
 <https://id.parliament.uk/S3bGSTqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
 <https://id.parliament.uk/HSoMS1VX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
 <https://id.parliament.uk/HSoMS1VX> <https://id.parliament.uk/schema/constituencyGroupName> "Hackney North and Stoke Newington" .
@@ -43,32 +44,42 @@
 <https://id.parliament.uk/VHM0rBq1> <https://id.parliament.uk/schema/formalBodyMembershipHasFormalBody> <https://id.parliament.uk/cLjFRjRt> .
 <https://id.parliament.uk/cLjFRjRt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
 <https://id.parliament.uk/cLjFRjRt> <https://id.parliament.uk/schema/formalBodyName> "Treasury Committee" .
-<https://id.parliament.uk/CsQVi7Hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
-<https://id.parliament.uk/CsQVi7Hx> <https://id.parliament.uk/schema/incumbencyStartDate> "2015-09-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/CsQVi7Hx> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/CsQVi7Hx> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/fYFKcS8i> .
-<https://id.parliament.uk/fYFKcS8i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
-<https://id.parliament.uk/fYFKcS8i> <https://id.parliament.uk/schema/positionName> "Shadow Secretary of State for International Development" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/qJRARqpw> .
-<https://id.parliament.uk/qJRARqpw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
-<https://id.parliament.uk/qJRARqpw> <https://id.parliament.uk/schema/incumbencyStartDate> "2010-10-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/qJRARqpw> <https://id.parliament.uk/schema/incumbencyEndDate> "2013-10-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/qJRARqpw> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/XeUZ7frj> .
-<https://id.parliament.uk/XeUZ7frj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
-<https://id.parliament.uk/XeUZ7frj> <https://id.parliament.uk/schema/positionName> "Shadow Minister (Public Health)" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/ijaory61> .
-<https://id.parliament.uk/ijaory61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
-<https://id.parliament.uk/ijaory61> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-10-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/ijaory61> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/5IUCzIVF> .
-<https://id.parliament.uk/5IUCzIVF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
-<https://id.parliament.uk/5IUCzIVF> <https://id.parliament.uk/schema/positionName> "Shadow Home Secretary" .
-<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/KbJGU6Ss> .
-<https://id.parliament.uk/KbJGU6Ss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
-<https://id.parliament.uk/KbJGU6Ss> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/KbJGU6Ss> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-10-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/KbJGU6Ss> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/ApVIbe8P> .
-<https://id.parliament.uk/ApVIbe8P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
-<https://id.parliament.uk/ApVIbe8P> <https://id.parliament.uk/schema/positionName> "Shadow Secretary of State for Health" .
+<https://id.parliament.uk/wE8Hq016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
+<https://id.parliament.uk/wE8Hq016> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wE8Hq016> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-10-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wE8Hq016> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/skJwXTDQ> .
+<https://id.parliament.uk/skJwXTDQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
+<https://id.parliament.uk/skJwXTDQ> <https://id.parliament.uk/schema/positionName> "Shadow Secretary of State for Health" .
+<https://id.parliament.uk/HWc4JI09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
+<https://id.parliament.uk/HWc4JI09> <https://id.parliament.uk/schema/questionAskedAt> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HWc4JI09> <https://id.parliament.uk/schema/questionHasAnsweringBodyAllocation> <https://id.parliament.uk/MvMjdqi6> .
+<https://id.parliament.uk/HWc4JI09> <https://id.parliament.uk/schema/questionHeading> "Immigration: EU Nationals" .
+<https://id.parliament.uk/HWc4JI09> <https://id.parliament.uk/schema/questionHasAnswer> <https://id.parliament.uk/dbeEkVf7> .
+<https://id.parliament.uk/dbeEkVf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Answer> .
+<https://id.parliament.uk/MvMjdqi6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBodyAllocation> .
+<https://id.parliament.uk/MvMjdqi6> <https://id.parliament.uk/schema/answeringBodyAllocationHasAnsweringBody> <https://id.parliament.uk/NDZSYjeE> .
+<https://id.parliament.uk/NDZSYjeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/groupName> "Home Office" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/2SdmzfSs> .
+<https://id.parliament.uk/2SdmzfSs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
+<https://id.parliament.uk/2SdmzfSs> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-10-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/2SdmzfSs> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/yYN7V6yX> .
+<https://id.parliament.uk/yYN7V6yX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
+<https://id.parliament.uk/yYN7V6yX> <https://id.parliament.uk/schema/positionName> "Shadow Home Secretary" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/ZiqjL3DQ> .
+<https://id.parliament.uk/ZiqjL3DQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
+<https://id.parliament.uk/ZiqjL3DQ> <https://id.parliament.uk/schema/incumbencyStartDate> "2010-10-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ZiqjL3DQ> <https://id.parliament.uk/schema/incumbencyEndDate> "2013-10-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ZiqjL3DQ> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/3YwE0NhM> .
+<https://id.parliament.uk/3YwE0NhM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
+<https://id.parliament.uk/3YwE0NhM> <https://id.parliament.uk/schema/positionName> "Shadow Minister (Public Health)" .
+<https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/xi9CFNH9> .
+<https://id.parliament.uk/xi9CFNH9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
+<https://id.parliament.uk/xi9CFNH9> <https://id.parliament.uk/schema/incumbencyStartDate> "2015-09-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xi9CFNH9> <https://id.parliament.uk/schema/incumbencyEndDate> "2016-06-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xi9CFNH9> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/b8cXZPwI> .
+<https://id.parliament.uk/b8cXZPwI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
+<https://id.parliament.uk/b8cXZPwI> <https://id.parliament.uk/schema/positionName> "Shadow Secretary of State for International Development" .
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/personHasFormalBodyMembership> <https://id.parliament.uk/uzym0vom> .
 <https://id.parliament.uk/uzym0vom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBodyMembership> .
 <https://id.parliament.uk/uzym0vom> <https://id.parliament.uk/schema/formalBodyMembershipStartDate> "1997-11-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -114,7 +125,7 @@
 <https://id.parliament.uk/fy1cWNCD> <https://id.parliament.uk/schema/contactPointHasPostalAddress> <https://id.parliament.uk/uBuD8ZqA> .
 <https://id.parliament.uk/uBuD8ZqA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PostalAddress> .
 <https://id.parliament.uk/uBuD8ZqA> <https://id.parliament.uk/schema/addressLine1> "House of Commons" .
-<https://id.parliament.uk/uBuD8ZqA> <https://id.parliament.uk/schema/addressLine2> "London." .
+<https://id.parliament.uk/uBuD8ZqA> <https://id.parliament.uk/schema/addressLine2> "London" .
 <https://id.parliament.uk/uBuD8ZqA> <https://id.parliament.uk/schema/postCode> "SW1A 0AA" .
 <https://id.parliament.uk/5bX5Se0u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ConstituencyGroup> .
 <https://id.parliament.uk/5bX5Se0u> <https://id.parliament.uk/schema/constituencyGroupName> "Hackney North and Stoke Newington" .
