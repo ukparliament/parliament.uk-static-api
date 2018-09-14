@@ -1,79 +1,33 @@
-<https://id.parliament.uk/9PuVurua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/9PuVurua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/9PuVurua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/9PuVurua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperPrefix> "SI" .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperNumber> "538"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Insurance Companies (Taxation of Re-insurance Business) Regulations 2018" .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperComingIntoForceDate> "2018-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/laidThingName> "Insurance Companies (Taxation of Re-insurance Business) Regulations 2018" .
-<https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/workPackagedThingName> "Insurance Companies (Taxation of Re-insurance Business) Regulations 2018" .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <http://www.legislation.gov.uk/uksi/2018/538/made> .
+<https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/2iDuQtrK> .
 <https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/zhi6ZHnQ> .
 <https://id.parliament.uk/zhi6ZHnQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/2iDuQtrK> .
 <https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
-<https://id.parliament.uk/2iDuQtrK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
 <https://id.parliament.uk/2iDuQtrK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
-<https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/businessItemDate> "2018-04-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/NDZSYjeE> .
-<https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
-<https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/cm201719/cmvote/180430v01.html> .
+<https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/layingDate> "2018-05-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/5S6p4YsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
 <https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureName> "Made negative" .
-<https://id.parliament.uk/cspzmb6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepName> "Laid before the House of Commons" .
-<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
-<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
-<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
-<https://id.parliament.uk/NDZSYjeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LayingBody> .
 <https://id.parliament.uk/NDZSYjeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
 <https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/groupName> "Home Office" .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/GRsNl8uX> .
-<https://id.parliament.uk/GRsNl8uX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/GRsNl8uX> <https://id.parliament.uk/schema/businessItemDate> "2018-04-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/GRsNl8uX> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/wShvPQbP> .
-<https://id.parliament.uk/GRsNl8uX> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://www.legislation.gov.uk/uksi/2018/538/made> .
-<https://id.parliament.uk/wShvPQbP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/wShvPQbP> <https://id.parliament.uk/schema/procedureStepName> "Instrument created" .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/5qg4p6Aj> .
-<https://id.parliament.uk/5qg4p6Aj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/5qg4p6Aj> <https://id.parliament.uk/schema/businessItemDate> "2018-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/5qg4p6Aj> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/OM5fjnQ3> .
-<https://id.parliament.uk/5qg4p6Aj> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://www.legislation.gov.uk/uksi/2018/538/made> .
-<https://id.parliament.uk/OM5fjnQ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/OM5fjnQ3> <https://id.parliament.uk/schema/procedureStepName> "Instrument comes into effect as law" .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/LemGcOKe> .
-<https://id.parliament.uk/LemGcOKe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/LemGcOKe> <https://id.parliament.uk/schema/businessItemDate> "2018-06-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/LemGcOKe> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/xdLIQx0e> .
-<https://id.parliament.uk/LemGcOKe> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <http://www.legislation.gov.uk/uksi/2018/538/made> .
-<https://id.parliament.uk/xdLIQx0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/xdLIQx0e> <https://id.parliament.uk/schema/procedureStepName> "Instrument stays in effect as law" .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/CcCi2AI9> .
-<https://id.parliament.uk/CcCi2AI9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/CcCi2AI9> <https://id.parliament.uk/schema/businessItemDate> "2018-06-20+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/CcCi2AI9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/zBtshoXJ> .
-<https://id.parliament.uk/CcCi2AI9> <https://id.parliament.uk/schema/businessItemHasBusinessItemWebLink> <https://publications.parliament.uk/pa/cm201719/cmselect/cmstatin/543-v/54302.htm> .
-<https://id.parliament.uk/zBtshoXJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/zBtshoXJ> <https://id.parliament.uk/schema/procedureStepName> "No concerns raised by the Select Committee on Statutory Instruments (SCSI)" .
-<https://id.parliament.uk/zBtshoXJ> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
-<https://id.parliament.uk/CcCi2AI9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/zQrAQfxB> .
-<https://id.parliament.uk/zQrAQfxB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/zQrAQfxB> <https://id.parliament.uk/schema/procedureStepName> "Considered by the Select Committee on Statutory Instruments (SCSI)" .
-<https://id.parliament.uk/zQrAQfxB> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
-<https://id.parliament.uk/CcCi2AI9> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/qGFQ35jt> .
-<https://id.parliament.uk/qGFQ35jt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/qGFQ35jt> <https://id.parliament.uk/schema/procedureStepName> "Decision made by the Select Committee on Statutory Instruments (SCSI)" .
-<https://id.parliament.uk/qGFQ35jt> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/kdt2lPyp> .
-<https://id.parliament.uk/kdt2lPyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/kdt2lPyp> <https://id.parliament.uk/schema/businessItemDate> "2018-04-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/kdt2lPyp> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/oUjmJcf5> .
-<https://id.parliament.uk/oUjmJcf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/oUjmJcf5> <https://id.parliament.uk/schema/procedureStepName> "Objection period begins" .
-<https://id.parliament.uk/zhi6ZHnQ> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/SWzSuUdM> .
-<https://id.parliament.uk/SWzSuUdM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/SWzSuUdM> <https://id.parliament.uk/schema/businessItemDate> "2018-06-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/SWzSuUdM> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/g8B3R2Ou> .
-<https://id.parliament.uk/g8B3R2Ou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
-<https://id.parliament.uk/g8B3R2Ou> <https://id.parliament.uk/schema/procedureStepName> "Objection period ends" .
+<https://id.parliament.uk/2iDuQtrK> <https://id.parliament.uk/schema/layingHasLayingPerson> <https://id.parliament.uk/B1234567> .
+<https://id.parliament.uk/B1234567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Person> .
+<https://id.parliament.uk/B1234567> <https://id.parliament.uk/schema/personGivenName> "Test" .
+<https://id.parliament.uk/B1234567> <https://id.parliament.uk/schema/personFamilyName> "Person" .
+<https://id.parliament.uk/B1234567> <http://example.com/F31CBD81AD8343898B49DC65743F0BDF> "Test Person MP" .
+<https://id.parliament.uk/B1234567> <https://id.parliament.uk/schema/memberHasMemberImage> <https://id.parliament.uk/QQuEfBIf> .
+<https://id.parliament.uk/QQuEfBIf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MemberImage> .
+<https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperFollowsProposedNegativeStatutoryInstrumentPaper> <https://id.parliament.uk/C1234567> .
+<https://id.parliament.uk/9PuVurua> <https://id.parliament.uk/schema/statutoryInstrumentPaperFollowsProposedNegativeStatutoryInstrumentPaper> <https://id.parliament.uk/D1234567> .
+<https://id.parliament.uk/C1234567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
+<https://id.parliament.uk/D1234567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
+<https://id.parliament.uk/C1234567> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Proposed Negative Statutory Instrument 1" .
+<https://id.parliament.uk/D1234567> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Proposed Negative Statutory Instrument 2" .

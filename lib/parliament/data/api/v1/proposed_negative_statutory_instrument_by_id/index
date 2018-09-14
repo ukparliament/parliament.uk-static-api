@@ -1,0 +1,17 @@
+<https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
+<https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Airport Charges (Amendment) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <https://www.gov.uk/eu-withdrawal-act-2018-statutory-instruments/the-airport-charges-amendment-eu-exit-regulations-2018> .
+<https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/7xwjxL0R> .
+<https://id.parliament.uk/7xwjxL0R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/7xwjxL0R> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
+<https://id.parliament.uk/iCdMN1MW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/iCdMN1MW> <https://id.parliament.uk/schema/procedureName> "Proposed negative statutory instruments" .
+
+<https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperPrecedesStatutoryInstrumentPaper> <https://id.parliament.uk/C1234567> .
+<https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperPrecedesStatutoryInstrumentPaper> <https://id.parliament.uk/D1234567> .
+<https://id.parliament.uk/C1234567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/D1234567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/C1234567> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Statutory Instrument 1" .
+<https://id.parliament.uk/D1234567> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Statutory Instrument 2" .
