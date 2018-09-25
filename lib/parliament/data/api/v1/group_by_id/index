@@ -1,34 +1,4 @@
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/groupName> "Accomodation & Works" .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/groupStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/formalBodyName> "Accomodation & Works" .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/formalBodyStartDate> "1900-01-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/formalBodyHasContactPoint> <https://id.parliament.uk/WDjFwZuh> .
-<https://id.parliament.uk/0RLkImU2> <https://id.parliament.uk/schema/formalBodyHasHouse> <https://id.parliament.uk/WkUWUBMx> .
-<https://id.parliament.uk/WDjFwZuh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactPoint> .
-<https://id.parliament.uk/WDjFwZuh> <https://id.parliament.uk/schema/phoneNumber> "020 7219 4151" .
-<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
-<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
-<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseHasContactPoint> <https://id.parliament.uk/WfpjApB6> .
-<https://id.parliament.uk/WfpjApB6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactPoint> .
-<https://id.parliament.uk/WfpjApB6> <https://id.parliament.uk/schema/contactPointHasPostalAddress> <https://id.parliament.uk/QkbU5U1h> .
-<https://id.parliament.uk/QkbU5U1h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PostalAddress> .
-<https://id.parliament.uk/QkbU5U1h> <https://id.parliament.uk/schema/addressLine1> "House of Lords" .
-<https://id.parliament.uk/QkbU5U1h> <https://id.parliament.uk/schema/addressLine2> "London" .
-<https://id.parliament.uk/QkbU5U1h> <https://id.parliament.uk/schema/postCode> "SW1A 0PW" .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/TemporalThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PastThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MnisThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ExternalThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/NamedThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ContactableThing> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/FormalBody> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PastFormalBody> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MnisFormalBody> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/PastGroup> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SelectCommittee> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ParliamentaryCommittee> .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:node20302339 .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:genid2dbd5b00bbe5ba4b11a9bbfe792b2f9dde2dnode20301646 .
-<https://id.parliament.uk/0RLkImU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:node20633585 .
+<https://id.parliament.uk/0RNgrC4q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/group> .
+<https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupName> "Ministry of Posts and Telecommunications" .
+<https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupStartDate> "1969-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupEndDate> "1974-05-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
