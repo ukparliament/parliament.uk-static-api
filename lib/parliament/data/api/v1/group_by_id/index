@@ -1,4 +1,4 @@
-<https://id.parliament.uk/0RNgrC4q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/group> .
+<https://id.parliament.uk/0RNgrC4q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
 <https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupName> "Ministry of Posts and Telecommunications" .
 <https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupStartDate> "1969-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/0RNgrC4q> <https://id.parliament.uk/schema/groupEndDate> "1974-05-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
