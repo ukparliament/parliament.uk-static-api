@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rake'
 gem 'dotenv'
 
-gem 'sinatra', '>= 2.0.0'
-gem 'sinatra-contrib', '>= 2.0.0'
+gem 'sinatra', '>= 2.0.2'
+gem 'sinatra-contrib', '>= 2.0.2'
 
 gem 'puma', require: false
 
@@ -18,6 +18,6 @@ group :test do
   gem 'rubocop', '>= 0.49.0'
   gem 'rspec'
   gem 'rack-test'
-  gem 'pry'
-  gem 'guard-rspec', require: false
+  gem 'pry', '>= 0.10.4'
+  gem 'guard-rspec', '>= 4.7.3', require: false
 end

@@ -166,18 +166,18 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
-  guard-rspec
+  guard-rspec (>= 4.7.3)
   macmillan-utils (>= 1.0.40)
   nokogiri (>= 1.8.2)
-  pry
+  pry (>= 0.10.4)
   puma
   rack-test
   rake
   rspec
   rubocop (>= 0.49.0)
   shotgun
-  sinatra (>= 2.0.0)
-  sinatra-contrib (>= 2.0.0)
+  sinatra (>= 2.0.2)
+  sinatra-contrib (>= 2.0.2)
 
 BUNDLED WITH
    1.16.4
