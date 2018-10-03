@@ -1,4 +1,5 @@
 <https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <https://id.parliament.uk/7dSvuueH> <https://id.parliament.uk/schema/groupName> "Department for Education" .
 <https://id.parliament.uk/7dSvuueH> <https://id.parliament.uk/schema/groupStartDate> "2010-05-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/7dSvuueH> <https://id.parliament.uk/schema/layingBodyHasLaying> <https://id.parliament.uk/qaT30ffk> .
@@ -175,3 +176,15 @@
 <https://id.parliament.uk/1laD3RMi> <https://id.parliament.uk/schema/layingHasLaidThing> <https://id.parliament.uk/gVLa6U8S> .
 <https://id.parliament.uk/gVLa6U8S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
 <https://id.parliament.uk/gVLa6U8S> <https://id.parliament.uk/schema/laidThingName> "School Teachers' Pay and Conditions Order 2018" .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/TemporalThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MnisThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ExternalThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/NamedThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MnisDepartmentGroup> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovRegisterGovernmentOrganisation> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/GovernmentOrganisation> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/SesThing> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnsweringBody> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/MnisAnsweringBody> .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LayingBody> .
