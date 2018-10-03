@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rake'
 gem 'dotenv'
 
-gem 'sinatra', '>= 2.0.0'
-gem 'sinatra-contrib', '>= 2.0.0'
+gem 'sinatra', '>= 2.0.2'
+gem 'sinatra-contrib', '>= 2.0.2'
 
 gem 'puma', require: false
 
