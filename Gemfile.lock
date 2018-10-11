@@ -68,9 +68,9 @@ GEM
     multi_test (0.1.2)
     mustermann (1.0.3)
     nenv (0.3.0)
-    nokogiri (1.8.4)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
-    nokogiri (1.8.4-java)
+    nokogiri (1.8.5-java)
     notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
@@ -168,7 +168,7 @@ DEPENDENCIES
   dotenv
   guard-rspec (>= 4.7.3)
   macmillan-utils (>= 1.0.40)
-  nokogiri (>= 1.8.2)
+  nokogiri (>= 1.8.5)
   pry (>= 0.10.4)
   puma
   rack-test
@@ -180,4 +180,4 @@ DEPENDENCIES
   sinatra-contrib (>= 2.0.2)
 
 BUNDLED WITH
-   1.16.4
+   1.16.6
