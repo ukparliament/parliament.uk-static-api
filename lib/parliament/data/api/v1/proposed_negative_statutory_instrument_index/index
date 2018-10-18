@@ -1,5 +1,6 @@
 <https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/Tn1xqHc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Airport Charges (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/jzHlJ1mb> .
 <https://id.parliament.uk/Tn1xqHc0> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/7xwjxL0R> .
@@ -14,6 +15,7 @@
 <https://id.parliament.uk/iCdMN1MW> <https://id.parliament.uk/schema/procedureName> "Proposed negative statutory instrument" .
 <https://id.parliament.uk/wzsrSFQP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/wzsrSFQP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/wzsrSFQP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/wzsrSFQP> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/wzsrSFQP> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/wN2D7eGI> .
 <https://id.parliament.uk/wzsrSFQP> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/xyYZNFHJ> .
@@ -24,6 +26,7 @@
 <https://id.parliament.uk/xyYZNFHJ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/H95FzZVv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/H95FzZVv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/H95FzZVv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/H95FzZVv> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Computer Reservation Systems (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/H95FzZVv> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/3ZBwPCUy> .
 <https://id.parliament.uk/H95FzZVv> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/cy5h6E6l> .
@@ -34,6 +37,7 @@
 <https://id.parliament.uk/cy5h6E6l> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/cL5yuFbG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/cL5yuFbG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/cL5yuFbG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/cL5yuFbG> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Vehicle Drivers (Certificates of Professional Competence) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/cL5yuFbG> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/lh0DnMME> .
 <https://id.parliament.uk/cL5yuFbG> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/OXRdMq8p> .
@@ -44,6 +48,7 @@
 <https://id.parliament.uk/OXRdMq8p> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/mssRQnqj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/mssRQnqj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/mssRQnqj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/mssRQnqj> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Civil Aviation Act 1982 (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/mssRQnqj> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/qO4klsgb> .
 <https://id.parliament.uk/mssRQnqj> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/ns7vd6HL> .
@@ -54,6 +59,7 @@
 <https://id.parliament.uk/ns7vd6HL> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/PkQCvHkT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/PkQCvHkT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/PkQCvHkT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/PkQCvHkT> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Freedom of Information Act 2000 (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/PkQCvHkT> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/4OlCkY0W> .
 <https://id.parliament.uk/PkQCvHkT> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/wH3xRUGq> .
@@ -66,6 +72,7 @@
 <https://id.parliament.uk/wH3xRUGq> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/AcoKsOuw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/AcoKsOuw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/AcoKsOuw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/AcoKsOuw> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Postal and Parcel Services (Amendment etc) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/AcoKsOuw> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/BAiD5sYp> .
 <https://id.parliament.uk/AcoKsOuw> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/fJUkZvZl> .
@@ -78,6 +85,7 @@
 <https://id.parliament.uk/fJUkZvZl> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/YOGGjydt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/YOGGjydt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/YOGGjydt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/YOGGjydt> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "European Parliamentary Elections etc (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/YOGGjydt> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/kfATf1uk> .
 <https://id.parliament.uk/YOGGjydt> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/cDkIwPje> .
@@ -88,6 +96,7 @@
 <https://id.parliament.uk/cDkIwPje> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/7KgIpwmP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/7KgIpwmP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/7KgIpwmP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/7KgIpwmP> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/7KgIpwmP> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/jjlfX8zW> .
 <https://id.parliament.uk/7KgIpwmP> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/tpY51bZN> .
@@ -98,6 +107,7 @@
 <https://id.parliament.uk/tpY51bZN> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/a2L0zxbo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/a2L0zxbo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/a2L0zxbo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/a2L0zxbo> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Groceries Code Adjudicator Act 2013, Small Business, Enterprise and Employment Act 2015 and Enterprise Act 2016 (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/a2L0zxbo> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/ifixtNdT> .
 <https://id.parliament.uk/a2L0zxbo> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/z96Sc3X3> .
@@ -110,6 +120,7 @@
 <https://id.parliament.uk/z96Sc3X3> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/zPhl1zVB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/zPhl1zVB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/zPhl1zVB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/zPhl1zVB> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Return of Cultural Objects (Revocation) Regulations 2018" .
 <https://id.parliament.uk/zPhl1zVB> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/Stw5ulya> .
 <https://id.parliament.uk/zPhl1zVB> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/5pxWAI3a> .
@@ -120,6 +131,7 @@
 <https://id.parliament.uk/5pxWAI3a> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/SiA85FTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/SiA85FTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/SiA85FTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/SiA85FTV> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Feed-in Tariffs and Contracts for Difference (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/SiA85FTV> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/LjBkfBiU> .
 <https://id.parliament.uk/SiA85FTV> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/0gWCh0Ao> .
@@ -130,6 +142,7 @@
 <https://id.parliament.uk/0gWCh0Ao> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/XCCCh1kE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/XCCCh1kE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/XCCCh1kE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/XCCCh1kE> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/XCCCh1kE> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nWofQeEk> .
 <https://id.parliament.uk/XCCCh1kE> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/3Vi06p5R> .
@@ -142,6 +155,7 @@
 <https://id.parliament.uk/3Vi06p5R> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/OtGAt1n4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/OtGAt1n4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/OtGAt1n4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/OtGAt1n4> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/OtGAt1n4> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nMU6jd7S> .
 <https://id.parliament.uk/OtGAt1n4> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/bieV3f47> .
@@ -152,6 +166,7 @@
 <https://id.parliament.uk/bieV3f47> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/szRasC5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/szRasC5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/szRasC5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/szRasC5x> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Friendly Societies (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/szRasC5x> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/U1HC3k2G> .
 <https://id.parliament.uk/szRasC5x> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/1mUEp63O> .
@@ -164,6 +179,7 @@
 <https://id.parliament.uk/1mUEp63O> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/3XfjyKc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/3XfjyKc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/3XfjyKc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/3XfjyKc7> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/3XfjyKc7> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/bvO35wxR> .
 <https://id.parliament.uk/3XfjyKc7> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/SXOUk54M> .
@@ -174,6 +190,7 @@
 <https://id.parliament.uk/SXOUk54M> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/sUpfiOCM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/sUpfiOCM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/sUpfiOCM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/sUpfiOCM> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Consumer Credit (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/sUpfiOCM> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/r4FYzqEh> .
 <https://id.parliament.uk/sUpfiOCM> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/rR4IV4ZV> .
@@ -184,6 +201,7 @@
 <https://id.parliament.uk/rR4IV4ZV> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/78cgn2Dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/78cgn2Dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/78cgn2Dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/78cgn2Dx> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/78cgn2Dx> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/nVhOwVJO> .
 <https://id.parliament.uk/78cgn2Dx> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/frdVL9gN> .
@@ -196,6 +214,7 @@
 <https://id.parliament.uk/frdVL9gN> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/OuKyf9Ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/OuKyf9Ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/OuKyf9Ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/OuKyf9Ne> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Timber and Timber Products and FLEGT (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/OuKyf9Ne> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/AQetOZKp> .
 <https://id.parliament.uk/OuKyf9Ne> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/e3MZciVO> .
@@ -206,6 +225,7 @@
 <https://id.parliament.uk/e3MZciVO> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/Ykks9FXW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/Ykks9FXW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/Ykks9FXW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/Ykks9FXW> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Health and Safety (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/Ykks9FXW> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/wH9PeZIg> .
 <https://id.parliament.uk/Ykks9FXW> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/2I9czr8m> .
@@ -218,6 +238,7 @@
 <https://id.parliament.uk/2I9czr8m> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/mEznEN3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/mEznEN3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/mEznEN3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/mEznEN3a> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Seal Products (Amendments) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/mEznEN3a> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/l9Z3q39f> .
 <https://id.parliament.uk/mEznEN3a> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/yRtSqDuD> .
@@ -228,6 +249,7 @@
 <https://id.parliament.uk/yRtSqDuD> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Flags (Northern Ireland) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/4mREgKhH> .
 <https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/1EFvAn0z> .
@@ -240,6 +262,7 @@
 <https://id.parliament.uk/1EFvAn0z> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/lTbB3os8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/lTbB3os8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/lTbB3os8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/lTbB3os8> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Trade Barriers (Revocation) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/lTbB3os8> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/JYZdHyQ8> .
 <https://id.parliament.uk/lTbB3os8> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/sWnYaNsO> .
@@ -252,6 +275,7 @@
 <https://id.parliament.uk/sWnYaNsO> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/Xpyq1I4Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/Xpyq1I4Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/Xpyq1I4Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/Xpyq1I4Q> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/Xpyq1I4Q> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/2SVRm5iU> .
 <https://id.parliament.uk/Xpyq1I4Q> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/TCfqRzie> .
@@ -262,6 +286,7 @@
 <https://id.parliament.uk/TCfqRzie> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/pzau2957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/pzau2957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/pzau2957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/pzau2957> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Public Lending Right Scheme 1982 (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/pzau2957> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/BUZCgabf> .
 <https://id.parliament.uk/pzau2957> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/LCHagFcG> .
@@ -272,6 +297,7 @@
 <https://id.parliament.uk/LCHagFcG> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/CSVKuT3Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/CSVKuT3Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/CSVKuT3Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/CSVKuT3Q> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Cat and Dog Fur (Control of Import, Export and Placing on the Market) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/CSVKuT3Q> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/TDY3xiFF> .
 <https://id.parliament.uk/CSVKuT3Q> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/osZF4kaJ> .
@@ -282,6 +308,7 @@
 <https://id.parliament.uk/osZF4kaJ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/mPyCVKAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/mPyCVKAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/mPyCVKAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/mPyCVKAK> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/mPyCVKAK> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/vQaydBSZ> .
 <https://id.parliament.uk/mPyCVKAK> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/hi05MjHb> .
@@ -292,6 +319,7 @@
 <https://id.parliament.uk/hi05MjHb> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/thnAcmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/thnAcmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/thnAcmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/thnAcmar> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Special Fissile Materials (Right of Use and Consumption) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/thnAcmar> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/rMIaNrzL> .
 <https://id.parliament.uk/thnAcmar> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/0u8jVZuM> .
@@ -302,6 +330,7 @@
 <https://id.parliament.uk/0u8jVZuM> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/u2CkM7KS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/u2CkM7KS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/u2CkM7KS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/u2CkM7KS> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/u2CkM7KS> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/ZW1w5nJA> .
 <https://id.parliament.uk/u2CkM7KS> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/7GuXrqj1> .
@@ -314,6 +343,7 @@
 <https://id.parliament.uk/7GuXrqj1> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/6XjAcXQO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/6XjAcXQO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/6XjAcXQO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/6XjAcXQO> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/6XjAcXQO> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/JEawehTM> .
 <https://id.parliament.uk/6XjAcXQO> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/Y38f5lYP> .
@@ -324,6 +354,7 @@
 <https://id.parliament.uk/Y38f5lYP> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/eIcl19m5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/eIcl19m5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/eIcl19m5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/eIcl19m5> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Merchant Shipping (Miscellaneous Provisions) (Amendments etc) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/eIcl19m5> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/fSnMQqcj> .
 <https://id.parliament.uk/eIcl19m5> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/cauCS1Nc> .
@@ -334,6 +365,7 @@
 <https://id.parliament.uk/cauCS1Nc> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/xPakvw9Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/xPakvw9Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/xPakvw9Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/xPakvw9Y> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Animal By-products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/xPakvw9Y> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/1LfvIEAA> .
 <https://id.parliament.uk/xPakvw9Y> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/ffzW3U2P> .
@@ -344,6 +376,7 @@
 <https://id.parliament.uk/ffzW3U2P> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/AHgBl2vF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/AHgBl2vF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/AHgBl2vF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/AHgBl2vF> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Zoonotic Disease Eradication and Control (Amendment) (England) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/AHgBl2vF> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/D7B5qT1l> .
 <https://id.parliament.uk/AHgBl2vF> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/2nZkIKC9> .
@@ -354,6 +387,7 @@
 <https://id.parliament.uk/2nZkIKC9> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/pCTXaGyQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/pCTXaGyQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/pCTXaGyQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/pCTXaGyQ> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Communication of Investments (Revocation) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/pCTXaGyQ> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/dTbVDvMN> .
 <https://id.parliament.uk/pCTXaGyQ> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/D2bddeAW> .
@@ -364,6 +398,7 @@
 <https://id.parliament.uk/D2bddeAW> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/VZk0VcJZ> .
 <https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/c1GvjPrn> .
@@ -374,6 +409,7 @@
 <https://id.parliament.uk/c1GvjPrn> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/XyrWfzSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/XyrWfzSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/XyrWfzSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/XyrWfzSG> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> " Export of Objects of Cultural Interest (Control) (Amendment etc) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/XyrWfzSG> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/ZlJxbWO6> .
 <https://id.parliament.uk/XyrWfzSG> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/tXYAcwXZ> .
@@ -384,6 +420,7 @@
 <https://id.parliament.uk/tXYAcwXZ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/eS3rrWn2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/eS3rrWn2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/eS3rrWn2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/eS3rrWn2> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Animal By-products and Transmissible Spongiform Encephalopathies (Amendment) (England) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/eS3rrWn2> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/MVVDmRQT> .
 <https://id.parliament.uk/eS3rrWn2> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/UOVC0luf> .
@@ -394,6 +431,7 @@
 <https://id.parliament.uk/UOVC0luf> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/6itOwgLT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/6itOwgLT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/6itOwgLT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/6itOwgLT> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/6itOwgLT> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/wPIBbvzv> .
 <https://id.parliament.uk/6itOwgLT> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/GQ1CGlLr> .
@@ -404,6 +442,7 @@
 <https://id.parliament.uk/GQ1CGlLr> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/c9tfxxSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/c9tfxxSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/c9tfxxSG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/c9tfxxSG> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Driving Licences (Amendments) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/c9tfxxSG> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/D259fbue> .
 <https://id.parliament.uk/c9tfxxSG> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/iNTV8jgu> .
@@ -414,6 +453,7 @@
 <https://id.parliament.uk/iNTV8jgu> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/XOLYsYbh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/XOLYsYbh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/XOLYsYbh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/XOLYsYbh> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/XOLYsYbh> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/PRK2wiMe> .
 <https://id.parliament.uk/XOLYsYbh> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/9sRFUgHI> .
@@ -424,6 +464,7 @@
 <https://id.parliament.uk/9sRFUgHI> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/EfjqJrpr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/EfjqJrpr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/EfjqJrpr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/EfjqJrpr> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Rail Passengers' Rights and Obligations (Amendment)(EU Exit) Regulations 2018" .
 <https://id.parliament.uk/EfjqJrpr> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/iZgMmYhp> .
 <https://id.parliament.uk/EfjqJrpr> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/sgMO7X2P> .
@@ -434,6 +475,7 @@
 <https://id.parliament.uk/sgMO7X2P> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/JZ7gvDu6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/JZ7gvDu6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/JZ7gvDu6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/JZ7gvDu6> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Consumer Protection (Enforcement) (Amendment etc) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/JZ7gvDu6> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/psX2kBQY> .
 <https://id.parliament.uk/JZ7gvDu6> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/e8dSzmks> .
@@ -444,6 +486,7 @@
 <https://id.parliament.uk/e8dSzmks> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/OqROoJsG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/OqROoJsG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/OqROoJsG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/OqROoJsG> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations" .
 <https://id.parliament.uk/OqROoJsG> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/no1sNxap> .
 <https://id.parliament.uk/OqROoJsG> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/3pWfoYuD> .
@@ -454,6 +497,7 @@
 <https://id.parliament.uk/3pWfoYuD> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/e93zn4Ry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/e93zn4Ry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/e93zn4Ry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/e93zn4Ry> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/e93zn4Ry> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/9JbSXMud> .
 <https://id.parliament.uk/e93zn4Ry> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/1dryUpwJ> .
@@ -464,6 +508,7 @@
 <https://id.parliament.uk/1dryUpwJ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
 <https://id.parliament.uk/sHOlA3ji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/sHOlA3ji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/sHOlA3ji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/sHOlA3ji> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Animal By-products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/sHOlA3ji> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/rRseXHtN> .
 <https://id.parliament.uk/sHOlA3ji> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/6hyVQuTp> .
