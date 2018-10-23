@@ -11,7 +11,7 @@ gem 'puma', require: false
 group :development do
   gem 'shotgun'
   gem 'macmillan-utils', '>= 1.0.40'
-  gem 'nokogiri', '>= 1.8.2'
+  gem 'nokogiri', '>= 1.8.5'
 end
 
 group :test do
