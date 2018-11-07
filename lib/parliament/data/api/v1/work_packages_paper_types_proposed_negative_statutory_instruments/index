@@ -5,6 +5,8 @@
 <https://id.parliament.uk/7xwjxL0R> <https://id.parliament.uk/schema/workPackageHasWorkPackagedThing> <https://id.parliament.uk/Tn1xqHc0> .
 <https://id.parliament.uk/jzHlJ1mb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
 <https://id.parliament.uk/jzHlJ1mb> <https://id.parliament.uk/schema/layingDate> "2018-07-19+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/iCdMN1MW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/iCdMN1MW> <https://id.parliament.uk/schema/procedureName> "Proposed negative statutory instrument" .
 <https://id.parliament.uk/wzsrSFQP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/wzsrSFQP> <https://id.parliament.uk/schema/workPackagedThingName> "Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/wzsrSFQP> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/wN2D7eGI> .
@@ -567,3 +569,13 @@
 <https://id.parliament.uk/seNtNYq3> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/MnxMBvke> .
 <https://id.parliament.uk/MnxMBvke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
 <https://id.parliament.uk/MnxMBvke> <https://id.parliament.uk/schema/layingDate> "2018-11-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zxkB2bjk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/zxkB2bjk> <https://id.parliament.uk/schema/workPackagedThingName> "Companies, Limited Liability Partnerships and Partnerships (Amendment etc) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/zxkB2bjk> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/lE96TOcp> .
+<https://id.parliament.uk/bCxOxdDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/bCxOxdDP> <https://id.parliament.uk/schema/workPackageHasWorkPackagedThing> <https://id.parliament.uk/zxkB2bjk> .
+<https://id.parliament.uk/lE96TOcp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/lE96TOcp> <https://id.parliament.uk/schema/layingDate> "2018-11-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/zxkB2bjk> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/JwOR2Dfi> .
+<https://id.parliament.uk/JwOR2Dfi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/JwOR2Dfi> <https://id.parliament.uk/schema/layingDate> "2018-11-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
