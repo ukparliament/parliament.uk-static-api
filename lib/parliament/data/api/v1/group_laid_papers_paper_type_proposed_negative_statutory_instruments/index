@@ -1,0 +1,31 @@
+<https://id.parliament.uk/NDZSYjeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/NDZSYjeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LayingBody> .
+<https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/groupName> "Home Office" .
+<https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/layingBodyHasLaying> <https://id.parliament.uk/4mREgKhH> .
+<https://id.parliament.uk/4mREgKhH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/4mREgKhH> <https://id.parliament.uk/schema/layingDate> "2018-07-25+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/W3l3iqIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
+<https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/laidThingName> "Flags (Northern Ireland) (Amendment) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/1EFvAn0z> .
+<https://id.parliament.uk/W3l3iqIJ> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/4mREgKhH> .
+<https://id.parliament.uk/1EFvAn0z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/1EFvAn0z> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
+<https://id.parliament.uk/iCdMN1MW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/iCdMN1MW> <https://id.parliament.uk/schema/procedureName> "Proposed negative statutory instrument" .
+<https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/layingBodyHasLaying> <https://id.parliament.uk/5ZiOryN5> .
+<https://id.parliament.uk/5ZiOryN5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/5ZiOryN5> <https://id.parliament.uk/schema/layingDate> "2018-10-01+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/SXtlN96I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
+<https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/laidThingName> "Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/c1GvjPrn> .
+<https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/5ZiOryN5> .
+<https://id.parliament.uk/c1GvjPrn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/c1GvjPrn> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iCdMN1MW> .
+<https://id.parliament.uk/NDZSYjeE> <https://id.parliament.uk/schema/layingBodyHasLaying> <https://id.parliament.uk/VZk0VcJZ> .
+<https://id.parliament.uk/VZk0VcJZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/VZk0VcJZ> <https://id.parliament.uk/schema/layingDate> "2018-10-01+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/SXtlN96I> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/VZk0VcJZ> .
