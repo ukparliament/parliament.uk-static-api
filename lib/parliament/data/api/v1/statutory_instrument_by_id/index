@@ -1,26 +1,41 @@
-<https://id.parliament.uk/xic2yu5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
-<https://id.parliament.uk/xic2yu5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
-<https://id.parliament.uk/xic2yu5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentPaperYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentPaperPrefix> "SI" .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentPaperNumber> "488"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations 2018" .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentPaperComingIntoForceDate> "2018-05-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <http://www.legislation.gov.uk/uksi/2018/488/made> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/c240s9cD> .
-<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/EgDK23iB> .
-<https://id.parliament.uk/EgDK23iB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
-<https://id.parliament.uk/EgDK23iB> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
-<https://id.parliament.uk/EgDK23iB> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/GNfpn4dE> .
-<https://id.parliament.uk/GNfpn4dE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
-<https://id.parliament.uk/GNfpn4dE> <https://id.parliament.uk/schema/businessItemDate> "2018-06-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/GNfpn4dE> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/g8B3R2Ou> .
+<https://id.parliament.uk/DGMmHxFe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrumentPaper> .
+<https://id.parliament.uk/DGMmHxFe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
+<https://id.parliament.uk/DGMmHxFe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperPrefix> "SI" .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperNumber> "1116"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018" .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperComingIntoForceDate> "2019-03-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperMadeDate> "2018-10-24+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <http://www.legislation.gov.uk/uksi/2018/1116/made> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/RfTIhCit> .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/Fz9FAH9L> .
+<https://id.parliament.uk/Fz9FAH9L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/Fz9FAH9L> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/Fz9FAH9L> <https://id.parliament.uk/schema/workPackageHasBusinessItem> <https://id.parliament.uk/bBxBWi8q> .
+<https://id.parliament.uk/bBxBWi8q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/bBxBWi8q> <https://id.parliament.uk/schema/businessItemDate> "2018-12-15+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bBxBWi8q> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/g8B3R2Ou> .
 <https://id.parliament.uk/g8B3R2Ou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
 <https://id.parliament.uk/g8B3R2Ou> <https://id.parliament.uk/schema/procedureStepName> "Objection period ends" .
-<https://id.parliament.uk/c240s9cD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
-<https://id.parliament.uk/c240s9cD> <https://id.parliament.uk/schema/layingDate> "2018-04-20+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/c240s9cD> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/XouN12Ow> .
+<https://id.parliament.uk/RfTIhCit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/RfTIhCit> <https://id.parliament.uk/schema/layingDate> "2018-11-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/RfTIhCit> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/7dSvuueH> .
+<https://id.parliament.uk/RfTIhCit> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/puVMaN7t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/puVMaN7t> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
 <https://id.parliament.uk/5S6p4YsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
 <https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureName> "Made negative" .
-<https://id.parliament.uk/XouN12Ow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
-<https://id.parliament.uk/XouN12Ow> <https://id.parliament.uk/schema/groupName> "Department for Transport" .
+<https://id.parliament.uk/7dSvuueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Group> .
+<https://id.parliament.uk/7dSvuueH> <https://id.parliament.uk/schema/groupName> "Department for Education" .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/Bi2fZUC5> .
+<https://id.parliament.uk/Bi2fZUC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/Bi2fZUC5> <https://id.parliament.uk/schema/layingDate> "2018-12-02+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Bi2fZUC5> <https://id.parliament.uk/schema/layingHasLayingBody> <https://id.parliament.uk/7dSvuueH> .
+<https://id.parliament.uk/Bi2fZUC5> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/cspzmb6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
